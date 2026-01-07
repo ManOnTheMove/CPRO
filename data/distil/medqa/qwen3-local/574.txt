@@ -1,0 +1,94 @@
+<think>
+Okay, let's try to figure out this question. So, the patient is a 4-year-old girl with developmental delay. Let me start by recalling the key points from the history.
+
+One year ago, she could ride a tricycle, stack 3 blocks, and speak in short sentences. Now, she's unable to feed herself and has started pointing instead of asking. The physical exam shows she's well-nourished, sitting in a stroller, wringing her hands. Vital signs are normal. The mother says her 7-year-old son is fine, no family history of mental retardation or cognitive disorders.
+
+So, the question is about the most likely diagnosis among the options given. Let's go through each option.
+
+First, let's think about the developmental regression. The child was previously developing normally but now has regression. That's a key point. Developmental regression can be seen in some genetic disorders.
+
+Looking at the options:
+
+A: Angelman syndrome. I remember that Angelman syndrome is associated with developmental delay, but also with a happy, excitable demeanor, ataxia, and seizures. However, the key features include severe intellectual disability, speech impairment (often no speech), and a characteristic facial appearance. Also, there's a history of seizures and ataxia. But the question mentions the child is wringing her hands, which might be a stereotypical movement. However, Angelman's is more about ataxia and seizures. Also, the mother says no family history, but Angelman is usually due to a deletion or mutation on chromosome 15, which is often de novo. So maybe possible, but let's check others.
+
+B: Rett syndrome. Rett syndrome is a neurodevelopmental disorder that almost exclusively affects girls. It typically presents between 6-18 months of age. The key features include loss of previously acquired skills (like speech and hand use), stereotypic hand movements (like wringing), and developmental regression. The child here is 4 years old, and the regression is recent. The fact that she's wringing her hands is a classic sign of Rett syndrome. Also, she's not speaking in sentences anymore, which fits. However, Rett syndrome usually has a normal early development, then regression. The patient's history says that a year ago she was able to ride a tricycle, stack blocks, and speak in short sentences. Now, she can't feed herself and points instead of asking. So this seems to fit. Also, Rett is not inherited, so the family history of no cognitive disorders makes sense. So B is a strong candidate.
+
+C: Beckwith-Wiedemann syndrome. This is a overgrowth syndrome, with features like macrosomia, macroglossia, organomegaly, and an increased risk of certain tumors. It's not typically associated with developmental delay, though some may have mild delays. The physical exam here doesn't mention overgrowth, so maybe not.
+
+D: Prader-Willi syndrome. This is characterized by hypotonia, feeding difficulties in infancy, then hyperphagia and obesity later. There's also developmental delay. However, Prader-Willi is often associated with a "happy" demeanor, and the child might have a small stature. However, the patient here is well-nourished, which might not fit with Prader-Willi's typical feeding issues. Also, the regression in skills might not be as prominent. Also, the hand-wringing isn't a typical feature. So maybe not.
+
+E: McCune-Albright syndrome. This is a disorder with café-au-lait spots, precocious puberty, and skeletal abnormalities. It can have variable developmental issues, but the key features here don't match. The physical exam doesn't mention skin spots or bone issues, so probably not.
+
+So, between A and B. Let's think again. Angelman's has the happy demeanor, but the question doesn't mention that. However, the hand-wringing is more characteristic of Rett. Also, Rett syndrome typically presents with loss of purposeful hand use and stereotypic movements. The fact that she's pointing instead of speaking could be due to loss of speech, which is common in Rett. Also, the regression is a key point here. Angelman syndrome usually has more severe intellectual disability from the start, but the child here had normal development before the regression. So Rett is more likely.
+
+Another point: the mother says no family history. Rett is usually due to mutations in the MECP2 gene, which is de novo in most cases. So that fits. Angelman is also usually de novo, but the presentation might differ.
+
+So the answer is B: Rett syndrome.
+</think>
+<answer>
+To determine the most likely diagnosis for the 4-year-old girl presenting with developmental delay, we must analyze the key clinical features and compare them with the characteristics of the listed conditions.
+
+---
+
+### **Clinical Presentation Summary:**
+
+- **Age**: 4 years
+- **Developmental History**:
+  - One year ago: Could ride a tricycle, stack 3 blocks, and speak in short sentences.
+  - Now: Unable to feed herself, uses pointing instead of asking.
+- **Physical Exam**:
+  - Well-nourished, sitting in a stroller, wringing hands.
+  - Normal vital signs.
+- **Family History**:
+  - No family history of mental retardation or cognitive disorders.
+  - 7-year-old son is doing well.
+
+---
+
+### **Evaluation of Options:**
+
+#### **A. Angelman Syndrome**
+- **Key Features**: Severe intellectual disability, ataxia, seizures, and a “happy” or excitable demeanor.
+- **Speech**: Often no speech or very limited.
+- **Motor Skills**: May include ataxia and tremors, but **not typically hand-wringing**.
+- **Onset**: Usually presents in early childhood, not typically with **regression** of previously acquired skills.
+- **Heritability**: Usually de novo (not inherited), which fits the family history.
+- **Conclusion**: While possible, the **absence of seizures, ataxia, and the specific hand-wringing behavior** make this less likely.
+
+#### **B. Rett Syndrome**
+- **Key Features**:
+  - **Almost exclusively affects girls**.
+  - **Developmental regression** (loss of previously acquired skills).
+  - **Stereotypic hand movements** (e.g., hand-wringing, clapping, or hand mouthing).
+  - **Loss of speech** and **purposeful hand use**.
+  - **Normal early development**, followed by regression.
+- **Onset**: Typically between 6–18 months, but can occur later.
+- **Heritability**: Usually due to **de novo mutations** (e.g., in the *MECP2* gene), which aligns with the lack of family history.
+- **Conclusion**: This **perfectly matches** the clinical picture: developmental regression, loss of speech, hand-wringing, and no family history of cognitive disorders.
+
+#### **C. Beckwith-Wiedemann Syndrome**
+- **Key Features**: Overgrowth, macroglossia, organomegaly, and increased risk of tumors.
+- **Developmental Delay**: May occur, but **not a primary feature**.
+- **Conclusion**: No signs of overgrowth or tumors, so this is unlikely.
+
+#### **D. Prader-Willi Syndrome**
+- **Key Features**: Hypotonia in infancy, feeding difficulties, later hyperphagia and obesity, developmental delay.
+- **Motor Skills**: Often hypotonic, not typically with hand-wringing.
+- **Physical Exam**: The child is **well-nourished**, which **contradicts** the typical weight issues in Prader-Willi.
+- **Conclusion**: Unlikely due to **lack of typical features** like hypotonia or feeding problems.
+
+#### **E. McCune-Albright Syndrome**
+- **Key Features**: Café-au-lait spots, precocious puberty, and skeletal abnormalities.
+- **Developmental Delay**: May occur, but **not a primary feature**.
+- **Conclusion**: No mention of skin spots or skeletal issues, so this is unlikely.
+
+---
+
+### **Conclusion:**
+
+The most consistent diagnosis with the clinical presentation is **Rett syndrome**, given the **developmental regression**, **loss of speech**, **hand-wringing**, and **absence of family history** of cognitive disorders. These features are **characteristic of Rett syndrome** and **not typically seen in the other options**.
+
+$$
+\boxed{B}
+$$
+</answer>

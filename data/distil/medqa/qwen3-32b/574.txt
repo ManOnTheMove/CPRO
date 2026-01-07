@@ -1,0 +1,81 @@
+<think>
+Okay, let's tackle this question. So, a 4-year-old girl with developmental delay. She used to be able to ride a tricycle, stack blocks, and speak in short sentences a year ago, but now she can't feed herself and is pointing instead of speaking. On exam, she's in a stroller, wringing her hands, well-nourished. Mom says the 7-year-old son is fine, no family history of mental issues.
+
+First, I need to consider the key features here. The child had a period of normal development, then regression. Regression in speech and motor skills is a red flag. The age is 4, which is important. The symptoms of hand wringing and pointing instead of speaking might be specific to certain syndromes.
+
+Looking at the options:
+
+A. Angelman syndrome – I remember this is associated with happy demeanor, ataxia, and speech impairment. But does it present with regression? Or is it more developmental delay from birth?
+
+B. Rett syndrome – This one comes to mind because it typically affects girls, with normal development for the first few years followed by regression. Classic features include loss of purposeful hand skills (like hand wringing), deceleration of head growth, and autistic-like behaviors. The age here is 4, which fits because Rett usually starts between 1-4 years. Also, the mother mentions no family history, which makes sense since Rett is usually due to a MECP2 mutation, often sporadic.
+
+C. Beckwith-Wiedemann – This is more about overgrowth, macroglossia, omphalocele, and an increased risk of certain tumors. Doesn't fit the regression here.
+
+D. Prader-Willi – Characterized by hypotonia in infancy, feeding difficulties, then hyperphagia later leading to obesity. Also, developmental delay, but maybe not the regression described here. The child here is well-nourished, but maybe that's not specific.
+
+E. McCune-Albright – Features include precocious puberty, café-au-lait spots, and bone abnormalities. Not really matching the regression and hand movements.
+
+So focusing on B and A. Angelman vs Rett. Angelman usually has severe speech impairment but maybe doesn't have the same regression pattern. Rett syndrome is specifically known for the regression after a period of normal development. Also, the hand wringing is a classic sign of Rett. The fact that the patient is a girl is important because Rett is X-linked dominant and mostly affects females (males usually don't survive with the mutation). Angelman can also present with developmental delay but often with a more happy, excitable demeanor. The question doesn't mention that, but the regression is more key here.
+
+The mother says the 7-year-old brother is fine, which is consistent with a sporadic mutation in the girl, which is common in Rett. So the most likely diagnosis is B: Rett syndrome.
+</think>
+<answer>
+### Case Summary
+
+The 4-year-old girl in this case presents with **regression** in developmental milestones, including loss of speech and motor skills (e.g., feeding, stacking blocks). She is currently exhibiting **hand wringing**, and her mother reports **no family history** of developmental disorders. These features are highly suggestive of a **neurodevelopmental disorder** with a **distinct pattern of regression** after a period of normal development.
+
+---
+
+### Key Clinical Features
+
+- **Onset of symptoms at 3 years of age** (i.e., after a year of normal development)
+- **Regression in speech and motor skills**
+- **Hand wringing** (a stereotypical motor behavior)
+- **No family history of mental retardation or developmental disorders**
+- **Well-nourished**, suggesting no metabolic or feeding-related disorder
+
+---
+
+### Differential Diagnosis
+
+Let's evaluate the options:
+
+#### **A. Angelman syndrome**
+- Characterized by **severe speech impairment**, **ataxia**, and a **happy demeanor** (frequent laughter).
+- **Developmental delay is typically present from birth**, not a regression.
+- Not the best fit for this case.
+
+#### **B. Rett syndrome**
+- **Classic presentation** includes:
+  - **Normal development for the first 6–18 months**
+  - **Regression** in language and motor skills (loss of purposeful hand use)
+  - **Stereotypic hand movements** (e.g., wringing, clapping)
+  - **Autistic-like features** and **decerebrate posturing**
+  - **X-linked dominant** with **sporadic mutations**, so **no family history** is expected in most cases.
+- This **closely matches** the clinical presentation of the patient.
+
+#### **C. Beckwith-Wiedemann syndrome**
+- Features include **overgrowth**, **macroglossia**, **omphalocele**, and **neoplasia risk**.
+- Not associated with **regression** or **hand wringing**.
+- **Not consistent** with this case.
+
+#### **D. Prader-Willi syndrome**
+- Presents with **infantile hypotonia**, **feeding difficulties**, and later **hyperphagia** and **obesity**.
+- **Developmental delay** is present but not typically **regressive**.
+- The child here is **well nourished**, which is inconsistent with early feeding issues seen in this syndrome.
+
+#### **E. McCune-Albright syndrome**
+- Features include **precocious puberty**, **bone abnormalities**, and **café-au-lait spots**.
+- No **neurodevelopmental regression** or **hand stereotypies** are associated with it.
+- **Does not fit** the clinical picture.
+
+---
+
+### Conclusion
+
+Given the **age of onset**, **pattern of regression**, **hand stereotypies**, and **lack of family history**, the **most likely diagnosis** is:
+
+$$
+\boxed{B}
+$$
+</answer>

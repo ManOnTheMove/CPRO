@@ -1,0 +1,95 @@
+<think>
+Okay, let's try to work through this question. So, the patient is a 15-month-old girl with a history of bloody diarrhea for 2 days and some blood-tinged stools over the past 3 weeks. No pain, nausea, or vomiting. She's at 55th percentile for height and weight, so growth seems normal. On exam, there's conjunctival pallor, which suggests anemia. The abdomen is soft and nontender, and there's dark red blood in the diaper. Lab results show hemoglobin of 9.5 g/dL, which is low (normal for kids is higher, maybe around 11-13?), so anemia. Mean corpuscular volume (MCV) is 68, which is low—microcytic anemia. Platelets are normal at 300k.
+
+So, the main issues here are chronic blood loss leading to iron deficiency anemia (microcytic) and the cause of the bloody stools. The question is asking what further evaluation would most likely show. The options are various findings from different tests.
+
+First, let's think about the differential for chronic blood loss in a child with bloody stools. Common causes in children include infections (like bacterial colitis), inflammatory bowel disease (IBD), but given the age, maybe more likely something else. Also, there's a condition called intussusception, but that's usually with acute onset, and the abdomen might be tender or distended. But here, the abdomen is soft and nontender. Another possibility is a Meckel's diverticulum, which can cause painless gastrointestinal bleeding, especially in young children. The blood is often dark red, and it can be intermittent. The mother mentioned episodes over weeks, so maybe a slow bleed.
+
+The anemia is microcytic, which is classic for iron deficiency, which would make sense with chronic blood loss. Now, looking at the options:
+
+A: Cobblestone mucosa on colonoscopy. Cobblestone appearance is typical of Crohn's disease, which is part of IBD. But IBD is less common in such a young child, though not impossible. Also, if there was IBD, there might be other symptoms like weight loss, but here the child is at 55th percentile. Also, IBD would likely have other inflammatory findings, maybe elevated ESR or CRP, but not mentioned here.
+
+B: Neutrophil infiltrated crypts on colonic biopsy. That sounds like acute inflammation, maybe infectious colitis. But the presentation is more chronic with episodes over 3 weeks. Also, the absence of fever or white blood cells in the stool isn't mentioned. But again, maybe a chronic infection? Not sure.
+
+C: Absent ganglionic cells on rectal suction biopsy. That's Hirschsprung's disease. Hirschsprung's usually presents with constipation, failure to pass meconium in newborns, or chronic constipation. However, bloody diarrhea isn't typical. Also, if there was an aganglionic segment, you might have a different presentation. Maybe enterocolitis in Hirschsprung's can cause bleeding, but that's usually more acute and with other signs like abdominal distension and systemic toxicity. The child here has no abdominal tenderness. Not sure if this is the most likely.
+
+D: Target sign on abdominal ultrasound. Target sign is for intussusception, where you see a "bull's eye" or target appearance on ultrasound. But intussusception usually presents with acute onset, colicky pain, vomiting, and currant jelly stools. However, the child here has had symptoms over weeks. Intussusception is more acute, so maybe not this case.
+
+E: Ectopic gastric mucosa on Technetium-99m pertechnetate scan. That's for Meckel's diverticulum. Meckel's is the most common congenital anomaly of the GI tract. It can have ectopic tissue, usually gastric mucosa, which can cause painless bleeding. The classic presentation is painless rectal bleeding in a child under 2 years old. The blood is often bright red, but in this case, it's dark red, which might be from a more proximal bleed. But Meckel's is usually in the ileum, so maybe the blood has had time to become darker. Also, the chronic blood loss leading to iron deficiency anemia fits. The Technetium scan can detect the gastric mucosa because it takes up the isotope. So this seems like a strong possibility.
+
+Putting it all together: The child has chronic blood loss leading to microcytic anemia. The most likely cause in a young child with intermittent blood in stools and no other symptoms is Meckel's diverticulum. So the correct answer would be E. The other options are for different conditions. For example, cobblestone is Crohn's, neutrophils suggest infection or inflammation, absent ganglionic cells is Hirschsprung's, target sign is intussusception. Since the labs point towards iron deficiency anemia from chronic loss, and Meckel's is a common cause in this age group, E is the most likely correct answer.
+</think>
+<answer>
+### Case Summary
+
+We are presented with a **15-month-old girl** with **chronic, intermittent blood-tinged stools** over the past **3 weeks**, and now **grossly bloody diarrhea for 2 days**. She has **no pain, nausea, or vomiting**, and **no abdominal tenderness**. She shows **conjunctival pallor** and a **hemoglobin of 9.5 g/dL**, with a **low MCV of 68 μm³**, indicating **microcytic anemia**, most consistent with **iron deficiency**. Her **platelet count is normal**, and her **growth is within normal limits** (55th percentile for height and weight).
+
+---
+
+### Differential Diagnosis
+
+The key issue is identifying the **source of chronic gastrointestinal (GI) blood loss** in a young child. The most common causes of **painless, intermittent GI bleeding** in this age group include:
+
+- **Meckel’s diverticulum**
+- **Infectious colitis**
+- **Inflammatory bowel disease (IBD)**
+- **Hirschsprung’s disease**
+- **Intussusception**
+
+Let’s examine each in light of the clinical and laboratory findings.
+
+---
+
+### Analysis of Options
+
+**A. Cobblestone mucosa on colonoscopy**  
+- Cobblestoning is **characteristic of Crohn’s disease**, a type of IBD.  
+- While IBD can present in young children, it is **rare before age 2** and is usually associated with **other systemic symptoms**, such as **weight loss, fatigue, or fever**.  
+- This child’s **normal growth and lack of systemic symptoms** make IBD **less likely**.  
+✅ **Unlikely**
+
+---
+
+**B. Neutrophil infiltrated crypts on colonic biopsy**  
+- This is seen in **acute or chronic bacterial colitis** (e.g., *Salmonella*, *Shigella*, *Campylobacter*).  
+- However, **chronic bacterial colitis** is **uncommon** in toddlers and usually presents with **diarrhea, fever, or abdominal pain**, which are **not features** in this case.  
+✅ **Unlikely**
+
+---
+
+**C. Absent ganglionic cells on rectal suction biopsy**  
+- This is diagnostic for **Hirschsprung’s disease**, a **congenital absence of ganglion cells** in the colon.  
+- Hirschsprung’s typically presents in **infants** with **constipation**, **failure to pass meconium**, or **enterocolitis** (with fever, distension, and systemic toxicity).  
+- This patient has **no constipation or signs of enterocolitis**, and **bloody stools are atypical** in Hirschsprung’s.  
+✅ **Unlikely**
+
+---
+
+**D. Target sign on abdominal ultrasound**  
+- The **target sign** is characteristic of **intussusception**, a **telescoping of one bowel segment into another**, usually due to a **lead point**.  
+- Intussusception typically presents **acutely** with **colicky pain**, **vomiting**, and **currant jelly stools**.  
+- The **chronicity** and **absence of acute symptoms** in this case make intussusception **unlikely**.  
+✅ **Unlikely**
+
+---
+
+**E. Ectopic gastric mucosa on Technetium-99m pertechnetate scan**  
+- This is the **hallmark finding in Meckel’s diverticulum**, the most common **congenital anomaly of the GI tract** in children.  
+- Meckel’s can contain **ectopic gastric mucosa**, which **secretes acid**, leading to **ulceration and bleeding**—often **painless** and **intermittent**, as in this case.  
+- It is a **common cause of painless GI bleeding** in children under **2 years old**, especially with **chronic blood loss leading to iron deficiency anemia**, which aligns with the clinical picture.  
+✅ **Most likely**
+
+---
+
+### Conclusion
+
+Given the **age of the patient**, **chronic blood loss**, **microcytic anemia**, and **lack of other systemic or acute findings**, the **most likely diagnosis is Meckel’s diverticulum**. The **Technetium-99m pertechnetate scan** is the **most appropriate next step** to evaluate for this condition.
+
+---
+
+### Final Answer
+
+$$
+\boxed{E}
+$$
+</answer>

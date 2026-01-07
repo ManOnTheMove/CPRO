@@ -1,0 +1,48 @@
+<think>
+Okay, let's tackle this question. The patient is a 22-year-old man with symptoms of anxiety related to flying. He had a traumatic experience when his parents died in a plane crash, and now he's developed a fear of flying, leading to panic-like symptoms when he tried to board a plane. He's avoiding flights now, which is affecting his job. The physical exam and mental status are normal except for his anxiety symptoms.
+
+First, I need to figure out the diagnosis. His symptoms sound like a specific phobia, particularly aerophobia (fear of flying), which is a type of specific phobia. Given his history of trauma related to planes, this is likely a phobia triggered by the traumatic event. The question is about the next step in management. The options are medications (paroxetine, alprazolam, propranolol) or cognitive behavioral therapy (CBT) and observation.
+
+Now, the management of specific phobias usually starts with psychotherapy, particularly CBT, which is considered first-line. Medications like SSRIs (e.g., paroxetine) or benzodiazepines (alprazolam) might be used for anxiety, but they are not typically first-line for specific phobias unless there's comorbid anxiety disorder. Propranolol is a beta-blocker sometimes used for performance anxiety or to manage physical symptoms of anxiety, but again, not the primary treatment for phobias.
+
+Since the patient's main issue is a specific phobia related to flying, the best approach would be cognitive behavioral therapy. CBT can help him address the underlying fears, use exposure techniques, and modify his thought patterns. The other options are either medications that don't address the root cause or are not first-line. Observation (D) isn't appropriate because his symptoms are significant enough to interfere with his job, so active treatment is needed.
+
+Therefore, the answer should be E: Cognitive behavioral therapy.
+</think>
+<answer>
+The patient presents with a clear pattern of anxiety symptoms specifically related to air travel, which is directly linked to a prior traumatic experience of losing his parents in a plane crash. His symptoms—nausea, palpitations, sweating, and shortness of breath—when attempting to board a plane are consistent with a specific phobia, specifically *aerophobia*, or a fear of flying. This diagnosis is further supported by his avoidance behavior (calling in sick to avoid flying) and the resulting functional impairment (risk of job loss).
+
+---
+
+### Key Diagnostic Features:
+
+- **Onset following trauma**: The fear of flying began after witnessing or experiencing a traumatic event (parents' plane crash).
+- **Avoidance behavior**: The patient has actively avoided air travel.
+- **Significant distress and impairment**: His symptoms are interfering with his job and causing emotional distress.
+- **Normal physical and mental status exam**: This rules out a medical or psychiatric condition like panic disorder or generalized anxiety disorder as the primary diagnosis.
+
+---
+
+### Treatment Considerations:
+
+In the management of specific phobias, the **first-line treatment is cognitive behavioral therapy (CBT)**. CBT, particularly exposure-based therapy, is highly effective for phobias and addresses the underlying cognitive distortions and avoidance patterns. It can be tailored to include virtual or real-life exposure to flying, helping the patient gradually desensitize to the feared stimulus.
+
+---
+
+### Why the Other Options Are Less Appropriate:
+
+- **Oral paroxetine (A)**: An SSRI, used for generalized anxiety and panic disorders, but not typically first-line for specific phobias.
+- **Oral alprazolam (B)**: A benzodiazepine used for acute anxiety or panic attacks, but it does not treat the root cause of the phobia and has potential for dependence.
+- **Oral propranolol (C)**: A beta-blocker used to manage physical symptoms of anxiety (e.g., palpitations), but it does not address the psychological component of the phobia.
+- **Observation (D)**: Inappropriate given the level of functional impairment and distress; active treatment is needed.
+
+---
+
+### Conclusion:
+
+Given the clear diagnosis of a specific phobia related to flying and the patient's functional impairment, the most appropriate next step in management is **cognitive behavioral therapy**.
+
+$$
+\boxed{E}
+$$
+</answer>

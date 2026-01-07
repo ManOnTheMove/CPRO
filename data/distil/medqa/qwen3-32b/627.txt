@@ -1,0 +1,66 @@
+<think>
+Okay, let's tackle this question step by step. The patient is a 20-year-old woman who had unprotected sex and wants to avoid pregnancy. She's been prescribed levonorgestrel, an emergency contraceptive. The question asks about the primary mechanism of action.
+
+First, I remember that emergency contraceptives work mainly by preventing ovulation. The key here is that the medication is given after unprotected sex. Levonorgestrel is a progestin, right? So, progestins can inhibit ovulation by suppressing the luteinizing hormone (LH) surge, which is necessary for ovulation. If ovulation doesn't occur, there's no egg to fertilize. That points towards option A: Delayed ovulation through inhibition of follicular development.
+
+But wait, let me check the other options. Option B is thickening cervical mucus, which makes it harder for sperm to enter the uterus. But that's more of a mechanism for regular contraceptive pills or IUDs? Or maybe the emergency pill also does that? But I think the primary action is on ovulation. Also, the timing here is within 24 hours, so the main effect would be on preventing ovulation before it happens. If ovulation has already occurred, then other mechanisms might be more relevant, but the primary is ovulation suppression.
+
+Option C is endometrial atrophy. The endometrium needs to be receptive for implantation. If it's atrophied, maybe the fertilized egg can't implant. But again, if the emergency contraceptive is taken early enough, the main effect is on ovulation. If ovulation is prevented, implantation wouldn't be an issue. So maybe that's a secondary effect.
+
+Option D: Mucosal hypertrophy and polyps in the cervix. I don't recall that being a mechanism of levonorgestrel. Maybe that's a side effect of something else?
+
+Option E: Reduction in ciliary motility in fallopian tubes. That could affect the movement of the egg or sperm, but I think that's not the primary mechanism here. The main action is on ovulation.
+
+So the primary mechanism is A. The answer should be A.
+</think>
+<answer>
+### Clinical Scenario
+A 20-year-old woman presents to a physician after unprotected coitus and is prescribed an emergency contraceptive pill containing **1.5 mg of levonorgestrel**. She has a history of **major depression** and **cannot take estrogen-containing pills**. The question asks for the **primary mechanism of action** of levonorgestrel in this context.
+
+---
+
+### Understanding Levonorgestrel as an Emergency Contraceptive
+
+Levonorgestrel is a **synthetic progestin** and is the most commonly used form of **emergency contraception** (EC). It is effective when taken **within 72 hours** of unprotected intercourse, though the sooner it is taken, the more effective it is.
+
+The primary goal of emergency contraception is to **prevent pregnancy** after a single act of unprotected sex. It is important to distinguish between **contraception** (preventing pregnancy) and **abortion** (terminating an existing pregnancy), as EC does **not** cause abortion.
+
+---
+
+### Mechanisms of Action
+
+Levonorgestrel exerts its effects through several **hormonal mechanisms**, but the **primary mechanism** is:
+
+- **Inhibition of ovulation** by suppressing the **luteinizing hormone (LH) surge**, which is essential for the release of the mature egg from the ovary.
+
+This is particularly important in the context of **emergency contraception**, where the timing of the dose is **after intercourse but before ovulation**. If ovulation has not yet occurred, levonorgestrel **delays or prevents it**, thereby preventing fertilization.
+
+---
+
+### Evaluation of Options
+
+Let's assess the answer choices:
+
+- **A: Delayed ovulation through inhibition of follicular development**  
+  ✅ **Correct.** This is the **primary mechanism** of levonorgestrel in emergency contraception. It acts mainly by **inhibiting or delaying ovulation**, especially when taken early after intercourse.
+
+- **B: Thickening of cervical mucus**  
+  ⛔ This is a **secondary effect** of progestins and is more relevant in **regular contraceptive pills**, not the primary mechanism in emergency contraception.
+
+- **C: Atrophy of endometrium**  
+  ⛔ While levonorgestrel may cause some **endometrial changes**, this is **not the primary mechanism** and is more relevant if **fertilization has already occurred**. It may prevent implantation, but that is not the main action in EC.
+
+- **D: Mucosal hypertrophy and polyp formation in cervix**  
+  ⛔ This is **not a known mechanism** of levonorgestrel and is more associated with **long-term estrogen exposure** or **inflammation**, not a contraceptive mechanism.
+
+- **E: Reduction in motility of cilia in fallopian tubes**  
+  ⛔ There is **no evidence** that levonorgestrel significantly affects **ciliary motility** in the fallopian tubes.
+
+---
+
+### Final Answer
+
+$$
+\boxed{A}
+$$
+</answer>

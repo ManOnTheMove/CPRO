@@ -1,0 +1,60 @@
+<think>
+Okay, let's try to figure this out. The question is about a genetic phenomenon related to the daughter having a worse disease than her father. The father had a condition with CAG repeats on chromosome 4, which sounds like Huntington's disease. Huntington's is caused by an expanded CAG trinucleotide repeat in the HTT gene on chromosome 4.
+
+The daughter has double the number of CAG repeats. The geneticist says she might have earlier onset and more severe disease. So, what's the term for when the number of repeats increases in successive generations, leading to earlier onset and more severity?
+
+Let me go through the options. 
+
+A: Variable expression. That's when the same genotype leads to different phenotypes. But here, the daughter's condition is more severe, not just variable. Not sure yet.
+
+B: Incomplete penetrance. That's when not everyone with the mutation shows the disease. But both father and daughter have the mutation and the disease, so this might not fit.
+
+C: Pleiotropy. That's when one gene affects multiple traits. Huntington's does have multiple symptoms (chorea, cognitive decline), but the question is about the worsening between generations, not multiple effects. So probably not C.
+
+D: Anticipation. I remember this term from genetics. It's when a genetic disorder appears at an earlier age and is more severe in successive generations. This is often due to trinucleotide repeat expansions. For example, in Huntington's disease, if the repeats increase in the germline, each generation has more repeats, leading to earlier and more severe symptoms. This seems to fit the scenario described here. The daughter has double the repeats, so the disease is more severe and earlier onset. That matches anticipation.
+
+E: Heteroplasmy. That's related to mitochondrial DNA, where a mix of normal and mutated mtDNA exists. But this case is about a nuclear gene (chromosome 4), so E is probably not correct.
+
+So the answer is D: Anticipation.
+</think>
+<answer>
+### Case Summary
+
+A 25-year-old woman visits a geneticist due to concerns about inheriting her father's illness. Her father was diagnosed at age 41 with a progressive neurological condition involving **chorea**, **coordination problems**, and **cognitive decline**. He was diagnosed with a **CAG repeat expansion** on **chromosome 4**, which is a hallmark of **Huntington's disease**. The daughter was found to have **double the number of CAG repeats** and was warned of **earlier onset** and **increased severity** of the disease.
+
+---
+
+### Genetic Concept Involved
+
+The key observation here is that the **daughter's disease is more severe and has an earlier age of onset** compared to her father, despite both having the same disease. This is a classic scenario in **trinucleotide repeat disorders**, where the number of **CAG repeats can expand across generations**, particularly in the **germline** (sperm or egg cells).
+
+This phenomenon is known as **anticipation**, and it is characterized by:
+
+- **Earlier age of onset** in successive generations
+- **Increased severity** of the disease
+- Often linked to **expanding repeat sequences** in genes such as *HTT* in Huntington's disease
+
+The expansion of CAG repeats is **unstable** during DNA replication, especially when the number is already large. This instability leads to **greater expansion in offspring**, particularly when the mutation is inherited from the **father** (in the case of Huntington’s disease).
+
+---
+
+### Evaluation of Answer Choices
+
+- **A. Variable expression** – Refers to differences in the phenotype among individuals with the same genotype. This is not the case here, as the daughter has a **more severe** condition due to **more repeats**, not just variation.
+
+- **B. Incomplete penetrance** – Describes when not all individuals with a mutation express the disease. Both the father and daughter are affected, so this does not apply.
+
+- **C. Pleiotropy** – Occurs when one gene influences multiple traits. While Huntington’s does have multiple symptoms, the question focuses on **intergenerational differences**, not multiple effects of one gene.
+
+- **D. Anticipation** – **Correct.** This describes the **increasing severity and earlier age of onset** in successive generations, due to **expanding trinucleotide repeats**.
+
+- **E. Heteroplasmy** – Refers to **multiple mitochondrial DNA variants** in a single cell, which is not relevant here since the mutation is on **chromosome 4** (nuclear DNA).
+
+---
+
+### Final Answer
+
+$$
+\boxed{D}
+$$
+</answer>

@@ -1,0 +1,52 @@
+<think>
+Okay, let's see. The question is about calculating the CHADS2 score for a 73-year-old woman with atrial fibrillation. The CHADS2 score is used to assess the risk of stroke in patients with AFib, right? So I need to remember what each component of the score stands for.
+
+CHADS2 stands for Congestive heart failure, Hypertension, Age ≥75 years, Diabetes, and Stroke or TIA. Each of these factors adds a certain number of points. Let me recall the points:
+
+- Congestive heart failure (C): 1 point
+- Hypertension (H): 1 point
+- Age ≥75 (A): 1 point
+- Diabetes (D): 1 point
+- Stroke or TIA (S): 2 points
+
+Wait, but the scoring might be different. Let me make sure. Oh right, the CHADS2 score is calculated as follows:
+
+- Congestive heart failure or left ventricular systolic dysfunction: 1 point
+- Hypertension: 1 point
+- Age ≥75 years: 1 point
+- Diabetes mellitus: 1 point
+- Prior stroke or TIA: 2 points
+
+So each of the first four factors gives 1 point, and the prior stroke or TIA gives 2 points. Now, let's look at the patient's history.
+
+The patient has a PMH (past medical history) of high blood pressure (hypertension), diabetes mellitus type II, osteoporosis, and depression. She has never had a stroke or TIA. She's 73 years old. So age is 73, which is less than 75, so that's not a point. Wait, no, the age is 73, so she's not over 75. So age ≥75 is not met. So that's 0 points for that.
+
+Hypertension: yes, she has high blood pressure. So that's 1 point.
+
+Diabetes: yes, type II. Another 1 point.
+
+Congestive heart failure? The question says her PMH is significant for high blood pressure, diabetes, osteoporosis, depression. It doesn't mention heart failure. The physical exam says irregular heart rate, but no mention of heart failure symptoms. So maybe no points for that. So that's 0.
+
+Prior stroke or TIA: she has never had one. So 0 points.
+
+So adding up: hypertension (1) + diabetes (1) = 2 points. So the CHADS2 score would be 2. So the answer would be B: 2.
+
+Wait, but wait, what about her age? She's 73, which is under 75. So no point there. So total is 2. So answer B. Let me check again.
+
+Another thing: the question says she has atrial fibrillation, which is the reason for considering anticoagulation. The CHADS2 score is used to determine if she needs anticoagulation. So the components are as above. So yes, the points are 1 for hypertension, 1 for diabetes, and no others. So total of 2. So the answer is B.
+</think>
+<answer>
+To determine the CHADS2 score for a 73-year-old woman with atrial fibrillation, we need to evaluate each component of the score:
+
+- **Congestive heart failure (C):** Not mentioned in the patient's history. **0 points.**
+- **Hypertension (H):** Present (high blood pressure). **1 point.**
+- **Age ≥75 years (A):** The patient is 73 years old. **0 points.**
+- **Diabetes mellitus (D):** Present (type II diabetes). **1 point.**
+- **Stroke or TIA (S):** Not present (never had a stroke or TIA). **0 points.**
+
+**Total CHADS2 score = 1 (hypertension) + 1 (diabetes) = 2.**
+
+$$
+\boxed{B}
+$$
+</answer>

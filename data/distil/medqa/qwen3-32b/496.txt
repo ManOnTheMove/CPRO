@@ -1,0 +1,56 @@
+<think>
+Okay, let's tackle this question. So, the patient is a 13-month-old boy with failure to thrive and mental impairment. The parents are healthy but had a child who died at 14 months. The retinal findings are mentioned, but since I can't see the picture, I need to rely on other clues.
+
+First, failure to thrive and mental impairment in infants can be due to various genetic or metabolic disorders. The fact that they had a previous child with a similar issue suggests a possible genetic component. Let's look at the options.
+
+Option A: Structural protein mutation. These can cause various issues, like in some muscular dystrophies or other structural problems. But I'm not sure if it's the most likely here.
+
+Option B: Genomic imprinting. These are cases where certain genes are expressed based on parental origin. Disorders like Prader-Willi or Angelman syndrome come to mind. However, those usually have specific features. But the question mentions both parents are healthy. If it's imprinting, maybe a deletion or uniparental disomy. But the previous child's death at 14 months might suggest an autosomal recessive condition if both parents are carriers. Wait, genomic imprinting is usually not recessive. So maybe not B.
+
+Option C: Lysosomal enzyme mutation. That points to lysosomal storage diseases. These often present with failure to thrive, developmental delay, and can have retinal involvement. For example, Tay-Sachs disease is a classic one. It affects the nervous system and has a cherry-red spot in the retina. The cherry-red spot is a classic sign of Tay-Sachs. The child's age (13 months) fits with Tay-Sachs, which typically presents around 3-6 months with regression and then progressive neurological deterioration. The previous child's death at 14 months is very similar, which is common for Tay-Sachs if untreated. Since Tay-Sachs is an autosomal recessive disorder, both parents would be carriers (healthy), which matches the parents' status. So C seems plausible.
+
+Option D: Robertsonian translocation. This is a type of chromosomal abnormality where two acrocentric chromosomes fuse. If a parent is a carrier, they can have children with trisomies, like Down syndrome. But if the previous child and this child have the same issue, maybe a translocation. However, translocations are structural, and if the parents are balanced carriers, they can have affected kids. But would this cause failure to thrive, mental impairment, and retinal issues? Maybe, but I'm not sure if the retinal findings point more to a lysosomal issue. Also, the age of onset and the fact that it's autosomal recessive (if the translocation isn't balanced) might not fit. But I'm less certain about this option compared to C.
+
+Option E: Mitochondrial gene mutation. These are inherited maternally. If the mother had a mutation, both children would be affected. But the parents are healthy. However, the father's mitochondria aren't passed on. But if the mother is a carrier of a mitochondrial mutation, she could pass it on. But mitochondrial diseases can present with failure to thrive, developmental delay, and multi-system issues. However, retinal findings vary. Leber's hereditary optic neuropathy is a mitochondrial issue but presents with optic atrophy. But the question mentions the parents are healthy. If it's a new mutation, possible, but since they had two affected children, it's more likely the mother is a carrier. However, the previous child's death at 14 months might fit with a mitochondrial disease. But again, the retinal findings might be more specific for a lysosomal storage disease like Tay-Sachs. So maybe C is better.
+
+Putting it all together: The key points are failure to thrive, mental impairment, retinal findings (likely cherry-red spot), parents are healthy but carriers (since previous child also had it), and autosomal recessive inheritance. Lysosomal enzyme mutation (C) for Tay-Sachs fits all these. So the answer is C.
+</think>
+<answer>
+### Clinical Context
+
+The case presents a 13-month-old male with **failure to thrive**, **mental impairment**, and **retinal abnormalities**, with a family history of a similarly affected sibling who died at 14 months. The parents are described as **healthy**, which is a strong indicator of an **autosomal recessive** condition, where both parents are **asymptomatic carriers**.
+
+---
+
+### Key Features Supporting a Diagnosis
+
+- **Failure to thrive and developmental delay** are common in early-onset **lysosomal storage disorders**.
+- **Retinal involvement** is a hallmark of **Tay-Sachs disease**, a classic **lysosomal enzyme deficiency** (hexosaminidase A deficiency).
+- **Cherry-red spot** in the macula is a **classic ophthalmoscopic finding** in Tay-Sachs.
+- The **age of onset and progression** (death at 14 months) aligns with **classic Tay-Sachs**, which typically presents in early infancy and leads to rapid neurological deterioration.
+- The **autosomal recessive pattern** fits the scenario where **both parents are healthy carriers**, and the child has a 25% chance of inheriting two defective alleles.
+
+---
+
+### Evaluation of Options
+
+- **A: Structural protein mutation** – While this can cause diseases like muscular dystrophy, it does not typically explain retinal findings or the specific clinical course seen here.
+  
+- **B: Genomic imprinting** – These conditions (e.g., Prader-Willi, Angelman) are usually due to **uniparental disomy** or **deletions**, and often have more specific features (e.g., microdeletion syndromes), not retinal abnormalities or the autosomal recessive inheritance pattern.
+
+- **C: Lysosomal enzyme mutation** – This is the **most consistent** with the clinical picture. **Tay-Sachs disease**, an autosomal recessive lysosomal storage disorder, fits all the clinical clues: developmental delay, retinal findings, and a fatal course by 14–15 months of age.
+
+- **D: Robertsonian translocation** – This is a structural chromosomal abnormality. While it could explain multiple affected children, it would more likely present with **chromosomal syndromes** (e.g., Down syndrome), not with retinal and neurodegenerative features.
+
+- **E: Mitochondrial gene mutation** – These are inherited **maternally**, and typically present with **multi-system involvement** (e.g., encephalopathy, myopathy, optic atrophy). While possible, the **retinal findings and autosomal recessive pattern** are more indicative of a **lysosomal enzyme deficiency**.
+
+---
+
+### Conclusion
+
+Given the **clinical presentation**, **family history**, and **retinal findings**, the most likely diagnosis is **Tay-Sachs disease**, which is caused by a **lysosomal enzyme mutation**.
+
+$$
+\boxed{C}
+$$
+</answer>

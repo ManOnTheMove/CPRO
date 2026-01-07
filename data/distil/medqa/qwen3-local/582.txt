@@ -1,0 +1,63 @@
+<think>
+Okay, let's try to figure out this question. So, the patient is a 5-year-old boy with a few specific findings. Let me go through the details again.
+
+First, his birth weight was in the 99th percentile, which is very high. Then, he had unexplained hypoglycemia in the first week of life. Now, his height and weight are both in the 99th percentile, so he's really tall and heavy for his age. On physical exam, he has an enlarged tongue (macroglossia) and no other dysmorphic features. The question mentions figures A and B, but since I can't see them, I'll have to rely on the text description.
+
+The key points here are the high birth weight, hypoglycemia at birth, macrosomia (since he's in the 99th percentile for weight and height), and macroglossia. Also, the mother denies family history of genetic syndromes or malignancy. 
+
+I remember that certain genetic syndromes can cause these features. One that comes to mind is Beckwith-Wiedemann Syndrome (BWS). BWS is associated with macrosomia, macroglossia, and sometimes hypoglycemia in infancy. It's also linked to an increased risk of certain tumors, like Wilms' tumor, which affects the kidneys. But the question is about which organ to screen for abnormalities. 
+
+Wait, but the options are adrenal glands, bone, eyes, kidneys, thyroid. So, BWS is associated with an increased risk of Wilms' tumor (kidney), hepatoblastoma (liver), and maybe others. However, the question is about screening. Also, BWS can have other features like ear creases or fissures, but the patient here doesn't have dysmorphic features except the enlarged tongue. But maybe the figures show other features?
+
+Alternatively, another possibility is Sotos syndrome, which is also called cerebral gigantism. It has overgrowth, macrocephaly, and developmental delays. But hypoglycemia in infancy isn't a typical feature. Or maybe there's another syndrome.
+
+But given the hypoglycemia at birth and macrosomia, BWS is more likely. So, for BWS, screening would include abdominal ultrasounds for Wilms' tumor and hepatoblastoma. But the options here don't include liver. The options are adrenal, bone, eyes, kidneys, thyroid. So kidneys (Wilms' tumor) would be a consideration. However, the question is about which organ to screen. So maybe the answer is D: Kidneys.
+
+Alternatively, maybe there's another angle. The hypoglycemia in the first week of life could be due to hyperinsulinism. But that's more of a metabolic issue. But the patient's current status is normal, and the question is about screening for abnormalities in organs. 
+
+Another thought: Macroglossia can be part of other syndromes. For example, in some cases, it's associated with hypothyroidism, but the patient's height is normal for age? Wait, no, his height is in the 99th percentile. If he had hypothyroidism, he might have delayed growth, but he's tall. So maybe not thyroid. 
+
+What about adrenal glands? If there's a problem with the adrenal glands, like congenital adrenal hyperplasia, but that usually presents with ambiguous genitalia or salt-wasting. Not sure. 
+
+The key here is the combination of macrosomia, hypoglycemia, macroglossia. So BWS. And BWS patients are at higher risk for Wilms' tumor (kidneys) and hepatoblastoma. So the answer would be D: Kidneys. 
+
+But let me check if there are other possibilities. For example, if the patient has a genetic syndrome that affects the kidneys. But given the info, BWS is the most likely, so screening for kidneys makes sense. 
+
+Another point: The mother denied family history of genetic syndromes, but BWS can be sporadic. So even without family history, it's possible. 
+
+Therefore, the answer is D: Kidneys.
+</think>
+<answer>
+This 5-year-old male presents with several key findings that suggest a genetic syndrome. His high birth weight (99th percentile), unexplained hypoglycemia in the first week of life, and current height and weight in the 99th percentile are consistent with **macrosomia**. Additionally, the presence of **macroglossia** (enlarged tongue) is a hallmark feature of **Beckwith-Wiedemann Syndrome (BWS)**.
+
+---
+
+### Key Features of Beckwith-Wiedemann Syndrome (BWS):
+- **Macrosomia** (overgrowth)
+- **Macroglossia** (enlarged tongue)
+- **Hypoglycemia** in early life
+- **Neonatal hypoglycemia** is common due to **hyperinsulinism**
+- **Increased risk of tumors**, particularly **Wilms' tumor (kidney)** and **hepatoblastoma (liver)**
+
+Although BWS is typically **sporadic**, it can also occur in families, and the absence of a family history does not rule it out. The patient also has **no other dysmorphic features**, which is consistent with BWS, as some cases may not have the full spectrum of physical anomalies.
+
+---
+
+### Organ Screening in BWS:
+Given the increased risk of **Wilms' tumor** (a kidney cancer) and **hepatoblastoma**, **screening for kidney abnormalities** is a standard recommendation for patients with BWS. This is typically done via **abdominal ultrasound**.
+
+The question asks which **organ** should be screened for **abnormalities**. Among the options:
+
+- **Adrenal glands** (A): Not typically involved in BWS.
+- **Bone** (B): No specific bone abnormalities are associated.
+- **Eyes** (C): No direct link to BWS.
+- **Kidneys** (D): **Correct** — screening for Wilms' tumor is standard.
+- **Thyroid gland** (E): Not typically involved in BWS.
+
+---
+
+### Final Answer:
+$$
+\boxed{D}
+$$
+</answer>

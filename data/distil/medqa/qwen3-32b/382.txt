@@ -1,0 +1,121 @@
+<think>
+Okay, let's see. The patient is a construction worker who had his leg crushed by concrete. He's unconscious now. The key points here are the crush injury and the possible complications from that. The question is about what lab findings we'd expect.
+
+First, crush injuries can lead to compartment syndrome, but since the block was on his leg for 30 minutes and then removed, maybe there's been some ischemia-reperfusion injury. Also, crush injuries often lead to rhabdomyolysis because of muscle damage. Rhabdomyolysis releases myoglobin into the bloodstream, which can cause kidney damage. 
+
+The lab findings associated with rhabdomyolysis include elevated creatine kinase (CK), myoglobin in the urine (which can cause dark, red-brown urine), and possible electrolyte imbalances like hyperkalemia, hyperphosphatemia, hypocalcemia. Also, acute tubular necrosis (ATN) can occur from myoglobin casts blocking the tubules. 
+
+Looking at the options:
+
+A: FeNa+ >2% – Fractional excretion of sodium. In ATN, which is prerenal in some cases, but actually, ATN typically has FeNa >1-2% because the kidneys can't reabsorb sodium. But if the patient is in shock or has prerenal azotemia, FeNa would be <1%. Since this is ATN from myoglobin, maybe A is correct? Wait, but I need to think more.
+
+B: Urine osmolality >500 – High osmolality is seen in prerenal, where the kidneys are conserving water. In ATN, the urine osmolality might be lower because the tubules aren't working. So if the patient has ATN, B might not be correct.
+
+C: Hypercalcemia – Rhabdomyolysis usually causes hyperphosphatemia and hypocalcemia initially because phosphate is released from cells, and calcium binds to phosphate, leading to low ionized calcium. So hypercalcemia is unlikely here. So C is probably not correct.
+
+D: Red-tinted plasma – Myoglobin in the plasma would make it look red or "chocolate milk" colored. But plasma itself is usually clear; the red color in urine is more common. However, if there's a lot of myoglobin in the blood, maybe the plasma would appear red. So D could be a possibility.
+
+E: Elevated haptoglobin – Haptoglobin decreases in hemolysis because it binds free hemoglobin. In rhabdomyolysis, myoglobin is released, not hemoglobin. So haptoglobin might not be affected. So E is probably not correct.
+
+So between A, B, D. Let me think again. The patient is likely to have acute kidney injury from ATN due to myoglobin. In ATN, FeNa is usually >1-2% because the proximal tubules are damaged and can't reabsorb sodium, leading to higher excretion. So A would be correct. But if the patient is hypovolemic (which they might be from blood loss or fluid shifts), prerenal azotemia could have FeNa <1%. However, in this case, the cause is ATN from myoglobin, so FeNa would be elevated. So A is possible.
+
+But D: red-tinted plasma. If there's myoglobinemia, the plasma might look red. Myoglobin has a similar color to hemoglobin. So if the blood sample has high myoglobin, the plasma would be red. So D could be correct. Also, urine would have myoglobin, causing dark urine, but the question is about plasma. So D might be correct.
+
+So which is more likely? The options are A and D. Let me check standard findings.
+
+In rhabdomyolysis, lab findings include elevated CK, hyperkalemia, hyperphosphatemia, hypocalcemia, and myoglobinuria. Myoglobin in the urine can cause a reddish or brownish color. However, the plasma (serum) might also show a red color if myoglobin levels are extremely high, though more commonly the urine is discolored. 
+
+So D: red-tinted plasma is possible. 
+
+But also, in ATN, FeNa is increased. However, if the patient is oliguric, but the question doesn't specify. The question asks which of the following would you expect. 
+
+The options are A, B, C, D, E. 
+
+So if the patient has rhabdomyolysis, D is correct. Also, in ATN, FeNa is >1%, so A is correct. But which is among the options here?
+
+The question says "which of the following laboratory abnormalities would you expect to find in this patient?"
+
+So possible answers are D and A. Let me think again. The patient has a crush injury leading to muscle damage. So myoglobin is released. Myoglobin is in the blood, so plasma would look red. So D is correct. 
+
+FeNa: In ATN due to rhabdomyolysis, which is a toxic ATN, the FeNa is typically >2%. So A is also correct. But the options are A and D. How to decide?
+
+Wait, the options are A, B, C, D, E. Which one is correct? Let me check standard test questions. For example, in rhabdomyolysis leading to ATN, FeNa is increased. So A is correct. Also, D is correct. But only one answer is correct. Wait, the options are single choice?
+
+The question is from a multiple choice with options A to E. So need to pick the best answer.
+
+The presence of red-tinted plasma is due to myoglobinemia. In rhabdomyolysis, this is a classic sign. So D is correct. 
+
+But also, FeNa >2% is expected in ATN. So if the patient has ATN, A is correct. However, if the patient is in the early stages, maybe not. But the question states that the block was on the leg for 30 minutes before removal. Then the reperfusion might have happened, leading to myoglobin release. So the blood samples would show myoglobin in plasma, making it red. 
+
+Therefore, D is correct. 
+
+But I need to confirm. For example, in rhabdomyolysis, the classic lab findings include dark urine (myoglobinuria), elevated CK, and possible acute kidney injury. The plasma may have a red or brown color if myoglobin is present in high concentrations. So D is correct. 
+
+FeNa in ATN is increased. But if the patient is hypovolemic (due to third spacing of fluids from the crush injury), maybe prerenal is also a factor. However, in the setting of myoglobin-induced ATN, FeNa would be high. So A is also a possibility. But which is more directly expected?
+
+The question asks which of the following would you expect. Since the patient has extensive muscle damage, D (red-tinted plasma) is a direct result of myoglobin in the blood. So D is correct. 
+
+Therefore, the answer is D.
+</think>
+<answer>
+### Clinical Scenario
+
+A 32-year-old construction worker sustained a crush injury to his right leg from a block of concrete. The injury was not removed for 30 minutes, leading to severe soft tissue damage, including pulpified muscle and absent distal pulses. The patient is unconscious, and the physical exam reveals significant trauma with fractures and signs of compartment syndrome or ischemia. The key concern is **rhabdomyolysis** due to extensive muscle damage.
+
+---
+
+### Pathophysiology
+
+Crush injuries can lead to **rhabdomyolysis**, a condition where damaged muscle cells release intracellular contents into the bloodstream. These include:
+
+- **Myoglobin**
+- **Potassium**
+- **Phosphate**
+- **Creatine kinase (CK)**
+
+The release of **myoglobin** is particularly significant. It can cause **myoglobinuria**, which is characterized by **dark red or brown urine**. However, if myoglobin levels are high enough in the **plasma**, the serum itself may appear **red-tinted**, which is a rare but notable finding.
+
+---
+
+### Evaluation of the Options
+
+**A: Fractional excretion of sodium (FeNa+) > 2%**  
+- FeNa > 2% is **suggestive of acute tubular necrosis (ATN)**, which can result from **myoglobin-induced nephrotoxicity**.
+- However, FeNa is not a **direct** or **early** marker of rhabdomyolysis itself. It is more a **secondary finding** in the context of renal dysfunction.
+- While plausible, it is **not the most direct** expected abnormality in the initial laboratory workup.
+
+**B: Urine osmolality > 500 mOsmol/kg**  
+- High urine osmolality is a feature of **prerenal azotemia**, not ATN.
+- In ATN, urine osmolality is **lower** due to impaired concentrating ability.
+- Therefore, this is **not expected** in this case.
+
+**C: Hypercalcemia**  
+- Rhabdomyolysis is associated with **hyperphosphatemia** and **hypocalcemia**, **not** hypercalcemia.
+- Calcium is bound to phosphate and excreted, leading to **low serum calcium**.
+- This option is **incorrect**.
+
+**D: Red-tinted plasma**  
+- Myoglobin is released into the bloodstream during rhabdomyolysis.
+- In severe cases, **myoglobinemia** can cause the **plasma to appear red or reddish-brown**, even before it reaches the urine.
+- This is a **classic and direct** laboratory abnormality expected in **severe rhabdomyolysis**.
+- This is a **highly specific** and **early** sign of the condition.
+
+**E: Elevated haptoglobin**  
+- Haptoglobin decreases in **hemolysis** due to binding free hemoglobin.
+- In rhabdomyolysis, **myoglobin** is released, **not hemoglobin**, so haptoglobin is **not affected**.
+- This option is **not relevant** to the condition.
+
+---
+
+### Conclusion
+
+Given the patient’s **severe crush injury** and **evidence of muscle damage**, the most direct and expected **laboratory abnormality** is the presence of **myoglobin in the plasma**, leading to **red-tinted plasma**.
+
+---
+
+### Final Answer
+
+$$
+\boxed{D}
+$$
+</answer>

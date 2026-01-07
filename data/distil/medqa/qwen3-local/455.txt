@@ -1,0 +1,57 @@
+<think>
+Okay, let's try to figure out this question. So, the scenario is that a molecule was introduced into a cell line, and it caused the cells to undergo karyorrhexis, membrane blebbing, and pyknosis. The question is asking which molecule that was, with options A to E.
+
+First, I need to recall what those terms mean. Karyorrhexis is the fragmentation of the nucleus, right? Pyknosis is the shrinking and condensation of the nucleus, and membrane blebbing is when the cell membrane forms bulges, which is part of the process of apoptosis. So these are all signs of apoptosis, or programmed cell death.
+
+So the molecule introduced must be causing apoptosis. Now, looking at the options: perforin, granzyme B, FAS-ligand, IL-2, BCL-2.
+
+Perforin is a protein that forms pores in the cell membrane, often used by cytotoxic T cells to kill infected cells. Granzyme B is a protease that enters the cell through these pores and triggers apoptosis. FAS-ligand (also called FasL) binds to the FAS receptor on the cell surface, which is part of the extrinsic pathway of apoptosis. IL-2 is a cytokine that promotes T-cell growth and survival. BCL-2 is an anti-apoptotic protein, so it would prevent apoptosis.
+
+So the question is which of these molecules would lead to apoptosis. If the molecule introduced is FAS-ligand, then it would bind to the FAS receptor, initiating the extrinsic pathway, leading to apoptosis. Similarly, perforin and granzyme B are part of the same pathway, where perforin creates pores and granzyme B enters to cause apoptosis. However, if the molecule is FAS-ligand, then it's directly activating the death receptor.
+
+But the question says the molecule binds to a transmembrane protein. The FAS-ligand would bind to FAS, which is a transmembrane protein. Perforin and granzyme B might not be the ones that bind to the transmembrane protein. Wait, but perforin is a pore-forming protein, not a ligand. Granzyme B is a protease that's delivered into the cell via perforin. So maybe the question is about the molecule that binds to the transmembrane protein. So FAS-ligand is a ligand that binds to FAS (a transmembrane receptor). Similarly, other death ligands like TNF-alpha bind to their receptors.
+
+So if the molecule introduced is FAS-ligand, then it would bind to FAS, leading to apoptosis. Alternatively, if it's something else. But the options include FAS-ligand (C), perforin (A), granzyme B (B). 
+
+But the question says that the molecule binds to a transmembrane protein. So FAS-ligand is a ligand that binds to the FAS receptor (a transmembrane protein). Perforin is a protein that forms pores, but it's not a ligand. Granzyme B is a protease that's delivered into the cell. So maybe the answer is C: FAS-ligand. 
+
+Alternatively, maybe the molecule is granzyme B? But granzyme B would enter the cell through perforin pores. But the question says the molecule was introduced into the culture and binds to the transmembrane protein. So if the molecule is granzyme B, would it bind to a transmembrane protein? I don't think so. Granzyme B's action is after entering the cell. 
+
+Perforin would cause pores, but again, not binding to a transmembrane protein. So the answer is likely FAS-ligand. 
+
+Another option is BCL-2, but that's anti-apoptotic, so it would prevent apoptosis. IL-2 is a growth factor. So the correct answer is C: FAS-ligand. 
+
+Alternatively, maybe perforin? But perforin's role is to create pores, not to bind to a transmembrane protein. So the answer is C.
+</think>
+<answer>
+To determine the molecule that was introduced into the cell culture and caused apoptosis, we must analyze the cellular changes described: **karyorrhexis** (nuclear fragmentation), **membrane blebbing**, and **pyknosis** (nuclear condensation). These are all characteristic features of **apoptosis**, a form of programmed cell death.
+
+---
+
+### Step-by-Step Analysis of the Options:
+
+- **A: Perforin**  
+  Perforin is a pore-forming protein that facilitates the entry of **granzyme B** into the target cell. However, **perforin itself does not bind to a transmembrane protein** in the way described in the question. It creates pores in the membrane rather than initiating apoptosis directly.
+
+- **B: Granzyme B**  
+  Granzyme B is a protease that induces apoptosis once it enters the cell. However, it **does not bind to a transmembrane protein**. It is delivered into the cell via **perforin**-mediated pores. Thus, it is not the molecule that directly binds to the transmembrane protein.
+
+- **C: FAS-ligand (FasL)**  
+  FAS-ligand is a **death ligand** that **binds to the FAS receptor**, a **transmembrane protein** on the cell surface. This interaction initiates the **extrinsic apoptotic pathway**, leading to a cascade of events that result in apoptosis, including the changes described in the question (karyorrhexis, membrane blebbing, and pyknosis). This fits the scenario perfectly.
+
+- **D: IL-2**  
+  Interleukin-2 (IL-2) is a **growth factor** that promotes **T-cell proliferation and survival**, not apoptosis. It is the **opposite** of what is described in the question.
+
+- **E: BCL-2**  
+  BCL-2 is an **anti-apoptotic protein** that prevents apoptosis. Therefore, it would **not** induce the observed cellular changes.
+
+---
+
+### Conclusion:
+
+Only **FAS-ligand (Option C)** fits the description: it is a molecule that **binds to a transmembrane protein** (FAS receptor) and **initiates apoptosis**, resulting in the described morphological changes.
+
+$$
+\boxed{C}
+$$
+</answer>

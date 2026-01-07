@@ -1,0 +1,63 @@
+<think>
+Okay, let's see. The patient is a 45-year-old woman with a thyroid nodule. She had a fine-needle aspiration biopsy (FNA) that showed follicular neoplasia. Then she had surgery, and the surgical pathology report mentions vascular invasion. The question is asking which additional feature is expected in this nodule.
+
+First, I need to recall what follicular neoplasia in the thyroid means. Follicular neoplasia is a term used when FNA can't distinguish between benign and malignant follicular lesions because they look similar under the microscope. So, the definitive diagnosis requires a surgical biopsy to check for capsular or vascular invasion, which are signs of malignancy (follicular carcinoma) versus benign (adenoma).
+
+The question states that there is vascular invasion. So, since vascular invasion is present, the nodule is follicular carcinoma. Now, the question is asking which of the options is another feature you'd expect to find in this case.
+
+Looking at the options:
+
+A: Capsular invasion. Since vascular invasion is a hallmark of follicular carcinoma, and capsular invasion is another. So if there's vascular invasion, it's possible that capsular invasion is also present. But is it an additional feature that would be expected? Because vascular invasion is already one, and the presence of both would make sense. So maybe A is a possible answer.
+
+B: Cystic nature. Cystic changes can occur in various thyroid nodules, both benign and malignant. But I don't think it's a specific feature of follicular carcinoma. So probably not B.
+
+C: Psammoma bodies. These are calcified structures, typically associated with papillary thyroid carcinoma. Follicular carcinomas don't usually have psammoma bodies. So C is probably not correct.
+
+D: Eosinophil and macrophage invasion. That sounds like a nonspecific inflammatory response. Maybe in some cases, but not specific for follicular carcinoma. Not sure, but maybe not D.
+
+E: Pleomorphic cells without follicle development. Pleomorphic cells would suggest an anaplastic carcinoma, which is a different type of thyroid cancer. Follicular carcinoma has well-differentiated cells arranged in follicles. So E is likely incorrect.
+
+So, given that vascular invasion is present in follicular carcinoma, and the other key feature is capsular invasion. So the answer is A: Capsular invasion.
+
+Wait, but the question says "with a surgical pathology report that describes vascular invasion, which of the following additional features would you expect to find..." So, if vascular invasion is present, then the diagnosis is follicular carcinoma. What other features are characteristic of follicular carcinoma? Capsular invasion is another key feature. Benign follicular adenomas don't invade capsule or vessels. So the presence of either capsular or vascular invasion is diagnostic of follicular carcinoma. Therefore, if vascular invasion is present, you would expect that the tumor has also invaded the capsule. So A is the correct answer.
+</think>
+<answer>
+To address this question, we begin by evaluating the clinical scenario and the pathology findings in the 45-year-old woman with a thyroid nodule. The fine-needle aspiration (FNA) biopsy showed **follicular neoplasia**, which is a non-diagnostic term used when the lesion appears follicular in nature but cannot be definitively classified as benign or malignant by cytology alone. 
+
+---
+
+### Pathologic Distinction in Follicular Lesions
+
+The definitive distinction between **follicular adenoma (benign)** and **follicular carcinoma (malignant)** lies in the presence of **capsular invasion** and/or **vascular invasion** on histopathology. These two features are **hallmarks of follicular carcinoma** and are not present in follicular adenomas.
+
+In this case, the surgical pathology report notes **vascular invasion**. This is a key diagnostic criterion for **follicular carcinoma**. Therefore, we are now looking for an **additional characteristic** that is **expected in follicular carcinoma**.
+
+---
+
+### Evaluation of the Options
+
+- **A: Capsular invasion**  
+  This is a **classic and expected** feature of follicular carcinoma. It is often found in conjunction with vascular invasion. Given that vascular invasion is already noted, **capsular invasion is a likely accompanying feature** in this malignancy. This makes **A the most appropriate answer**.
+
+- **B: Cystic nature**  
+  Cystic changes are **common in benign nodules**, such as colloid nodules or follicular adenomas. They are not specific for malignancy and are not a defining feature of follicular carcinoma.
+
+- **C: Psammoma bodies**  
+  These are **characteristic of papillary thyroid carcinoma**, not follicular. Their presence would suggest a different histological type and is **not expected here**.
+
+- **D: Eosinophil and macrophage invasion**  
+  This is more suggestive of a **reactive or inflammatory process**, not a follicular carcinoma. It is **not a typical feature** of this malignancy.
+
+- **E: Pleomorphic cells without follicle development**  
+  This is more characteristic of **anaplastic carcinoma**, a highly undifferentiated thyroid cancer. **Follicular carcinoma is well-differentiated** and would not exhibit such pleomorphic features.
+
+---
+
+### Conclusion
+
+Given that the surgical pathology report reveals **vascular invasion**, and knowing that **follicular carcinoma is the only thyroid neoplasm that can invade both the capsule and the vasculature**, **capsular invasion is the expected additional feature** in this case.
+
+$$
+\boxed{A}
+$$
+</answer>

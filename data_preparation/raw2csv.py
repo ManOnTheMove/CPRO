@@ -9,7 +9,7 @@ def parse_args() -> tuple[str, str, bool]:
     parser = argparse.ArgumentParser()
     parser.add_argument("--dataset_name", default="medqa", type=str, choices=["medqa", "medmcqa"])
     parser.add_argument("--save_dir", default=os.path.join("data", "processed"), type=str)
-    parser.add_argument("--sft_grpo_split", action="store_true", type=bool)
+    parser.add_argument("--sft_grpo_split", action="store_true")
     args = parser.parse_args()
     return args.dataset_name, args.save_dir, args.sft_grpo_split
 
@@ -76,7 +76,7 @@ def medmcqa_prep(split="dev"):
 def main():
     dataset_name, save_dir, sft_grpo_split = parse_args()
     
-    os.makedirs(save_dir)
+    os.makedirs(save_dir, exist_ok=True)
     if dataset_name == "medqa":
         for split in ["train", "dev", "test"]:
             df = medqa_prep(split="dev")

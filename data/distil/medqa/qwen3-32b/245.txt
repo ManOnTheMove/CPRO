@@ -1,0 +1,67 @@
+<think>
+Okay, let's see. I need to figure out the next step for this 11-month-old boy with abdominal pain and vomiting. The key symptoms are intermittent crying, drawing up legs, non-bloody vomiting, and reddish mucoid stools. He's sleepy, feverish (100.6), BP and pulse are a bit elevated. Abdominal x-ray no free air, ultrasound done but not described. CBC has elevated WBC. The options are air enema, appendectomy, a scan, pyloromyotomy, or antibiotics.
+
+First, considering the age and symptoms. Intussusception comes to mind for infants with colicky pain, vomiting, and blood in stool. The classic triad is abdominal pain, vomiting, and currant jelly stool. The ultrasound is likely showing a target sign or something similar. Intussusception is a common cause in this age group. The next step for intussusception is usually an air enema for reduction, which is option A. 
+
+But wait, the child is sleepy. That might indicate toxicity or maybe bowel ischemia. If the intussusception is prolonged, it can lead to bowel necrosis. But the question says the abdominal x-ray shows no free air, so maybe no perforation yet. The WBC is elevated, which could be from infection or inflammation. 
+
+Appendectomy (B) is for appendicitis, but in an 11-month-old, appendicitis is rare and presentation might be different. Also, the symptoms are more colicky and with blood in stool, which is more intussusception. 
+
+Technetium scan (C) is for things like Meckel's diverticulum, which can cause bleeding. But the presentation here is more acute with episodes of pain and vomiting. Meckel's might present with painless rectal bleeding, though. 
+
+Pyloromyotomy (D) is for pyloric stenosis, which is usually projectile vomiting, but that's more in 3-5 months old. Also, the baby would have peristaltic waves and an olive-shaped mass. Not the case here. 
+
+Antibiotics (E) would be for an infection, but the presentation is more mechanical. If it's intussusception, antibiotics aren't the first step unless there's perforation. Since no free air, maybe not yet. 
+
+So the most likely diagnosis is intussusception, next step is air enema. So answer A. Unless there are signs of peritonitis or toxicity, which might require surgery. But the child is sleepy, but no other signs like distended abdomen or rigid abdomen. The question says the remainder of the exam shows no abnormalities except for crying on palpation. So maybe still early, so air enema is appropriate. So A.
+</think>
+<answer>
+### Clinical Scenario Summary:
+An 11-month-old boy presents with **intermittent episodes of severe abdominal pain**, **non-bloody vomiting**, and **reddish, mucoid stools**. He is **febrile (100.6°F)**, **tachycardic (110 bpm)**, and **lethargic**. His **abdominal exam is tender**, and **no free air is seen on x-ray**. A **CBC shows leukocytosis (12,000/mm³)**. An **abdominal ultrasound** has been performed (though not described here).
+
+---
+
+### Differential Diagnosis and Reasoning:
+
+1. **Intussusception**:
+   - **Classic presentation**: Intermittent severe abdominal pain (crying episodes), drawing up of legs, vomiting, and **currant jelly stools** (mucoid, bloody).
+   - **Age**: Most common in 3–24 months, with peak incidence at 6–12 months.
+   - **Supporting features**:
+     - Leukocytosis (inflammatory response).
+     - Ultrasound likely showed the **"target sign"** or **"bull's eye"** appearance.
+     - No free air on x-ray suggests **no perforation yet**.
+   - **Management**: First-line treatment is **air or contrast enema** for **non-operative reduction** if the patient is stable. This is **option A**.
+
+2. **Appendicitis** (Option B):
+   - Less common in infants.
+   - Typically presents with **low-grade fever**, **anorexia**, **localizing pain**, and **vomiting**.
+   - **Not typically associated with mucoid bloody stools**.
+   - **Appendectomy** would not be first-line in this setting.
+
+3. **Meckel’s Diverticulum** (Option C):
+   - Can cause **acute intestinal obstruction** or **gastrointestinal bleeding**.
+   - **Painless rectal bleeding** is more typical.
+   - **Technetium-99m pertechnetate scan** is used to detect **ectopic gastric mucosa**, but this is **not the immediate next step** in a child with **acute obstructive symptoms**.
+
+4. **Pyloric Stenosis** (Option D):
+   - Usually presents with **projectile non-bilious vomiting**, often after 3–5 months of age.
+   - **No abdominal pain or blood in stool** is typical.
+   - **Pyloromyotomy** is not indicated here.
+
+5. **Sepsis or Infection** (Option E):
+   - The **fever and leukocytosis** could suggest sepsis.
+   - However, **symptoms are more consistent with a mechanical obstruction**.
+   - **Antibiotic therapy** (ampicillin, tobramycin, and metronidazole) is not first-line in a child with **no signs of peritonitis or perforation**.
+
+---
+
+### Conclusion:
+The clinical presentation is **highly suggestive of intussusception**. Given the child’s age, symptoms, and absence of free air on x-ray (suggesting **no perforation yet**), the **next appropriate step** is to **attempt non-operative reduction** with an **air enema**.
+
+---
+
+### Final Answer:
+$$
+\boxed{A}
+$$
+</answer>

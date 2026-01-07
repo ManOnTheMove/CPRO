@@ -1,0 +1,68 @@
+<think>
+Okay, let's try to figure this out. The patient is a 14-year-old boy with normal weight, but he's been going to the bathroom a lot and losing weight even though he's eating more. The question is asking which option is most consistent with his symptoms.
+
+First, I need to think about the symptoms. Frequent urination (polyuria) and weight loss despite increased appetite (polyphagia) are classic signs of diabetes mellitus. Especially in a teenager, type 1 diabetes comes to mind. 
+
+So, let's look at the options. 
+
+Option A: Increased insulin production by beta-cells. Wait, if the beta-cells are producing more insulin, that would usually not cause the symptoms described. In fact, excess insulin might lead to hypoglycemia, but the patient is losing weight and urinating more. So maybe this isn't right. Also, in type 1 diabetes, the beta-cells are destroyed, so insulin production would be low, not increased. So A might not be the answer.
+
+Option B: Self-reactive T-cells. This sounds like an autoimmune process. Type 1 diabetes is an autoimmune disease where the body's T-cells attack the beta-cells in the pancreas. So this could be a clue. The presence of self-reactive T-cells would lead to destruction of beta-cells, resulting in insulin deficiency. That would explain the symptoms. So B might be correct.
+
+Option C: Amyloid deposits in pancreatic islet cells. Amyloid deposits are more associated with type 2 diabetes, maybe? Or maybe with other conditions like amyloidosis. But I'm not sure. However, the question is about a 14-year-old, which is more likely type 1. So maybe C isn't the answer.
+
+Option D: Absence of leukocytic infiltrates in the pancreas. Leukocytic infiltrates would be part of an inflammatory response. In type 1 diabetes, there's usually inflammation with lymphocytes attacking the pancreas. So if there's an absence, that might not fit. So D might be incorrect.
+
+Option E: Hypoglycemia. But the symptoms here are more consistent with hyperglycemia. Frequent urination and weight loss due to glucose in the urine (glucosuria) and the body breaking down fat and muscle for energy. Hypoglycemia would cause different symptoms like sweating, confusion, maybe, but not the ones described. So E is probably not correct.
+
+So putting it all together: the symptoms suggest diabetes mellitus, specifically type 1, which is autoimmune. The autoimmune process involves self-reactive T-cells attacking the beta-cells. So the answer should be B. The other options don't fit as well. Let me double-check. 
+
+Increased insulin production (A) would not cause the symptoms. Amyloid deposits (C) are more for type 2. Absence of leukocytic infiltrates (D) would suggest no inflammation, but type 1 has inflammation. Hypoglycemia (E) is the opposite. So yes, B is the best answer.
+</think>
+<answer>
+The 14-year-old male presents with symptoms of frequent urination (polyuria), weight loss despite increased caloric intake (polyphagia), and a normal weight. These are classic signs of **diabetes mellitus**, particularly **type 1 diabetes**, which is often diagnosed in children and adolescents.
+
+---
+
+### Symptom Analysis
+
+- **Polyuria** and **polyphagia** are hallmark symptoms of **hyperglycemia**.
+- **Weight loss** in the presence of increased caloric intake is typically due to **glucosuria** (glucose in the urine) and **inability to utilize glucose**, leading the body to break down fat and muscle for energy.
+- These symptoms are **not consistent with hypoglycemia** (Option E), which would cause confusion, sweating, and weakness, not weight loss.
+
+---
+
+### Pathophysiology of Type 1 Diabetes
+
+Type 1 diabetes is an **autoimmune disease** where **self-reactive T-cells** attack and destroy the **beta-cells** in the **pancreatic islets**, leading to **insulin deficiency**. This results in **elevated blood glucose levels**, which in turn cause:
+
+- **Osmotic diuresis** (frequent urination)
+- **Weight loss** due to the body's inability to use glucose and reliance on fat and protein for energy
+
+---
+
+### Evaluation of the Options
+
+- **A: Increased insulin production by beta-cells**  
+  This would not cause the symptoms. In fact, **insulin deficiency** is the key issue in type 1 diabetes. This option is **not consistent** with the clinical picture.
+
+- **B: Self-reactive T-cells**  
+  This is **directly associated** with the **autoimmune destruction** of beta-cells in type 1 diabetes. This is the **most consistent** with the patient's symptoms and pathophysiology.
+
+- **C: Amyloid deposits in pancreatic islet cells**  
+  This is more commonly associated with **type 2 diabetes** or **amyloidosis**, not the acute presentation of a 14-year-old. Not the best fit.
+
+- **D: Absence of leukocytic infiltrates in the pancreas**  
+  Leukocytic infiltrates are a **hallmark of autoimmune inflammation**, such as in type 1 diabetes. An **absence** would contradict the disease process.
+
+- **E: Hypoglycemia**  
+  This is the **opposite** of the clinical scenario. The patient is **hyperglycemic**, not hypoglycemic.
+
+---
+
+### Final Answer
+
+$$
+\boxed{B}
+$$
+</answer>

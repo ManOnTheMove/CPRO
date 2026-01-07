@@ -1,0 +1,112 @@
+<think>
+Okay, let's try to figure out this problem. So, the question is about the probability of a female and a male with normal vision having a daughter with red-green color blindness. The given incidence in males is 1/100. Hmm.
+
+First, I need to recall how red-green color blindness is inherited. I remember that it's a sex-linked recessive trait, right? Since it's on the X chromosome. Males have one X and one Y, while females have two Xs. So, for a male to be color blind, he just needs the recessive allele on his X chromosome. For a female to be color blind, she needs two copies of the recessive allele, one on each X.
+
+The question says the incidence in males is 1/100. That means the frequency of the color blindness allele (let's call it 'c') in the population is 1/100. Since males have only one X, their genotype is either X^C Y (normal) or X^c Y (color blind). So the frequency of the 'c' allele is 1/100. Let me note that as q = 1/100.
+
+Now, the parents in question are a female and a male with normal vision. Wait, but the female's genotype isn't specified. So I need to figure out the possible genotypes of the female. Since the male has normal vision, his genotype is X^C Y. The female could be either X^C X^C (normal) or X^C X^c (carrier) or X^c X^c (color blind). But since the female has normal vision, she can't be X^c X^c. So she's either X^C X^C or X^C X^c.
+
+But the problem is, what is the probability that the female is a carrier? Because if the female is a carrier (X^C X^c), then there's a chance she could pass the X^c to her daughter. But if she's not a carrier (X^C X^C), then she can't pass the X^c. So we need to know the frequency of the carrier females in the population.
+
+But wait, the problem doesn't give us any information about the female's genotype. However, maybe we can infer it based on the given incidence in males. Let me think. The incidence in males is 1/100, which is the frequency of the recessive allele q. So the frequency of the dominant allele (X^C) is p = 1 - q = 99/100.
+
+In females, the frequency of being carriers (X^C X^c) is 2pq. Because in Hardy-Weinberg equilibrium, the genotype frequencies are p² for X^C X^C, 2pq for X^C X^c, and q² for X^c X^c. But since the female has normal vision, she can't be X^c X^c. So the probability that she is a carrier is (2pq) / (p² + 2pq). Wait, but the question doesn't specify that the female is from the general population. Wait, but the question is about a female and a male with normal vision. So the female's genotype is not given. But maybe we need to assume that the female is from the general population. But the problem is, the question is asking for the probability of their daughter being color blind. So we need to know the probability that the female is a carrier, and then the probability that she passes the X^c to the daughter, and the male passes his X^C (since he has normal vision, he can only pass X^C or Y, but since the daughter gets an X from the father, right? Wait, daughters get their X from the father and one from the mother. Wait, the father has X^C Y. So the father can pass either X^C or Y. But since the daughter is female, she must get the X from the father. So the father's X is X^C, so the daughter will get X^C from the father. So the daughter's X chromosomes are X^C (from father) and whatever the mother gives. So for the daughter to be color blind, she needs to have X^c X^c. But the father can only contribute X^C. So the mother must contribute X^c. Therefore, the daughter can only be color blind if the mother is a carrier (X^C X^c) and passes the X^c to the daughter. So the probability that the daughter is color blind is the probability that the mother is a carrier multiplied by the probability she passes the X^c.
+
+So first, what's the probability that the mother is a carrier? If the mother is from the general population, then the frequency of carriers is 2pq. But since the mother has normal vision, we need to calculate the probability that she is a carrier given that she's not color blind. Wait, but in the general population, the frequency of X^c X^c is q². So the probability that a female is a carrier (X^C X^c) is 2pq / (p² + 2pq). Because the total probability of being normal (either X^C X^C or X^C X^c) is p² + 2pq. So the conditional probability that a normal female is a carrier is (2pq) / (p² + 2pq).
+
+But let me check. Let me calculate that. Given that the female is not color blind, which means she's either X^C X^C or X^C X^c. So the probability she is a carrier is (2pq) / (p² + 2pq). But since p = 99/100 and q = 1/100, let's compute that.
+
+First, p = 99/100, q = 1/100. So 2pq = 2*(99/100)*(1/100) = 198/10000. p² = (99/100)^2 = 9801/10000. So the total is 9801 + 198 = 9999/10000. Therefore, the probability that a normal female is a carrier is (198/10000) / (9999/10000) = 198/9999 ≈ 0.0198, which is approximately 1/50.5. So roughly 1/50.
+
+But then, the probability that the mother is a carrier is approximately 1/50. Then, if she is a carrier, the chance she passes the X^c to the daughter is 1/2. So the overall probability is (1/50) * (1/2) = 1/100. Wait, but that would be 1/100. But that's answer A. But wait, but let me check again.
+
+Wait, but the question says "a female and a male with normal vision". The male has normal vision, so he's X^C Y. The female has normal vision. So the female's genotype is either X^C X^C or X^C X^c. So the probability that the female is a carrier is 2pq/(p² + 2pq) as above. Which we calculated as approximately 198/9999 ≈ 0.0198, which is about 1/50.5. So if the female is a carrier, then the chance she passes the X^c is 1/2. Therefore, the total probability is 1/50.5 * 1/2 ≈ 1/101, which is approximately 1/100. So that would be answer A. But wait, but the answer options include 1/100 (A), 1/50 (C). So maybe my calculation is slightly off?
+
+Alternatively, perhaps the question assumes that the female is a carrier. Wait, but that's not stated. Wait, but maybe there's a different approach. Let me think again.
+
+Alternatively, maybe the problem is assuming that the female is not a carrier. But that can't be, because if the female is not a carrier, then the daughter can't be color blind. But the question is about the probability of having a daughter with color blindness. So if the female is not a carrier, the probability is zero. If the female is a carrier, then the probability is 1/2. So the total probability is the probability that the female is a carrier times 1/2.
+
+But how do we find the probability that the female is a carrier? Since the incidence in males is 1/100, which is q = 1/100. So in the population, the frequency of the recessive allele is 1/100. So for females, the frequency of being carriers is 2pq. But if we don't know the female's genotype, but she has normal vision, then the probability she is a carrier is 2pq/(p² + 2pq). As before.
+
+But let me compute it more accurately. Let's compute 2pq/(p² + 2pq) = 2pq/(1 - q²). Wait, no. Wait, p² + 2pq = (p + q)^2 - q² = 1 - q²? No. Wait, p + q = 1. So p² + 2pq = p(p + 2q) = p(1 + q). Wait, maybe not. Let me compute with numbers.
+
+p = 99/100, q = 1/100. So p² + 2pq = (99/100)^2 + 2*(99/100)*(1/100) = (99^2 + 2*99*1)/100^2 = 99*(99 + 2)/100^2 = 99*101 / 10000. So 99*101 = 9999. So that's 9999/10000. So the probability that a normal female is a carrier is 2pq / (p² + 2pq) = (198/10000) / (9999/10000) = 198/9999 = 66/3333 = 22/1111 ≈ 0.0198, which is approximately 1/50.5. So approximately 1/50. So then, multiplying by 1/2, gives 1/101, which is approximately 1/100. So answer A.
+
+But wait, the answer choices are A: 1/100, C: 1/50. So which is closer? Since 1/101 is closer to 1/100 than to 1/50. So answer A. But maybe there's a different approach here.
+
+Alternatively, maybe the question assumes that the female is not a carrier. But that can't be. Because if the female is not a carrier, then the daughter can't be color blind. But the question is about the probability of having a daughter with color blindness. So the answer can't be zero. So that's not possible.
+
+Alternatively, perhaps the problem is assuming that the female is a carrier. But why? Because maybe the question is implying that the female is a carrier because the male has normal vision. But that's not necessarily the case. Wait, no. The male's normal vision doesn't affect the female's genotype.
+
+Alternatively, maybe the question is assuming that the female is a carrier. But that's not stated. So I think the correct approach is to calculate the probability based on the population frequency.
+
+But another thought: maybe the question is not considering the population frequency but just the fact that the male is normal. Wait, but the male's genotype is X^C Y. So the mother must have given him an X^C. Wait, but that's for the male. But the mother's genotype is not given. Wait, but if the male is normal, then his mother must have given him an X^C. So the mother could be X^C X^C or X^C X^c. But that's for the male's mother. However, the question is about the female and male with normal vision having a daughter. So the female's genotype is not necessarily related to the male's genotype. Unless there's some other information.
+
+Alternatively, maybe the problem is assuming that the female is a carrier. But that's not stated. So I think the correct approach is to use the Hardy-Weinberg principle.
+
+So given that, the answer would be approximately 1/100, which is option A. But I need to check again.
+
+Alternatively, perhaps the question is trickier. Let me think again. The male has normal vision, so his genotype is X^C Y. The female has normal vision. For the daughter to be color blind, she must have X^c X^c. But the father can only pass X^C, so the mother must pass X^c. Therefore, the mother must be a carrier (X^C X^c). So the probability is the probability that the mother is a carrier times the chance of passing X^c.
+
+But what is the probability that the mother is a carrier? If the mother is from the general population, then the probability she is a carrier is 2pq/(p² + 2pq) as before. But if the mother is not from the general population, but perhaps the question assumes that the female is not a carrier? But that's not stated.
+
+Wait, but the question says "a female and a male with normal vision". It doesn't specify that the female is from the general population. However, without any other information, we have to assume that the female is from the general population. So then, the probability that she is a carrier is 2pq/(p² + 2pq) ≈ 1/50. Then, the chance she passes X^c is 1/2. So 1/50 * 1/2 = 1/100. So answer A.
+
+But another thought: maybe the question assumes that the female is not a carrier. But that would make the probability zero, which is option E. But that seems unlikely. Alternatively, maybe the question is considering that the female is a carrier because the male has a 1/100 chance. But that's not directly related.
+
+Alternatively, maybe the question is assuming that the female is a carrier with probability equal to the incidence in males. But that would be incorrect. Because the incidence in males is q, and the frequency of carriers in females is 2pq, which is much higher than q.
+
+Wait, but if q is 1/100, then 2pq is 2*(99/100)*(1/100) ≈ 0.0198, which is about 2%, which is much higher than 1/100. So the probability that a female is a carrier is about 2%, and then the chance of passing it is 50%, so 1% which is 1/100. So that's answer A.
+
+So I think the answer is A. But let me check again.
+
+Alternatively, maybe the question is considering that the female is not a carrier. But that would make the probability zero, which is E. But why would the question include that? It's possible that the question is assuming that the female has normal vision and is not a carrier, but that's not stated. But since the question is about the probability of having a daughter with color blindness, and given that the male is normal, the only way is if the mother is a carrier. So if the mother is not a carrier, the probability is zero. But without knowing the mother's genotype, we have to assume based on the population.
+
+Therefore, the answer should be A: 1/100. But I'm a bit confused because sometimes in these problems, they might assume that the female is a carrier. But I think the correct approach is to use the Hardy-Weinberg calculation. Hence, the answer is A.
+</think>
+<answer>
+To determine the probability that a **female and a male with normal vision** have a **daughter with red-green color blindness**, we must first understand the **genetic basis** of this condition.
+
+---
+
+### **Genetic Background**
+
+Red-green color blindness is an **X-linked recessive trait**. This means:
+
+- **Males** (XY) are affected if they inherit the recessive allele on their **single X chromosome**.
+- **Females** (XX) must inherit **two copies** of the recessive allele (X^c X^c) to express the condition. If they have one copy (X^C X^c), they are **carriers** but do not show the condition.
+
+---
+
+### **Given Data**
+
+- The **incidence** of red-green color blindness in **males** is **1/100**.
+- This implies that the **frequency of the recessive allele (q)** is **1/100**.
+- Therefore, the **frequency of the dominant allele (p)** is **1 - q = 99/100**.
+
+---
+
+### **Parental Genotypes**
+
+- The **male** has **normal vision**, so his genotype must be **X^C Y**.
+- The **female** also has **normal vision**, so her genotype is either:
+  - **X^C X^C** (non-carrier), or
+  - **X^C X^c** (carrier).
+
+She **cannot be X^c X^c**, as that would make her color blind.
+
+---
+
+### **Probability the Female is a Carrier**
+
+We use the **Hardy-Weinberg principle** to estimate the probability that a **normal female** is a **carrier** (X^C X^c).
+
+The expected genotype frequencies in the population are:
+
+- X^C X^C: $ p^2 = \left(\frac{99}{100}\right)^2 = \frac{9801}{10000} $
+- X^C X^c: $ 2pq = 2 \times \frac{99}{100} \times \frac{1}{100} = \frac{198}{10000} $
+- X^c X^c: $ q^2 = \left(\frac{1}{100}\right)^2 = \frac{1}{10000} $
+
+But since the female has **normal vision**, she cannot be X^c X^c. So we only consider the first
+</answer>

@@ -1,0 +1,61 @@
+<think>
+Okay, let's see. The patient is a 14-year-old male from India with difficulty walking. On exam, there's weakness in right leg extension and absent patellar reflex. PCR of stool and throat swab found viral RNA. Need to figure out which virus this is.
+
+First, the symptoms: weakness in a leg and absent reflex. That makes me think of something affecting the nervous system, maybe the spinal cord or peripheral nerves. Since it's a viral infection detected in stool and throat, maybe it's a virus that can cause paralysis. Polio comes to mind because it's a viral infection that can lead to acute flaccid paralysis, which matches the symptoms. Also, polio is more common in areas with poor sanitation, which might be relevant since the patient is from India. However, India has made progress in eradicating polio, but maybe the patient was exposed before vaccination.
+
+Now, looking at the options. The question is about the structure of the virus. Poliovirus is a member of the Picornaviridae family. I remember that picornaviruses are non-enveloped, positive-sense single-stranded RNA viruses with an icosahedral symmetry. So structure-wise, non-enveloped, positive stranded, icosahedral. That would be option B. Let me check the other options to be sure.
+
+Option A: Enveloped, positive stranded, helical. That sounds like maybe a togavirus or something like rabies? But rabies is enveloped, negative-sense, helical. So no. Option C: Enveloped, positive stranded, icosahedral. Maybe some other virus, but not polio. D: Enveloped, negative stranded, helical. That's like influenza or paramyxoviruses. E: Non-enveloped, negative stranded, helical. Maybe orthomyxovirus? No, they are enveloped. Maybe something else. But polio is non-enveloped, positive-sense, icosahedral. So B is correct.
+
+Another angle: the PCR found viral RNA. Since poliovirus is positive-sense RNA, PCR would detect that. Also, the fact that they tested stool and throat is consistent with polio, which is shed in stool. So yes, B is the answer.
+</think>
+<answer>
+### Clinical Context and Symptom Analysis
+
+The patient is a **14-year-old male from India** presenting with **difficulty walking**, **weakness upon right leg extension**, and **absent right patellar reflex**. These findings are classic signs of **acute flaccid paralysis**, which is a hallmark of **poliomyelitis**. The presence of **viral RNA** in both **stool** and **pharyngeal swab** further supports a **poliovirus infection**, as it is known to be **excreted in the stool** and **replicate in the oropharynx**.
+
+Poliovirus is a **common cause of vaccine-preventable acute flaccid paralysis**, and while global eradication efforts have been successful, **endemic transmission still exists in some regions**, and **imported cases** can occur in countries with low vaccination coverage.
+
+---
+
+### Virological Characteristics of Poliovirus
+
+Poliovirus is a member of the **Picornaviridae** family. Its structural features are as follows:
+
+- **Structure**: **Non-enveloped**
+- **Genome**: **Positive-sense, single-stranded RNA**
+- **Symmetry**: **Icosahedral capsid**
+
+These characteristics are **critical in distinguishing it from other viruses** that may cause neurological symptoms but have different structural features.
+
+---
+
+### Evaluation of the Answer Choices
+
+Let's analyze each option in light of the above information:
+
+- **A: Enveloped, positive stranded, helical virus**  
+  → Enveloped viruses with helical symmetry (e.g., **Rhabdoviridae**) are not consistent with poliovirus.
+
+- **B: Non-enveloped, positive stranded, icosahedral virus**  
+  → **Correct**. This matches the known structure of **poliovirus**.
+
+- **C: Enveloped, positive stranded, icosahedral virus**  
+  → No known enveloped, icosahedral, positive-sense RNA virus is associated with this clinical presentation.
+
+- **D: Enveloped, negative stranded, helical virus**  
+  → This is typical of **paramyxoviruses** or **orthomyxoviruses**, not poliovirus.
+
+- **E: Non-enveloped, negative stranded, helical virus**  
+  → This describes **orthomyxoviruses** or **rhabdoviruses**, but again, not consistent with poliovirus.
+
+---
+
+### Conclusion
+
+Given the **clinical presentation of acute flaccid paralysis**, **viral RNA detection in stool and pharyngeal swab**, and the **known virological structure** of the causative agent, the best match is:
+
+$$
+\boxed{B}
+$$
+</answer>

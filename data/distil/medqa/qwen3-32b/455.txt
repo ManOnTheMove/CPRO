@@ -1,0 +1,64 @@
+<think>
+Okay, let's try to figure this out. The question is about a molecule introduced to a cell line that causes certain effects leading to cell death. The symptoms mentioned are karyorrhexis, membrane blebbing, and pyknosis. All of these are features of apoptosis, right?
+
+So first, I need to recall what each of the options does. Let's go through them one by one.
+
+Option A: Perforin. I remember that perforin is involved in cell-mediated immunity. It's released by cytotoxic T cells and natural killer cells. Perforin creates pores in the target cell membrane, allowing granzymes to enter. Granzymes then induce apoptosis. But perforin itself is a pore-forming protein, not directly causing the apoptotic features unless combined with granzymes. However, the question mentions a molecule that binds to a transmembrane protein. Perforin doesn't bind to a receptor; it just forms pores. So maybe not A?
+
+Option B: Granzyme B. Granzymes are proteases that enter cells through perforin-made pores. Granzyme B activates caspases, leading to apoptosis. But again, the question says the molecule binds to a transmembrane protein. Granzyme B acts intracellularly once inside the target cell, so maybe it's not directly binding to a receptor on the membrane. So B might not be the answer unless there's a different mechanism here.
+
+Option C: FAS-ligand. FAS-L is a protein that binds to the FAS receptor (a death receptor on the cell surface). This binding initiates the extrinsic apoptotic pathway through activation of caspase-8, leading to downstream caspases and apoptosis. The features described (karyorrhexis, etc.) fit with apoptosis. Since FAS-L is a ligand that binds to a transmembrane receptor (FAS), this seems to fit the scenario. The molecule introduced binds to a transmembrane protein (FAS receptor), triggering apoptosis. So C is a strong candidate.
+
+Option D: IL-2. Interleukin-2 is a cytokine that promotes T cell growth and survival. It's more of a growth factor, so it would prevent apoptosis rather than induce it. So D is probably not the answer.
+
+Option E: BCL-2. BCL-2 is an anti-apoptotic protein. It inhibits the intrinsic pathway of apoptosis by preventing mitochondrial outer membrane permeabilization. If this were introduced, it would block apoptosis, not cause it. So E is out.
+
+So the key here is the molecule binds to a transmembrane protein (death receptor) and induces apoptosis. FAS-ligand (C) fits this. Perforin and granzyme B are part of a different mechanism (inducing apoptosis via intracellular pathways without receptor binding). Therefore, the correct answer should be C.
+</think>
+<answer>
+To determine the correct molecule introduced into the cell culture, we need to analyze the biological effects described and match them with the function of each option.
+
+---
+
+### **Cellular Events Observed**
+The question lists **karyorrhexis**, **membrane blebbing**, and **pyknosis**. These are all hallmarks of **apoptosis**, a programmed cell death pathway. Apoptosis can be triggered via two major pathways:
+- **Intrinsic (mitochondrial)** pathway
+- **Extrinsic (death receptor)** pathway
+
+The question also specifies that the molecule **binds to a transmembrane protein**, which strongly suggests the **extrinsic apoptotic pathway**, where **death ligands bind to death receptors** on the cell surface.
+
+---
+
+### **Analysis of Options**
+
+- **A: Perforin**  
+  Perforin is a pore-forming protein used by cytotoxic T cells and NK cells to allow granzymes (like granzyme B) to enter the target cell. While it is involved in inducing apoptosis, it **does not bind to a transmembrane protein** and is not a ligand. So this is **not the correct choice**.
+
+- **B: Granzyme B**  
+  Granzyme B is a **serine protease** that enters the cell through pores formed by perforin. It activates **caspases** intracellularly, leading to apoptosis. However, **granzyme B does not bind to a transmembrane protein**, so it does not match the question's condition. **Eliminated**.
+
+- **C: FAS-ligand**  
+  **FAS-ligand (FAS-L)** is a **cell surface death ligand** that binds to the **FAS receptor**, a **transmembrane death receptor**. This interaction triggers the **extrinsic apoptotic pathway**, leading to **caspase-8 activation**, which in turn activates downstream caspases and causes apoptosis. The described features (karyorrhexis, membrane blebbing, pyknosis) are all consistent with this pathway.  
+  **This fits the scenario perfectly.**
+
+- **D: IL-2**  
+  Interleukin-2 is a **cytokine** that **promotes cell proliferation and survival**, particularly in T cells. It does **not induce apoptosis** and is not a death receptor ligand. **Not the correct answer.**
+
+- **E: BCL-2**  
+  BCL-2 is an **anti-apoptotic protein** that inhibits the **intrinsic apoptotic pathway** by blocking mitochondrial outer membrane permeabilization. It would **prevent** apoptosis, not induce it. **Not consistent with the question.**
+
+---
+
+### **Conclusion**
+
+The only option that:
+- **Binds to a transmembrane protein**
+- **Triggers the extrinsic apoptotic pathway**
+- **Results in the observed features of apoptosis**
+
+is **FAS-ligand**.
+
+$$
+\boxed{C}
+$$
+</answer>

@@ -1,0 +1,41 @@
+<think>
+Okay, let's see. The patient is a 63-year-old African American man with hypertension and dyslipidemia. He's in the ER with facial swelling and difficulty breathing. The symptoms started suddenly that morning and are getting worse. He started lisinopril a few weeks ago. His BP is 110/74, HR 94, RR 20. On exam, he has lip swelling and inspiratory stridor. Lab results show normal C1 esterase inhibitor level. The question is asking for the most likely diagnosis from the options given.
+
+First, I need to think about what causes sudden facial swelling and difficulty breathing. The key here is the timing with starting lisinopril. Lisinopril is an ACE inhibitor, right? And ACE inhibitors are known to cause angioedema as a side effect. The fact that he started this medication several weeks ago could be relevant. Now, the C1 esterase inhibitor is normal. Hereditary angioedema would have low C1 esterase inhibitor, but since this is normal, it's less likely. So drug-induced angioedema, specifically from an ACE inhibitor, would be a possibility here.
+
+Let me look at the options. Option D is Drug-induced angioedema. That fits with the ACE inhibitor use. Let's check the other options. Scleredema is a skin condition that causes hard, thickened skin, usually on the neck and face, but it's more chronic and not typically acute with sudden swelling and stridor. Erysipelas is a bacterial skin infection, usually with red, warm, tender skin and fever. The presentation here is more about swelling rather than infection signs. Facial lymphedema is usually more chronic, like from obstruction of lymphatic drainage, not sudden onset. Contact dermatitis would be an allergic reaction, maybe with rash and itching, but again, the suddenness and stridor make me think more of an angioedema.
+
+Inspiratory stridor suggests upper airway obstruction, which is a concern with angioedema. Since the C1 is normal, hereditary or acquired angioedema with C1 deficiency is ruled out. So drug-induced, especially from ACE inhibitors, is the leading diagnosis here. The answer should be D.
+</think>
+<answer>
+This case presents a 63-year-old man with a sudden onset of facial swelling and respiratory distress, occurring after initiating lisinopril, an angiotensin-converting enzyme (ACE) inhibitor. The clinical findings—swelling of the lips and inspiratory stridor—point toward airway compromise due to subcutaneous and submucosal edema. The normal C1 esterase inhibitor level is particularly informative, as it rules out hereditary or acquired angioedema associated with C1 deficiency.
+
+---
+
+### Key Clinical Clues:
+
+- **Sudden onset** of symptoms is consistent with an acute allergic or pharmacologic reaction.
+- **Lisinopril use** is a red flag for **drug-induced angioedema**, a known but potentially life-threatening side effect of ACE inhibitors.
+- **Inspiratory stridor** is a hallmark of upper airway involvement and indicates the need for urgent airway assessment.
+- **Normal C1 esterase inhibitor level** excludes hereditary angioedema, which is a differential in recurrent angioedema without urticaria.
+
+---
+
+### Evaluation of the Options:
+
+- **A: Scleredema** – A chronic condition with fibrotic skin changes, typically not presenting with acute swelling or stridor.
+- **B: Erysipelas** – A bacterial infection with erythematous, tender, and warm skin, often with fever, not consistent with this presentation.
+- **C: Facial lymphedema** – A chronic condition due to lymphatic obstruction, not consistent with acute swelling or airway compromise.
+- **D: Drug-induced angioedema** – **Most consistent** with the clinical scenario, especially in the context of recent ACE inhibitor initiation.
+- **E: Contact dermatitis** – Presents with rash and pruritus, not with angioedema or stridor.
+
+---
+
+### Conclusion:
+
+Given the **acute presentation**, **lisinopril use**, **normal C1 esterase inhibitor**, and **clinical signs of airway involvement**, the most likely diagnosis is **drug-induced angioedema**.
+
+$$
+\boxed{D}
+$$
+</answer>

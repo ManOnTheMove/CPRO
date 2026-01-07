@@ -1,0 +1,48 @@
+<think>
+Okay, let's try to figure out this question. So, the patient is a 41-year-old woman with abdominal pain that's intermittent and in the right hypochondriac region. She ate fatty foods before the pain started, and she's had similar episodes after fatty meals before. The question is asking which hormone is responsible for the postprandial (after eating) aggravation of her symptoms.
+
+First, I need to recall what each of these hormones does. Let's go through them one by one.
+
+The options are Somatostatin, Cholecystokinin (CCK), Gastrin, Pepsin, and Secretin.
+
+The patient's symptoms sound like they could be related to the gallbladder. Right hypochondriac pain after fatty meals is classic for biliary colic, which is often due to gallstones. When someone eats a fatty meal, the gallbladder contracts to release bile. If there are stones, this can cause pain. So the question is about which hormone causes the gallbladder to contract, leading to the pain.
+
+Cholecystokinin (CCK) is known to stimulate the gallbladder to contract and release bile. It's released by the duodenum in response to fatty foods. So when she eats fatty foods, CCK is released, causing the gallbladder to contract. If there's a stone blocking the duct, this would cause pain. So CCK would be the hormone that's causing the aggravation here.
+
+Let me check the other options. Somatostatin inhibits the release of other hormones, including CCK and gastrin. It's more of a regulatory hormone. Gastrin stimulates gastric acid secretion, which might contribute to some discomfort but not directly related to gallbladder contraction. Pepsin is an enzyme involved in protein digestion, not a hormone. Secretin stimulates the pancreas to release bicarbonate and the liver to produce bile, but it's more about neutralizing acid in the duodenum. So secretin isn't directly causing gallbladder contraction.
+
+Therefore, the answer should be B: Cholecystokinin.
+</think>
+<answer>
+The patient presents with intermittent right hypochondriac pain following a fatty meal, which is consistent with **biliary colic**—a condition often caused by gallstones. The key to understanding the cause of her postprandial symptoms lies in identifying the **hormone responsible for gallbladder contraction** in response to fatty food.
+
+---
+
+### Hormonal Function Analysis:
+
+- **Cholecystokinin (CCK)**: This hormone is released by the duodenum in response to the presence of fatty acids and amino acids in the digestive tract. Its primary function is to **stimulate the gallbladder to contract and release bile**, which is essential for fat digestion. In the presence of gallstones, this contraction can cause **pain** due to obstruction or spasm of the biliary tract.
+
+- **Somatostatin**: This hormone inhibits the release of several other hormones, including CCK and gastrin. It does not directly cause gallbladder contraction.
+
+- **Gastrin**: Stimulates gastric acid secretion. While it plays a role in digestion, it is not directly involved in gallbladder motility.
+
+- **Pepsin**: An enzyme involved in protein digestion, not a hormone.
+
+- **Secretin**: Stimulates the pancreas and liver to release bicarbonate and bile, respectively. While it supports digestion, it does not cause gallbladder contraction.
+
+---
+
+### Clinical Correlation:
+
+The patient's symptoms—pain localized to the **right hypochondrium**, **postprandial exacerbation**, and **history of similar episodes after fatty meals**—strongly suggest **gallbladder-related pathology**, likely **biliary colic**. The **postprandial aggravation** is due to **gallbladder contraction**, which is **triggered by CCK** in response to the fatty meal.
+
+---
+
+### Conclusion:
+
+The hormone most likely responsible for the **postprandial aggravation** of the patient's symptoms is **Cholecystokinin (CCK)**.
+
+$$
+\boxed{B}
+$$
+</answer>

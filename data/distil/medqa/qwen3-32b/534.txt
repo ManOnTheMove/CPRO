@@ -1,0 +1,91 @@
+<think>
+Okay, let's try to figure this out. The patient is a 25-year-old woman with hypertension. She has a family history of heart failure, but her father died of that at 51. Her blood pressure is 150/100, which is definitely high. She's not on any medications, doesn't smoke, and only drinks socially. The primary care doc mentioned elevated BP on most visits but she didn't follow up. Now they did tests, everything normal except a renal angiogram.
+
+The question is about the most likely cause of her hypertension. The options are atherosclerosis, adult polycystic kidney disease, glomerulonephritis, fibromuscular hyperplasia, and pheochromocytoma.
+
+First, I need to think about secondary causes of hypertension, especially in a young person. Primary hypertension is more common in older people, but in someone as young as 25, especially if it's significant (150/100), secondary causes should be considered.
+
+The key here is the renal angiogram result. The problem says that the angiogram is abnormal except for that. So what do these options have in common with renal angiogram findings?
+
+Let me go through each option:
+
+A. Atherosclerosis: This can cause renal artery stenosis, leading to hypertension. But atherosclerosis is more common in older people, typically with risk factors like smoking, diabetes, hyperlipidemia. This patient is 25, doesn't smoke, so maybe less likely unless there are other factors. But could it still be possible?
+
+B. Adult polycystic kidney disease (PKD): This is a genetic disorder. It usually presents with cysts in the kidneys, and can lead to hypertension. But PKD usually presents with other symptoms like flank pain, hematuria, or a family history. The patient's father died of heart failure, but not sure if PKD is in the family. Also, a renal angiogram might show something else here, maybe the kidneys' structure? But PKD is usually diagnosed with imaging like ultrasound or CT showing cysts. If the angiogram is abnormal, maybe not the first test for PKD.
+
+C. Glomerulonephritis: This is inflammation of the glomeruli, leading to kidney damage. It can cause hypertension, but usually with other signs like proteinuria, hematuria, edema. The problem states that other tests are normal. If there were GN, you'd expect abnormalities in urinalysis or blood tests like elevated creatinine. But the question says all other tests are normal except the angiogram. So maybe not this.
+
+D. Fibromuscular hyperplasia (FMD): This is a condition that causes abnormal thickening of the walls of arteries, most commonly the renal arteries. It's a common cause of renovascular hypertension in young women. The angiogram would show characteristic "string of beads" appearance in the renal arteries. Since the patient is young, female, and the angiogram is the only abnormal test, this seems plausible. FMD is more common in women and can lead to renal artery stenosis, causing hypertension.
+
+E. Pheochromocytoma: This is a tumor of the adrenal gland that secretes catecholamines, leading to episodic hypertension, headaches, sweating, palpitations. However, the patient's hypertension is more sustained (she had elevated BP on multiple visits). Also, pheochromocytoma would typically be picked up with other tests like 24-hour urine for metanephrines, which the question says are normal. Since the other tests are normal, maybe not this.
+
+So putting it all together. The patient is young, female, with renovascular hypertension suggested by the renal angiogram. The most likely cause is fibromuscular hyperplasia. Atherosclerosis is less likely in a young person without risk factors. PKD would have other findings. Glomerulonephritis would have other lab abnormalities. Pheochromocytoma would present differently and be detected by other tests.
+
+Therefore, the answer is D.
+</think>
+<answer>
+### Clinical Context and Key Information
+
+This case involves a **25-year-old woman** presenting with **elevated blood pressure (150/100 mm Hg)**. She has **no current medications, no smoking history, and only social alcohol use**, which minimizes the influence of lifestyle-related hypertension. She has a **family history of heart failure**, but no known family history of renal disease or hypertension. Despite a history of elevated blood pressure, she has **not followed up** with her physician and has **no symptoms** or other abnormalities on physical exam or laboratory testing.
+
+The **renal angiogram** is the only **abnormal finding**, which is a key clue.
+
+---
+
+### Differential Diagnosis of Secondary Hypertension in a Young Adult
+
+In **young adults**, **secondary causes of hypertension** are more likely to be considered than primary hypertension. The main secondary causes include:
+
+- **Renovascular hypertension**
+- **Endocrine causes** (e.g., pheochromocytoma, primary aldosteronism)
+- **Renal parenchymal disease** (e.g., glomerulonephritis, polycystic kidney disease)
+- **Congenital anomalies**
+
+Given the **normal physical exam**, **no symptoms of endocrine disorders**, and **normal lab results except for the renal angiogram**, the focus should be on **renal artery pathology**.
+
+---
+
+### Evaluation of the Options
+
+Let’s analyze each of the answer choices in light of the clinical scenario:
+
+#### A. **Atherosclerosis**
+- **Typically occurs in older adults** with risk factors such as hyperlipidemia, diabetes, and smoking.
+- **Unlikely in a 25-year-old** with no risk factors.
+- **Not the most likely cause** in this case.
+
+#### B. **Adult Polycystic Kidney Disease (PKD)**
+- **Genetic disorder** that typically presents with **cystic kidneys**, **hematuria**, **flank pain**, and **progressive renal failure**.
+- Diagnosis is usually made via **renal ultrasound**, not angiogram.
+- **Not supported by the clinical context or imaging modality used**.
+
+#### C. **Glomerulonephritis**
+- Leads to **inflammation of the glomeruli**, typically associated with **hematuria, proteinuria, and elevated creatinine**.
+- These **laboratory abnormalities are not mentioned** as present in the patient.
+- **Unlikely given the normal test results**.
+
+#### D. **Fibromuscular Hyperplasia (FMD)**
+- **Common cause of renovascular hypertension in young women**, especially in those with **no traditional atherosclerotic risk factors**.
+- Characteristic **angiographic findings** include **“string of beads” appearance** in the renal arteries.
+- **Highly consistent** with the patient’s age, sex, and the abnormal renal angiogram.
+- **Most likely diagnosis** given the clinical and imaging findings.
+
+#### E. **Pheochromocytoma**
+- **Endocrine cause of hypertension**, often presenting with **episodic hypertension**, **palpitations**, **headaches**, and **sweating**.
+- **Not supported** by the patient’s **stable, sustained hypertension**.
+- Diagnosis would usually involve **24-hour urine metanephrines**, which are not indicated as abnormal here.
+
+---
+
+### Conclusion
+
+The **young age**, **absence of atherosclerotic risk factors**, and **abnormal renal angiogram** strongly suggest **renovascular hypertension**. Among the listed options, **fibromuscular hyperplasia** is the **most likely cause** of this patient’s hypertension.
+
+---
+
+### Final Answer
+
+$$
+\boxed{D}
+$$
+</answer>

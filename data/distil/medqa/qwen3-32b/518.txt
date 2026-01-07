@@ -1,0 +1,48 @@
+<think>
+Okay, let's try to work through this question. So, the patient is a 51-year-old police officer who was shot in the abdomen. He had a laparotomy, and they didn't find any colon or small intestine involvement. Then three days later, he has non-bloody diarrhea, fever, and pseudomembranous plaques in the sigmoid and descending colon. The question is asking which enzyme inhibition by the antibiotic is responsible for these symptoms.
+
+First, I need to recall what pseudomembranous colitis is. I think that's usually caused by Clostridioides difficile (C. diff) infection. That's right, right? C. diff can lead to pseudomembranous colitis, which presents with diarrhea, fever, and those plaques. The plaques are made of fibrin, mucus, and inflammatory cells, forming a pseudomembrane on the colon lining.
+
+So, the key here is that the patient developed this after being on antibiotics. The antibiotics likely disrupted his normal gut flora, allowing C. diff to overgrow. Now, which antibiotics are known to cause this? I remember that clindamycin is a classic one, but also others like cephalosporins, fluoroquinolones, and maybe even ampicillin. The question is about which enzyme these antibiotics inhibit.
+
+Looking at the options: A is 30S ribosomal subunit. Which antibiotics target that? Aminoglycosides, tetracyclines, maybe some others. B is 50S subunit—macrolides (like erythromycin), clindamycin, chloramphenicol. C is dihydropteroate synthetase—sulfonamides (like Bactrim). D is DNA-dependent RNA polymerase—rifampin. E is DNA gyrase—fluoroquinolones like ciprofloxacin.
+
+Since the question is about the antibiotic that the patient was on leading to C. diff. Well, the patient was placed on "appropriate antibiotic" after a gunshot wound. Common antibiotics for abdominal trauma might include broad-spectrum ones like a beta-lactam (maybe with clindamycin to cover anaerobes?), or maybe fluoroquinolones? But the key here is which of these antibiotics inhibit which enzyme. Clindamycin, which is associated with C. diff, inhibits the 50S ribosomal subunit. So if the answer is B, that would make sense. Alternatively, if the antibiotic was a fluoroquinolone (targeting DNA gyrase, option E), could that also cause C. diff? Yes, but the question is about which enzyme is inhibited by the antibiotic responsible here. Since clindamycin is a classic cause and inhibits 50S, then B would be the answer. Let me check again: clindamycin is a lincosamide and inhibits bacterial protein synthesis by binding to the 50S ribosomal subunit. So the answer should be B. The other options: if the antibiotic was targeting 30S, like gentamicin, but that's not as commonly associated with C. diff. Sulfonamides inhibit dihydropteroate synthetase (option C), but they can also cause diarrhea, but not typically pseudomembranous. Rifampin (D) is for TB. DNA gyrase (E) is fluoroquinolones, which can cause C. diff but again, the enzyme here is DNA gyrase. However, the classic association with clindamycin (which inhibits 50S) and pseudomembranous colitis makes me think B is correct. So the answer is B.
+</think>
+<answer>
+### Clinical Scenario Summary
+
+A 51-year-old man, with a history of hypertension and diabetes, was admitted after a gunshot wound to the abdomen. He underwent a diagnostic laparotomy without evidence of intestinal injury. Post-operatively, he developed fever and non-bloody diarrhea. A sigmoidoscopy revealed **pseudomembranous plaques**, a classic sign of **Clostridioides difficile (C. diff)** infection.
+
+---
+
+### Pathophysiological Insight
+
+C. diff infection is a well-known complication of **antibiotic use**, particularly those that **disrupt the normal gut microbiota**, allowing C. diff to proliferate and release toxins that cause colonic inflammation and pseudomembranous colitis.
+
+Among the antibiotics commonly associated with this condition, **clindamycin** stands out as a **classic culprit**. Clindamycin belongs to the **lincosamide class** of antibiotics and works by **binding to the 50S ribosomal subunit**, thereby **inhibiting bacterial protein synthesis**.
+
+---
+
+### Antibiotic Enzyme Inhibition Overview
+
+Let’s evaluate the options in the context of enzyme inhibition:
+
+- **A: 30S ribosomal subunit** – Inhibited by **aminoglycosides** and **tetracyclines**. Not typically linked to C. diff.
+- **B: 50S ribosomal subunit** – Inhibited by **clindamycin**, **macrolides**, and **chloramphenicol**. **Clindamycin** is a well-known cause of C. diff.
+- **C: Dihydropteroate synthetase** – Inhibited by **sulfonamides**. Diarrhea may occur, but not pseudomembranous colitis.
+- **D: DNA-dependent RNA polymerase** – Inhibited by **rifampin**. Not associated with C. diff.
+- **E: DNA gyrase** – Inhibited by **fluoroquinolones**. While fluoroquinolones can cause C. diff, the enzyme they inhibit is **not 50S**.
+
+---
+
+### Conclusion
+
+Given the clinical picture of **pseudomembranous colitis**, the most likely underlying antibiotic is **clindamycin**, which inhibits the **50S ribosomal subunit**.
+
+---
+
+$$
+\boxed{B}
+$$
+</answer>

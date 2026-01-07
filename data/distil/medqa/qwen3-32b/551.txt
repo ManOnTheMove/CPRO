@@ -1,0 +1,101 @@
+<think>
+Okay, let's try to figure out this genetics problem. The question is about the probability of a female and a male with normal vision having a daughter who is red-green color blind. The given information is that the incidence of red-green color blindness in males in the population is 1/100. 
+
+First, I need to recall how red-green color blindness is inherited. I remember that it's an X-linked recessive trait. That means the gene is located on the X chromosome. Since males have only one X chromosome (they're XY), if they inherit the affected X, they'll express the trait. Females, on the other hand, have two X chromosomes (XX), so they need to have both X chromosomes carrying the recessive allele to express the condition. If a female has one normal and one affected X, she's a carrier but doesn't show the trait.
+
+The question is about the probability of their daughter being color blind. Let's break down the parents' genotypes. The parents have normal vision. So the father must have a normal X chromosome. Since he's male, his genotype is X^N Y (where X^N is the normal allele). The mother is female with normal vision. However, she could either be homozygous normal (X^N X^N) or a carrier (X^N X^c, where X^c is the color blind allele). The question is, what's the chance that the mother is a carrier?
+
+To find that, we need to use the given incidence in males. Since males only have one X, the frequency of the recessive allele (q) in the population is equal to the incidence in males. So q = 1/100 = 0.01. The frequency of the normal allele (p) would then be 1 - q = 0.99.
+
+For females, the probability of being a carrier (X^N X^c) is 2pq. Wait, no. Wait, the Hardy-Weinberg principle for X-linked traits. Since females have two X chromosomes, the frequency of females being carriers is 2pq. But actually, the carrier frequency is 2pq. Wait, let me think again. The Hardy-Weinberg equation for X-linked traits. In females, the possible genotypes are X^N X^N (homozygous normal), X^N X^c (carrier), and X^c X^c (color blind). The frequencies would be p², 2pq, and q² respectively. But since the question is about the mother's probability of being a carrier, given that she has normal vision (so she's not color blind), we need to calculate the probability that she's a carrier among all females with normal vision.
+
+So the total proportion of females with normal vision is p² + 2pq. The carrier proportion is 2pq. Therefore, the probability that a phenotypically normal female is a carrier is [2pq] / [p² + 2pq]. Let me compute that.
+
+Given p = 0.99 and q = 0.01:
+
+Numerator: 2 * 0.99 * 0.01 = 0.0198
+
+Denominator: (0.99)^2 + 0.0198 = 0.9801 + 0.0198 = 0.9999
+
+So the probability is approximately 0.0198 / 0.9999 ≈ 0.0198, which is roughly 2%. So about 1/50. Wait, 0.0198 is approximately 0.02, which is 2%, and 1/50 is 0.02. So the probability that the mother is a carrier is roughly 1/50.
+
+Now, if the mother is a carrier (X^N X^c) and the father is normal (X^N Y), what is the chance their daughter is color blind?
+
+Daughters inherit one X from each parent. The father can only give his X^N. The mother, if she's a carrier, can give either X^N or X^c. So the daughter's possible genotypes are X^N (from father) and X^N (from mother) → X^N X^N (normal), or X^N (from father) and X^c (from mother) → X^N X^c (carrier). Therefore, the daughter cannot be color blind. Because she needs two X^c alleles. Since the father is giving X^N, the daughter can't get two X^c. Therefore, even if the mother is a carrier, the daughter can't be color blind. Wait, that's a key point.
+
+So if the parents are both phenotypically normal, and the father is X^N Y, and the mother is either X^N X^N or X^N X^c, then their daughters can't be color blind. Because the father contributes X^N, and the mother contributes either X^N or X^c. So the daughter will have at least one X^N. Therefore, the probability of the daughter being color blind is zero.
+
+But wait, the answer options include E: 0. So is the answer E?
+
+But let me double-check. Suppose the mother is X^c X^c. Wait, but if the mother is color blind, she would have to have X^c X^c. However, the mother in the question is stated to have normal vision. Therefore, she cannot be color blind. Therefore, she can't be X^c X^c. Therefore, she's either X^N X^N or X^N X^c. In either case, as above, the daughter can't be color blind. Therefore, the probability is zero. Therefore, the answer is E.
+
+But wait, the initial calculation suggested that the mother has a 2% chance of being a carrier. But even if she is a carrier, the daughter can't be color blind. Therefore, regardless of whether the mother is a carrier or not, the daughter can't be color blind. Therefore, the probability is zero. Hence, answer E.
+
+But let me make sure I didn't miss anything. The question is about the probability of a daughter being color blind. For a daughter to be color blind, she must inherit two X^c alleles. Since the father is normal (X^N Y), he can only pass his X^N to his daughter. Therefore, the daughter will have one X^N from the father. The mother can pass either X^N or X^c (if she's a carrier). Therefore, the daughter would be X^N X^N or X^N X^c. Neither of which is color blind. Therefore, regardless of the mother's genotype, the daughter cannot be color blind. Therefore, the probability is zero. So the answer is E.
+
+But why was the incidence given? Maybe to test if we get confused and think that there's a possibility? But no, the logic here is solid. The daughter can't be color blind if the father is normal. Because the father contributes a normal X. Therefore, the answer is E.
+</think>
+<answer>
+To solve this problem, we must understand the **genetic inheritance pattern** of **red-green color blindness**, which is an **X-linked recessive trait**.
+
+---
+
+### 1. **Understanding the Genetics of Red-Green Color Blindness**
+
+- **Males (XY)**: Since they only have one X chromosome, they express the trait if they inherit the recessive allele (X^c).
+- **Females (XX)**: They must inherit **two recessive alleles** (X^c X^c) to express the trait. If they have only one (X^N X^c), they are **carriers** but do **not** express the trait.
+
+---
+
+### 2. **Given Information**
+
+- The **incidence of red-green color blindness in males** is **1/100**.
+- This means that the **frequency of the recessive allele (q)** is:
+  $$
+  q = \frac{1}{100} = 0.01
+  $$
+- Therefore, the **dominant allele frequency (p)** is:
+  $$
+  p = 1 - q = 0.99
+  $$
+
+---
+
+### 3. **Parental Genotypes and Possible Outcomes**
+
+- The **father has normal vision**, so his genotype is **X^N Y**.
+- The **mother has normal vision**, so her genotype is either:
+  - **X^N X^N** (homozygous normal), or
+  - **X^N X^c** (heterozygous, i.e., a **carrier**)
+
+The question asks for the **probability that a daughter** of these parents is **color blind**.
+
+---
+
+### 4. **Daughter’s Genotype Possibilities**
+
+- A **daughter** will receive one X from the **mother** and one X from the **father**.
+- The **father** can only pass his **X^N**.
+- The **mother** can pass either **X^N** or **X^c**, depending on whether she is a carrier.
+
+Thus, the daughter's possible genotypes are:
+- **X^N X^N** (normal)
+- **X^N X^c** (carrier)
+
+In **neither case** does the daughter have **two recessive alleles** (X^c X^c), which is **required** to express color blindness.
+
+---
+
+### 5. **Conclusion**
+
+- Regardless of whether the mother is a carrier or not, the daughter **cannot** inherit two X^c alleles.
+- Therefore, the **probability of the daughter being color blind is zero**.
+
+---
+
+### Final Answer
+
+$$
+\boxed{E}
+$$
+</answer>

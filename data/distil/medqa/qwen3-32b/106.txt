@@ -1,0 +1,67 @@
+<think>
+Okay, let's tackle this question. The patient is a 45-year-old man who's come in three times in three weeks asking for an MRI of his lower back. He started with some gym exercises, got sore, then spent the day online researching. He's been to the ED, then redirected to the clinic where they've done thorough exams and investigations. Despite that, he's still worried and wants an MRI to be sure everything's okay.
+
+First, I need to recall the DSM-5 criteria for the disorders listed. The options are A to E. Let's go through each one.
+
+Illness anxiety disorder (A) is when someone has a preoccupation with having a serious illness despite minimal or no symptoms. They might have high anxiety about their health, check their body, or seek reassurance. The key here is that they're worried about having a disease even without significant symptoms.
+
+Somatic symptom disorder (C) involves having a physical symptom that's distressing or disruptive, and the person has excessive thoughts, feelings, or behaviors about the symptom. The symptom is present, but the concern is excessive. For example, if someone has back pain and is overly concerned about it, even after being told it's not serious.
+
+Delusional disorder (B) involves non-bizarre delusions, like thinking they have an illness when they don't. But these delusions are fixed and not influenced by reality. However, the patient here hasn't shown that he's delusional; he's been examined and investigated, but still wants more tests. It doesn't sound like a delusion because he's not holding a false belief despite evidence against it. He's just anxious.
+
+Factitious disorder (D) and Munchausen syndrome (E) involve intentionally producing or faking symptoms to assume the sick role. The patient here doesn't seem to be faking symptoms. He actually had back soreness after exercise, so there's a real symptom, but his concern is excessive. So probably not D or E.
+
+Now, between A and C. The patient has a physical symptom (back soreness), but he's overly concerned about it, seeking repeated testing. However, the question is whether the symptom is causing the distress or the distress is about having an illness. Somatic symptom disorder requires that there's a physical symptom that is present and causes significant distress or functional impairment. Illness anxiety disorder is more about the fear of having an illness without the significant physical symptom. But in this case, he does have a physical symptom (soreness) but his reaction is excessive. 
+
+The DSM-5 criteria for somatic symptom disorder require that one or more somatic symptoms that are distressing or result in significant disruption. The person must have disproportionate thoughts about the seriousness of the symptom, or persistence of the symptom for an excessive amount of time. Here, the back soreness is present, and his concern is excessive despite being evaluated. So this would be C. 
+
+But wait, illness anxiety disorder is when the person is worried about having a serious illness without the physical symptoms. The patient here does have a physical symptom (soreness), so that would lean towards somatic symptom disorder. 
+
+Therefore, the most likely diagnosis is C: Somatic symptom disorder.
+</think>
+<answer>
+To determine the most likely diagnosis for this 45-year-old man, we need to carefully evaluate the clinical scenario and align it with the diagnostic criteria outlined in the DSM-5.
+
+---
+
+### Clinical Presentation Summary:
+- **Persistent concern** about his back health despite multiple evaluations and reassurance.
+- **Physical symptom**: Lower back soreness following exercise.
+- **Excessive health-related behaviors**: Multiple visits to the emergency department and clinic, repeated requests for MRI.
+- **Preoccupation with illness**: Spent a full day researching online after developing soreness.
+- **Lack of resolution of anxiety**: Despite thorough investigations, the patient remains anxious and seeks further reassurance.
+
+---
+
+### Differential Diagnosis Analysis:
+
+- **A. Illness Anxiety Disorder (formerly Hypochondriasis):**  
+  This diagnosis is appropriate when an individual is excessively worried about having a serious illness, often in the **absence of a significant physical symptom**. The individual may seek repeated medical evaluations for reassurance.  
+  → **In this case**, the patient **does have a physical symptom** (back soreness), making this less likely.
+
+- **B. Delusional Disorder:**  
+  Characterized by **non-bizarre delusions**, such as the belief that one has a serious illness, **despite clear evidence to the contrary**.  
+  → The patient is not exhibiting a fixed, false belief that is unshakable. He is anxious but not delusional.
+
+- **C. Somatic Symptom Disorder:**  
+  Defined by the presence of **one or more distressing physical symptoms** that lead to **excessive thoughts, feelings, or behaviors** related to the symptom(s).  
+  → This fits well with the patient's presentation: he has a **physical symptom (back soreness)** and is **excessively anxious** about it, **seeking reassurance and medical tests** despite being evaluated multiple times.
+
+- **D. Factitious Disorder:**  
+  Involves **intentionally producing or feigning physical symptoms** to assume the role of a sick person.  
+  → There is **no evidence** that the patient is fabricating or exaggerating symptoms. The soreness is real and occurred after exercise.
+
+- **E. Munchausen Syndrome:**  
+  A specific type of **factitious disorder** where the individual **falsely presents symptoms** to gain medical attention.  
+  → Again, **no evidence of malingering** is present in this case.
+
+---
+
+### Conclusion:
+
+The patient's **back soreness is a real symptom**, but the **excessive concern and repeated medical-seeking behavior** are **disproportionate** to the actual medical findings. This pattern aligns best with **Somatic Symptom Disorder**, which is defined by a **physical symptom** that causes **significant distress or disruption**, along with **excessive thoughts, feelings, or behaviors** related to the symptom.
+
+$$
+\boxed{C}
+$$
+</answer>

@@ -1,0 +1,48 @@
+<think>
+Okay, let's try to figure this out. The patient is a 69-year-old woman with a new-onset, left-sided, throbbing headache that's lasted several days and is worse with eating. The question is about what complication can occur if not treated promptly.
+
+First, I need to think about what conditions cause headaches that worsen with eating. Temporal arteritis, also known as giant cell arteritis, comes to mind. That's a vasculitis affecting the temporal arteries and other medium to large vessels. Classic symptoms include headache, tenderness over the temple, and jaw claudication, which is pain when chewing. So the fact that her headache is worse when eating could be jaw claudication, which is a sign of temporal arteritis.
+
+Now, the complications of untreated temporal arteritis. The main concern is vision loss, specifically sudden, painless monocular blindness. This happens because the inflammation can cause thrombosis in the ophthalmic artery or its branches, leading to ischemia of the optic nerve or retina. If the other eye is also affected, bilateral blindness can occur. Also, there's a risk of stroke because the disease can affect other cranial arteries. But the options here include monocular blindness (C) and ischemic stroke (E). 
+
+But wait, the question asks for the complication if not treated promptly. The most urgent and common complication is monocular blindness. Once that occurs, it's often irreversible. So the answer might be C. Other options like intestinal ischemia (B) could be from mesenteric artery involvement, but that's less common. Skin nodules (A) aren't typical. Myocardial infarction (D) is a possible long-term risk since there's an association with atherosclerosis, but not the immediate complication. Ischemic stroke (E) is a possible complication too, but again, monocular blindness is more directly linked and a classic warning sign that needs immediate treatment to prevent further vision loss. 
+
+So the answer is C: Monocular blindness.
+</think>
+<answer>
+To address the clinical scenario, let's analyze the key symptoms and their underlying pathology.
+
+---
+
+### **Clinical Presentation Analysis**
+- **Patient**: 69-year-old woman.
+- **Symptoms**: New-onset, **left-sided**, **throbbing** headache lasting several days, **worsened by eating**.
+  
+The **location** (left-sided), **character** (throbbing), and **exacerbation with eating** (suggesting **jaw claudication**) are **hallmark features** of **temporal arteritis** (giant cell arteritis), a **systemic vasculitis** that primarily affects **medium to large arteries**, especially the **temporal arteries** and **ophthalmic artery**.
+
+---
+
+### **Pathophysiology and Complications**
+- **Temporal arteritis** involves **inflammation and narrowing of the arteries**, which can lead to **ischemia** of the structures supplied by the affected vessels.
+- A **classic complication** is **monocular blindness**, resulting from **ischemia of the optic nerve or retina** due to involvement of the **ophthalmic artery**.
+- This complication is **urgent and irreversible** if it occurs, hence the **need for prompt treatment** (e.g., high-dose corticosteroids).
+- Other possible complications include **stroke**, **myocardial infarction**, and **blindness in the second eye**, but **monocular blindness is the most immediate and well-recognized complication** in the context of untreated temporal arteritis.
+
+---
+
+### **Evaluating the Options**
+- **A: Skin nodules** – Not a typical feature of temporal arteritis.
+- **B: Intestinal ischemia** – Possible in mesenteric artery involvement, but rare and not the most immediate concern.
+- **C: Monocular blindness** – A **classic and urgent complication** of untreated temporal arteritis. **Correct answer**.
+- **D: Myocardial infarction** – A long-term cardiovascular risk, not the immediate complication.
+- **E: Ischemic stroke** – A possible complication, but **less specific and less urgent** than monocular blindness.
+
+---
+
+### **Conclusion**
+Given the symptoms and the condition likely at play (temporal arteritis), **monocular blindness** is the most **specific and urgent complication** if treatment is delayed.
+
+$$
+\boxed{C}
+$$
+</answer>

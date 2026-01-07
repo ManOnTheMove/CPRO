@@ -1,0 +1,79 @@
+<think>
+Okay, let's try to figure out this question. So, the scenario is an 8-year-old boy with a fractured tibia after a soccer injury. But the doctor is suspecting physical abuse. The question is asking what finding would be most likely on a skeletal survey.
+
+First, the key points here are that the boy has had multiple fractures with minimal trauma. At 4 years old, a left tibia fracture, and then a right radius 6 months ago. Both healed without major trauma. Now another fracture with a soccer incident. But the doctor is thinking abuse. So, maybe the fractures are too frequent and too easy to happen, which might not fit with accidental injuries, especially in a child who's otherwise healthy, up to date on vaccines, normal development, normal height and weight, no skin issues. 
+
+Now, the skeletal survey is done to look for other fractures that might indicate abuse. Common findings in abusive fractures would include certain patterns. But also, the question is about what the skeletal survey would most likely detect. The options include things like healed scapular fracture, ground-glass appearance, metaphyseal cupping, wormian bones, or mandibular asymmetry.
+
+First, I need to think about what conditions are associated with these findings. Let's go through each option.
+
+Option A: A healed right scapular fracture. Scapular fractures are rare in children because the scapula is protected by the shoulder girdle and soft tissues. They usually require significant force, like a high-impact trauma. If the child had a healed scapular fracture, that could be a sign of abuse because it's not common in normal play. But in this case, the child's previous fractures were with minimal trauma. However, a scapular fracture might be more severe. If the skeletal survey is looking for other fractures, maybe a healed one would be found. But is this the most likely?
+
+Option B: Ground-glass appearance of the cortices of the long bones. That sounds like something related to bone density or structure. Conditions like osteogenesis imperfecta (OI) can cause bones to be brittle. In OI, the bones are fragile and can fracture easily. The ground-glass appearance might be part of that. But OI is a genetic disorder. The child's history includes multiple fractures with minimal trauma, which could suggest OI. However, the question is in the context of suspected abuse. So, if there's an underlying metabolic bone disease, that would explain the fractures. But the presence of OI would be a different diagnosis, not abuse. So the doctor is considering abuse, but maybe there's another condition here. The question is, what is the skeletal survey most likely to show?
+
+Option C: Widening and cupping of the metaphyses of the long bones. That's a classic sign of rickets. Rickets is due to vitamin D deficiency, leading to soft bones and deformities. The metaphyses become widened and have a cupped appearance on X-ray. But again, this would be a metabolic cause of bone fragility. If the child had rickets, that could explain the fractures. However, the child is otherwise healthy, with normal growth. If there's no mention of vitamin D deficiency or dietary issues, maybe less likely. But again, the presence of this would suggest a medical cause rather than abuse.
+
+Option D: Wormian bones in the skull. Wormian bones, or sutural bones, are extra bones within the cranial sutures. They can be seen in some genetic conditions, such as cleidocranial dysplasia, or in some cases of osteogenesis imperfecta. Also, they can be present in some cases of metabolic bone disease or in certain syndromes. If the child has OI, which can cause multiple fractures, and wormian bones are a feature of OI, then this could be a finding. So if the child has OI, that would explain the fractures and the presence of wormian bones. So in this case, the skeletal survey might show wormian bones, indicating OI, which would be a medical explanation for the fractures instead of abuse.
+
+Option E: Mandibular asymmetry. Mandibular asymmetry could be due to various reasons, including trauma or congenital issues. But in the context of abuse, maybe a history of fractures to the jaw? However, I'm not sure if mandibular asymmetry is a classic sign of abuse. It might be more specific to certain syndromes or conditions.
+
+So, putting this together. The child has multiple fractures with minimal trauma. The doctor is suspecting abuse, but maybe there's an underlying condition. The skeletal survey is to check for other fractures (like in abuse) or signs of a bone disorder.
+
+If the answer is looking for a finding that would indicate a non-accidental trauma (abuse), then maybe A (healed scapular fracture) is a possibility because scapular fractures in kids are rare without high-energy trauma. If there's a healed one, that could suggest previous abuse. However, if the survey shows something like wormian bones or ground-glass cortices, that would suggest OI, which is a medical condition. Similarly, metaphyseal cupping would suggest rickets.
+
+The question is which is "most likely" to be detected. The child's sclerae are white-blue. Wait, blue sclerae are a classic sign of osteogenesis imperfecta. OI is characterized by brittle bones, multiple fractures, and blue sclerae. The presence of blue sclerae is a key clue here. The question mentions that the sclerae are white-blue. So this is a critical point. If the child has blue sclerae, that's highly suggestive of OI. Therefore, the skeletal survey would likely show features of OI. What are the X-ray findings in OI? They include Wormian bones (option D), bowing of long bones, multiple healing fractures, and possibly a ground-glass appearance if there's increased bone density. Wait, OI can present with different types. Type I OI, which is the most common, has blue sclerae, normal intelligence, and bones that fracture easily. X-rays may show Wormian bones, but also generalized osteopenia, and fractures. So in this case, the presence of blue sclerae points to OI. Therefore, the skeletal survey would most likely show wormian bones (option D). 
+
+But the doctor is suspecting abuse. However, if the child has OI, that explains the fractures. So the presence of wormian bones would support a diagnosis of OI rather than abuse. So the question is asking what finding is most likely in the skeletal survey. Given that the child has blue sclerae, the answer is D: Wormian bones. 
+
+The other options don't fit with blue sclerae. So even though the doctor is thinking abuse, the correct answer here is related to the underlying condition (OI) that's causing the fractures. Therefore, the correct answer is D.
+</think>
+<answer>
+### Clinical Overview
+
+The case presents an 8-year-old boy with a recent tibial fracture following minimal trauma (kicking a metal goal post), and a history of two prior fractures (left tibia at 4 years old and right radius 6 months ago) that also occurred without significant injury. The child is developmentally normal, has no muscular hypotonia, and has a normal height and weight. Notably, the **sclerae are described as "white-blue"**, which is a **red flag** for **osteogenesis imperfecta (OI)**, a heritable connective tissue disorder characterized by **brittle bones** and **easily fractured bones**.
+
+---
+
+### Differential Diagnosis
+
+Given the **repeated fractures with minimal trauma**, **blue sclerae**, and **normal development**, the differential includes:
+
+- **Osteogenesis Imperfecta (OI)**
+- **Non-accidental trauma (abuse)**
+- **Metabolic bone disorders (e.g., rickets)**
+
+However, the **blue sclerae** are **pathognomonic** for OI. This is a key diagnostic clue and strongly suggests a **genetic/metabolic cause** rather than physical abuse or nutritional deficiency.
+
+---
+
+### Skeletal Survey in Osteogenesis Imperfecta
+
+A **skeletal survey** is a radiographic evaluation of the entire skeleton used to detect **unusual fractures, bone deformities, or characteristic radiographic findings**. In the context of OI, the most **specific and common radiographic finding** is the presence of **Wormian bones**.
+
+- **Wormian bones** are **extra bones** found within the cranial sutures. They are **most commonly associated with OI**, especially **Type I**, and are a **hallmark finding** on skeletal survey.
+- Other features may include **osteopenia**, **multiple healing fractures**, **bowing of long bones**, and **abnormal bone modeling**.
+
+---
+
+### Evaluation of the Answer Choices
+
+- **A: A healed right scapular fracture** – While scapular fractures in children are rare and may suggest abuse, this is not the most likely finding given the blue sclerae and history.
+  
+- **B: Ground-glass appearance of the cortices of the long bones** – This is more typical of **fibrous dysplasia** or **osteopetrosis**, not OI.
+
+- **C: Widening and cupping of the metaphyses of the long bones** – This is **classic for rickets**, not OI, and inconsistent with the clinical picture.
+
+- **D: Wormian bones in the skull** – This is **highly specific for OI**, especially in the context of **blue sclerae** and **multiple fractures with minimal trauma**. It is the **most likely** finding on the skeletal survey.
+
+- **E: Mandibular asymmetry** – Not a typical finding in OI or abuse in this context.
+
+---
+
+### Conclusion
+
+Given the **blue sclerae**, **multiple fractures with minimal trauma**, and the **clinical suspicion of an underlying metabolic disorder**, the **most likely finding** on the **skeletal survey** is **Wormian bones in the skull**, which are **characteristic of osteogenesis imperfecta**.
+
+$$
+\boxed{D}
+$$
+</answer>

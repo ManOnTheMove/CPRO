@@ -1,0 +1,41 @@
+<think>
+Okay, let's try to figure out this question. So, the patient has invasive ductal carcinoma, and she's positive for HER-2/neu. The question is asking what should be started post-mastectomy to improve her prognosis.
+
+First, I need to recall what HER-2/neu positivity means. HER-2 is a receptor that's overexpressed in some breast cancers, and it's associated with more aggressive tumors. But there are targeted therapies for that. Trastuzumab comes to mind. It's a monoclonal antibody that targets HER-2. So maybe that's the answer here.
+
+But let me check the options. The options are Anastrozole, Corticosteroids, Leuprolide, Tamoxifen, and Trastuzumab. 
+
+Anastrozole is an aromatase inhibitor, used in hormone receptor-positive breast cancers. But the question doesn't mention hormone receptor status. The patient's cancer is HER-2 positive, but not necessarily hormone receptor positive. So maybe not Anastrozole unless there's more info.
+
+Tamoxifen is a selective estrogen receptor modulator, also used for hormone receptor-positive cancers. Again, unless the tumor is ER/PR positive, this might not be the right choice. The question doesn't specify that, so maybe not.
+
+Leuprolide is a GnRH agonist, used to suppress estrogen production, again for hormone-sensitive cancers. But again, without knowing if the cancer is hormone receptor positive, not sure.
+
+Corticosteroids are anti-inflammatory, but I don't think they are used as a standard adjuvant therapy for breast cancer unless in specific cases like lymphoma, which this isn't.
+
+Trastuzumab (option E) is specifically for HER-2 positive cancers. Since the patient is HER-2 positive, this would be the targeted therapy. The question says "to improve prognosis," and trastuzumab is known to improve outcomes in HER-2 positive breast cancer when used post-surgery, especially in combination with chemotherapy.
+
+So the answer is probably E. Trastuzumab. Let me double-check. The patient is having a mastectomy, and post-mastectomy adjuvant therapy. For HER-2 positive, trastuzumab is standard. Yes. The other options are for hormone receptors, which aren't mentioned here. So the answer is E.
+</think>
+<answer>
+The patient in question has been diagnosed with **invasive ductal carcinoma** and is **HER-2/neu positive**, which indicates overexpression of the HER-2 receptor. This is a known marker for more aggressive breast cancer, but it also makes the tumor a good candidate for **targeted therapy**.
+
+---
+
+### Key Considerations:
+
+- **HER-2 positivity** is associated with a poorer prognosis if left untreated, but the advent of **trastuzumab**, a monoclonal antibody that specifically targets the HER-2 receptor, has significantly improved outcomes for these patients.
+- **Post-mastectomy**, adjuvant therapies are often used to reduce the risk of recurrence.
+- The other options (Anastrozole, Tamoxifen, Leuprolide) are **hormonal therapies** typically used in **hormone receptor-positive** breast cancers. However, the question does not provide evidence that the tumor is estrogen or progesterone receptor positive.
+- **Corticosteroids** are not standard adjuvant therapy for breast cancer and are not indicated here.
+
+---
+
+### Conclusion:
+
+Given the **HER-2 positivity**, the most appropriate post-mastectomy therapy to improve prognosis is **Trastuzumab**, which targets the overexpressed HER-2 receptor and has been shown to significantly reduce recurrence and improve survival in such cases.
+
+$$
+\boxed{E}
+$$
+</answer>

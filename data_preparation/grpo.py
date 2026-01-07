@@ -73,7 +73,7 @@ def main():
     data_source, split, data_path, save_path = parse_args()
 
     df = pd.read_csv(data_path)
-    df = df.map(get_create_prompt(prompt_template), axis=1)
+    df = df.apply(get_create_prompt(prompt_template), axis=1)
     df_dataset = datasets.Dataset.from_pandas(df)
     df_dataset = df_dataset.map(function=make_map_fn(data_source, split), with_indices=True)
 

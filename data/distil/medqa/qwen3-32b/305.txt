@@ -1,0 +1,65 @@
+<think>
+Okay, let's try to figure out this question. The patient is a 21-year-old man with visual disturbances and episodes of shaking, which might be seizures. He has a family history of his mother having intermittent muscle weakness and his uncle having hemiplegia at 35. The neuroimaging shows bilateral occipital lobe infarcts, and the muscle biopsy shows atypical fibers positive for subsarcomeral structures. The doctor suspects a maternally inherited disorder.
+
+First, I need to think about what maternally inherited disorders could fit this presentation. Maternal inheritance usually points to mitochondrial DNA (mtDNA) mutations because mitochondria are inherited from the mother. Mitochondrial diseases can present with a variety of symptoms, including neurological issues, muscle problems, and other systemic symptoms.
+
+The symptoms here include visual issues (which could be related to occipital lobe infarcts), seizures, muscle weakness in the family, and hemiplegia. The muscle biopsy finding of atypical fibers with subsarcomeral structures might be related to mitochondrial myopathy. Mitochondrial disorders can lead to strokes, sometimes called "mitochondrial stroke-like episodes," which might explain the infarcts.
+
+Now the question asks why the severity differs among family members. The options are heteroplasmy, mosaicism, variable penetrance, anticipation, or uniparental disomy.
+
+Heteroplasmy refers to the presence of both normal and mutant mtDNA in a cell. The proportion of mutant mtDNA can vary between cells and tissues, and even within different parts of the same tissue. The severity of mitochondrial diseases often depends on the level of heteroplasmy—higher levels of mutant mtDNA generally lead to more severe disease. Since the mother passes on a mixture of her mtDNA to her children, each child might inherit a different proportion of mutant mtDNA, leading to variable expression and severity. This could explain why the patient is more severely affected compared to his mother or uncle.
+
+Mosaicism is when an individual has a mixture of cells with different genotypes. This usually occurs after fertilization, leading to some cells having the mutation and others not. But since the question is about variation among family members (mother, uncle, patient), mosaicism in the mother might affect her offspring, but I think heteroplasmy is more relevant here for mitochondrial issues.
+
+Variable penetrance means that not everyone with the mutation shows the phenotype. But in this case, the family members do show symptoms, just with different severity. So maybe variable penetrance isn't the best fit. The question is about varying severity, not presence or absence of the disease.
+
+Anticipation refers to the phenomenon where the severity of a genetic disorder increases and the age of onset decreases in successive generations. This is often due to trinucleotide repeat expansions, like in Huntington's disease or myotonic dystrophy. However, the question here is about a maternally inherited disorder. Mitochondrial diseases don't typically show anticipation. Also, the uncle had symptoms at 35, and the patient is 21 already showing symptoms. If anticipation were the case, the patient would have more severe symptoms than his uncle, which might fit, but mitochondrial diseases aren't usually associated with anticipation. So maybe not D.
+
+Uniparental disomy is when a person inherits both copies of a chromosome from one parent and none from the other. This is not related to mitochondrial inheritance, which is strictly maternal. So E is probably not correct.
+
+So putting it all together: The key here is that mitochondrial diseases are maternally inherited and the severity depends on the proportion of mutated mtDNA (heteroplasmy). Different family members can have different levels of heteroplasmy, leading to varying severity. Therefore, the answer is A: Heteroplasmy.
+</think>
+<answer>
+### Clinical Context
+
+The 21-year-old male presents with **visual disturbances**, **seizures**, and **neuroimaging findings of bilateral occipital lobe infarcts**. A **skeletal muscle biopsy** reveals **atypical muscle fibers** positive for **subsarcomeral structures**, which are consistent with **mitochondrial myopathy**. The **maternal inheritance pattern** and **family history** of similar neurological symptoms (intermittent muscle weakness in the mother and hemiplegia in the uncle) point strongly toward a **mitochondrial disorder**.
+
+---
+
+### Genetic Inheritance and Pathophysiology
+
+Mitochondrial disorders are typically **inherited maternally**, as **mtDNA is exclusively passed from the mother**. These disorders are characterized by the presence of **heteroplasmy**, meaning **a mixture of normal and mutant mitochondrial DNA** in a cell. The **severity** of the disease is often **proportional to the level of heteroplasmy**—higher levels of mutant mtDNA lead to **more severe clinical manifestations**.
+
+In this case, the **variable severity** among affected family members is best explained by **differences in the proportion of mutant mtDNA inherited by each individual**. For example:
+
+- The patient may have inherited a **higher proportion of mutant mtDNA**, resulting in earlier and more severe symptoms.
+- The mother may have a **lower proportion of mutant mtDNA**, causing milder or later-onset symptoms.
+- The uncle may have a **different proportion**, explaining his hemiplegia at age 35.
+
+---
+
+### Evaluation of Answer Choices
+
+- **A: Heteroplasmy** ✅  
+  This is the **correct explanation** for the **variable severity** of mitochondrial disease among family members. The proportion of mutant mtDNA varies between individuals and tissues, leading to **clinical heterogeneity**.
+
+- **B: Mosaicism**  
+  Mosaicism refers to **different genotypes within the same individual**, not across family members. It does not explain the **interindividual variability** in severity.
+
+- **C: Variable penetrance**  
+  This refers to **whether** a gene is expressed, not **how severely** it is expressed. All affected individuals here **do** show symptoms, so this is not the best fit.
+
+- **D: Anticipation**  
+  Anticipation involves **increasing severity and earlier age of onset** in successive generations, typically due to **trinucleotide repeat expansions** (e.g., Huntington’s disease). This is **not characteristic** of mitochondrial disorders.
+
+- **E: Uniparental disomy**  
+  This is a chromosomal abnormality and **not related to mtDNA inheritance**.
+
+---
+
+### Final Answer
+
+$$
+\boxed{A}
+$$
+</answer>

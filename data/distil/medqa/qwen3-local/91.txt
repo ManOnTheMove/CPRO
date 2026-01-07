@@ -1,0 +1,43 @@
+<think>
+Okay, let's see. The patient is a 35-year-old taxi driver with itchy, watery eyes and sneezing that's getting worse with seasonal changes. He's had some OTC meds before that helped but made him drowsy. Now he wants something that won't make him sleepy so he can keep driving.
+
+So, the question is about choosing an antihistamine that's less sedating. Let me recall the different antihistamines. First-generation ones like chlorpheniramine, diphenhydramine, hydroxyzine, and promethazine are known to cause drowsiness because they cross the blood-brain barrier. Cetirizine is a second-generation antihistamine, which is less likely to cause drowsiness. 
+
+Wait, the options are A to E. Let me check each one. 
+
+Option A is Cetirizine. That's a second-gen, so less sedating. The others are first-gen. The patient had issues with drowsiness before, so switching to a second-gen would be better. 
+
+So the answer should be A. Cetirizine. The other options (B, C, D, E) are all first-generation antihistamines that can cause drowsiness. Even though some might be less sedating than others, like maybe hydroxyzine? But generally, cetirizine is considered non-sedating. 
+
+I think the key here is that the patient needs a medication that doesn't impair his driving. So the correct choice is A.
+</think>
+<answer>
+The patient is experiencing seasonal allergic rhinitis symptoms (itchy, watery eyes, sneezing) and has previously used over-the-counter antihistamines that caused significant drowsiness, impairing his ability to drive. The key requirement is to prescribe a medication that effectively manages his symptoms without causing sedation.
+
+---
+
+**Step-by-step Analysis:**
+
+1. **Understanding the Mechanism of Action:**
+   - Antihistamines block histamine receptors, which helps alleviate allergy symptoms.
+   - First-generation antihistamines (e.g., chlorpheniramine, diphenhydramine, hydroxyzine, promethazine) are more likely to cause drowsiness because they cross the blood-brain barrier and affect central histamine receptors.
+   - Second-generation antihistamines (e.g., cetirizine, loratadine) are less sedating because they are less likely to cross the blood-brain barrier.
+
+2. **Evaluating the Options:**
+   - **A: Cetirizine** – A second-generation antihistamine, known for minimal sedation, making it suitable for patients who need to remain alert (e.g., drivers).
+   - **B: Chlorpheniramine** – A first-generation antihistamine, commonly associated with drowsiness.
+   - **C: Diphenhydramine** – Also a first-generation antihistamine, well-known for causing significant sedation.
+   - **D: Hydroxyzine** – Another first-generation antihistamine, often used for anxiety and also sedating.
+   - **E: Promethazine** – A first-generation antihistamine with strong sedative effects.
+
+3. **Clinical Consideration:**
+   - The patient's job as a taxi driver requires alertness and focus. Therefore, a non-sedating medication is essential.
+   - Cetirizine (Option A) is the only second-generation antihistamine in the list and is the best choice to avoid drowsiness while managing symptoms effectively.
+
+---
+
+**Final Answer:**
+$$
+\boxed{A}
+$$
+</answer>

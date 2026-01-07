@@ -1,0 +1,75 @@
+<think>
+Okay, let me try to work through this question. So, the patient is a 28-year-old man with a swollen, tender left knee for 4 days, along with pain when urinating. He's sexually active with two male partners and uses condoms inconsistently. His sister has lupus. His BMI is high, but that might not be the main issue here. Let's break down the key points.
+
+First, the knee issue. The knee is warm, red, tender, and has limited motion—sounds like an acute arthritis. The presence of conjunctivitis is interesting. Also, there's pain with urination and WBCs in the urine, which suggests a urinary tract infection or something like that. 
+
+The patient is sexually active with men and doesn't always use condoms. So, maybe a sexually transmitted infection? But how does that connect to the knee and conjunctivitis?
+
+I remember there's a condition called reactive arthritis. It's often triggered by an infection, usually in the genitourinary or gastrointestinal tract. The classic triad is arthritis, conjunctivitis, and urethritis. That fits here: the patient has knee arthritis (monoarticular in this case), conjunctivitis, and dysuria with WBCs in urine (which could be urethritis). 
+
+Reactive arthritis is associated with HLA-B27. So if this is reactive arthritis, then the answer would be A: HLA-B27 positive. 
+
+Let me check the other options. Option C is anti-dsDNA, which is for lupus. His sister has lupus, but the patient's symptoms don't really fit lupus. Lupus can cause arthritis, but it's usually more systemic with other symptoms like rash, oral ulcers, etc. Also, anti-dsDNA is specific for lupus. The presence of conjunctivitis and urethritis makes me lean away from lupus here. 
+
+Option D is IV drug use. The case doesn't mention anything about IV drugs, so that seems unrelated. 
+
+Option E is chondrocalcinosis, which is calcium deposits in the cartilage, often seen in conditions like pseudogout. But that's usually in older people or those with metabolic issues. This is a young man, so less likely. 
+
+Option B is a hiking trip two months ago. Maybe thinking of something like Lyme disease? But Lyme typically has an erythema migrans rash, and arthritis is more in the knees but usually with a history of tick exposure. The patient's history here doesn't mention anything about a tick bite or rash. Also, the timeline is 4 days, which is more acute. 
+
+So putting it all together, the most likely diagnosis is reactive arthritis, which is associated with HLA-B27. Therefore, the correct answer should be A.
+</think>
+<answer>
+### Clinical Presentation and Key Findings
+
+A 28-year-old man presents with:
+
+- **Acute left knee inflammation** (warm, erythematous, tender, limited range of motion)
+- **Pain with urination**
+- **Bilateral conjunctivitis**
+- **Urine analysis showing WBCs**
+- **History of inconsistent condom use with multiple male partners**
+- **No prior serious illness or medications**
+- **Family history of systemic lupus erythematosus**
+- **Elevated ESR (62 mm/h)**
+
+---
+
+### Differential Diagnosis and Clinical Clues
+
+This clinical picture is most consistent with **reactive arthritis (Reiter’s syndrome)**, a seronegative spondyloarthropathy. The **classic triad** of reactive arthritis includes:
+
+1. **Arthritis** – Often asymmetric, involving large joints (here, the left knee)
+2. **Urethritis or dysuria** – Suggestive of a genitourinary infection
+3. **Conjunctivitis** – Bilateral in this case
+
+These symptoms are typically **post-infectious**, commonly following **urethral (e.g., *Chlamydia trachomatis*) or gastrointestinal infections**. The patient’s sexual activity and inconsistent condom use raise suspicion for a sexually transmitted infection, particularly chlamydia, as a trigger.
+
+---
+
+### Laboratory and Genetic Associations
+
+Reactive arthritis is **strongly associated with the HLA-B27** genotype. Approximately **80% of patients** with reactive arthritis are HLA-B27 positive. While the presence of HLA-B27 is not diagnostic on its own, it is a **key marker** in the context of the clinical triad and supports the diagnosis.
+
+---
+
+### Evaluation of Other Options
+
+- **C. Positive anti-dsDNA antibodies**: These are specific to **systemic lupus erythematosus (SLE)**. While the patient has a family history of SLE, his presentation (acute arthritis, conjunctivitis, and urethritis) does not align with SLE. No systemic features (e.g., malar rash, photosensitivity, oral ulcers) are described.
+  
+- **D. Intravenous drug use**: No history or evidence of IV drug use is provided, and this is not relevant to the current presentation.
+
+- **E. Chondrocalcinosis of the knee**: This is more typical of **pseudogout** and is usually seen in older adults, often with a history of metabolic disorders. This is inconsistent with the age and presentation of the patient.
+
+- **B. Hiking trip two months ago**: May suggest **Lyme disease**, but the timeline and absence of a classic erythema migrans rash make this unlikely. The acute presentation and triad of symptoms point more strongly to **reactive arthritis** than a tick-borne illness.
+
+---
+
+### Conclusion
+
+Given the **clinical triad of arthritis, conjunctivitis, and urethritis**, along with a likely **post-chlamydial infection**, and the **strong genetic association with HLA-B27**, further evaluation is most likely to reveal an **HLA-B27 positive genotype**.
+
+$$
+\boxed{A}
+$$
+</answer>

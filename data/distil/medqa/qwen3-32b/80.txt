@@ -1,0 +1,83 @@
+<think>
+Okay, let's try to figure out this question. So, there's a 7-month-old male infant with fatigue, weakness, difficulty feeding, growth issues, an enlarged tongue, crackles in the lungs, an enlarged liver, decreased muscle tone, and cardiomegaly on chest x-ray. The serum glucose is normal at 105 mg/dL. The question is asking which enzyme deficiency is causing this.
+
+First, I need to think about the possible metabolic or genetic disorders that present with these symptoms. The key features here are the cardiomegaly, hepatomegaly (since the liver is enlarged), muscle weakness, and the other signs like the enlarged tongue and growth retardation. Also, normal serum glucose might be important.
+
+Let me recall some lysosomal storage diseases and glycogen storage diseases. The options given are acid maltase (A), myophosphorylase (B), iduronate sulfatase (C), glucose-6-phosphatase (D), and alpha-galactosidase (E).
+
+Starting with acid maltase (A), also known as acid alpha-glucosidase. That's the enzyme deficient in Pompe disease. Pompe disease is a glycogen storage disease type II. It's an autosomal recessive disorder where glycogen accumulates in lysosomes because the enzyme that breaks it down is missing. The infantile form presents with cardiomegaly, hypertrophic cardiomyopathy, muscle weakness, hypotonia, hepatomegaly, and macroglossia (enlarged tongue). The normal serum glucose is because the issue is in the lysosomal breakdown, not in the liver's ability to release glucose. So Pompe disease seems to fit here.
+
+Myophosphorylase deficiency (B) is glycogen storage disease type V, McArdle's disease. This usually affects skeletal muscle, causing exercise intolerance, muscle cramps. But it's more in adults, and doesn't typically involve the heart or liver. The infant here has heart issues, so probably not B.
+
+Iduronate sulfatase (C) is Hunter syndrome, an mucopolysaccharidosis type II. It's X-linked recessive, so more common in males. Symptoms include coarse facial features, skeletal abnormalities, hepatosplenomegaly, and cardiac valve issues. But I don't recall cardiomegaly being a primary feature. Also, the normal glucose level might not be directly related here. Maybe possible, but the other features like macroglossia and cardiomegaly make me think more towards Pompe.
+
+Glucose-6-phosphatase (D) is von Gierke disease, glycogen storage disease type I. This leads to hypoglycemia because the liver can't release glucose. But in this case, the serum glucose is normal. Von Gierke's presents with hypoglycemia, lactic acidosis, hepatomegaly, and sometimes a "protuberant abdomen". Since the glucose here is normal, probably not D.
+
+Alpha-galactosidase (E) is Fabry disease. That's an X-linked disorder with glycosphingolipid accumulation. Presents with pain, skin lesions (angiokeratomas), renal failure, and cardiac issues. But again, Fabry is more in older children or adults, and the classic features like angiokeratomas aren't mentioned here. Also, the infantile presentation with cardiomegaly and hypotonia is more characteristic of Pompe.
+
+Putting it all together, the infant has features of Pompe disease (acid maltase deficiency), which leads to glycogen accumulation in various tissues, including heart (cardiomegaly), liver (hepatomegaly), and muscles (hypotonia). The normal glucose is because the liver's G6Pase isn't the issue here; it's the lysosomal enzyme. So the answer is A.
+</think>
+<answer>
+### Clinical Summary
+
+A **7-month-old male infant** is presenting with a **2-month history of fatigue and weakness**, **difficulty feeding**, and **growth retardation** (3rd percentile for weight, 20th for height). The physical exam reveals **macroglossia**, **crackles at lung bases**, **hepatomegaly**, and **decreased muscle tone**. A **chest x-ray shows cardiomegaly**, and **serum glucose is normal at 105 mg/dL**.
+
+---
+
+### Key Findings to Analyze
+
+- **Cardiomegaly** and **hepatomegaly**
+- **Macroglossia** and **muscle weakness**
+- **Normal serum glucose**
+- **Hypotonia**
+- **Growth failure**
+
+These findings point to a **lysosomal storage disease** that affects **lysosomal enzyme function**, leading to **glycogen accumulation** in **muscle and cardiac tissues**. The **normal serum glucose** is important—it rules out diseases where the **liver's ability to release glucose is impaired**, such as **von Gierke disease** (GSD I).
+
+---
+
+### Differential Diagnosis of the Enzyme Deficiencies
+
+Let’s evaluate each of the given enzyme deficiencies:
+
+#### **A: Acid maltase (acid alpha-glucosidase) – Pompe disease (GSD II)**
+- **Pathophysiology**: Deficiency leads to **lysosomal glycogen accumulation** in **skeletal, cardiac, and smooth muscle**.
+- **Clinical features**:
+  - **Infantile-onset**: Severe **muscle weakness**, **hypotonia**, **cardiomegaly**, **hepatomegaly**, **macroglossia**, and **feeding difficulties**.
+  - **Prognosis**: Without treatment, **cardiomyopathy** can be fatal within the first year.
+- **Consistency with the case**: **All key features match**.
+
+#### **B: Myophosphorylase – McArdle’s disease (GSD V)**
+- **Pathophysiology**: Affects **skeletal muscle** only; **glycogen cannot be broken down during exercise**.
+- **Clinical features**:
+  - **Exercise intolerance**, **muscle cramps**, **myoglobinuria**.
+- **Not consistent with the case**: No cardiac or hepatic involvement, and not typically seen in infants.
+
+#### **C: Iduronate sulfatase – Hunter syndrome (MPS II)**
+- **Pathophysiology**: Deficiency leads to **mucopolysaccharide accumulation**.
+- **Clinical features**:
+  - **Coarse facial features**, **hepatosplenomegaly**, **skeletal abnormalities**, **cardiac valve disease**.
+- **Not consistent with the case**: No mention of **skeletal or facial dysmorphism**, and **cardiomegaly is not a hallmark**.
+
+#### **D: Glucose-6-phosphatase – Von Gierke disease (GSD I)**
+- **Pathophysiology**: Deficiency in the **liver’s glucose release pathway**.
+- **Clinical features**:
+  - **Hypoglycemia**, **lactic acidosis**, **hepatomegaly**, **failure to thrive**.
+- **Not consistent with the case**: **Normal serum glucose** rules out this diagnosis.
+
+#### **E: Alpha-galactosidase – Fabry disease**
+- **Pathophysiology**: Accumulation of **globotriaosylceramide** in various tissues.
+- **Clinical features**:
+  - **Angiokeratomas**, **pain crises**, **renal and cardiac complications**.
+- **Not consistent with the case**: **Typically presents later in childhood or adolescence** and **not associated with cardiomegaly in infants**.
+
+---
+
+### Conclusion
+
+The constellation of **cardiomegaly**, **hepatomegaly**, **macroglossia**, **muscle weakness**, and **normal serum glucose** is most consistent with **Pompe disease**, caused by **acid maltase deficiency**.
+
+$$
+\boxed{A}
+$$
+</answer>

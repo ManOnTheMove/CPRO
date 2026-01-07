@@ -1,0 +1,74 @@
+<think>
+Okay, let's try to figure out this question. So, the patient is a 15-month-old girl with bloody diarrhea for two days, and some episodes over the past three weeks. She doesn't have pain, nausea, or vomiting. Her height and weight are at the 55th percentile, which is okay. The exam shows conjunctival pallor, which suggests anemia. The abdomen is soft and non-tender, and there's dark red blood in the diaper. Lab results: hemoglobin 9.5 g/dL (low), MCV 68 (which is low, so microcytic anemia), and platelets are normal.
+
+So, first, the key points here are: chronic bloody diarrhea, microcytic anemia, and no pain. The blood is dark red, which might suggest lower GI bleeding. The question is asking what the further evaluation would show.
+
+Let me think about possible causes of chronic bloody diarrhea in a toddler. The options given are various diagnostic findings. Let's go through each option.
+
+Option A: Cobblestone mucosa on colonoscopy. Cobblestone is typically seen in Crohn's disease, which is an inflammatory bowel disease. But Crohn's usually presents with abdominal pain, weight loss, maybe fever. The patient here doesn't have pain. Also, the anemia here is microcytic. Iron deficiency anemia is common in chronic blood loss. But Crohn's might cause anemia, but the presentation here might not fit. Also, the absence of pain is a bit conflicting. But I'm not sure yet.
+
+Option B: Neutrophil infiltrated crypts on colonic biopsy. That sounds like ulcerative colitis or another inflammatory bowel disease. But again, UC usually presents with more frequent stools, urgency, abdominal pain. The patient here doesn't have pain. However, maybe it's possible. But again, the absence of pain is a point against.
+
+Option C: Absent ganglionic cells on rectal suction biopsy. That's Hirschsprung's disease. Hirschsprung's typically presents with constipation, not diarrhea. But sometimes, there can be enterocolitis with diarrhea. However, the classic presentation is constipation. The patient here has diarrhea, so maybe not. But maybe there's a variant? Also, the anemia could be from chronic blood loss, but Hirschsprung's is more about obstruction. The presence of blood in the diaper could be from fissures or something else. But I'm not sure if this is the right answer.
+
+Option D: Target sign on abdominal ultrasound. Target sign is seen in intussusception. Intussusception is a bowel obstruction where part of the intestine folds into another. It typically presents with colicky abdominal pain, vomiting, and sometimes blood in the stool (currant jelly stool). But the patient here doesn't have pain. However, sometimes in young children, the presentation can be atypical. But the question says she has no pain, nausea, or vomiting. So maybe not. But I need to think more.
+
+Option E: Ectopic gastric mucosa on Technetium-99m pertechnetate scan. That's for Meckel's diverticulum. Meckel's can present with painless bleeding, especially in children. The ectopic gastric mucosa can ulcerate and cause bleeding. The patient has chronic bloody diarrhea, and the blood is dark red, which could be from the lower GI tract. Meckel's diverticulum is a common cause of painless GI bleeding in children. The anemia here would be from chronic blood loss. So this might be a possibility.
+
+Now, considering the options. The patient has microcytic anemia (so iron deficiency), which is common in chronic blood loss. The key is that the bleeding is painless. So, Hirschsprung's is more about constipation, but maybe in some cases, there's a different presentation. Intussusception usually has pain. Crohn's and UC are inflammatory, but the lack of pain is a point against. Meckel's diverticulum can cause painless bleeding. So E might be the answer.
+
+Alternatively, maybe the answer is C? Wait, Hirschsprung's disease causes constipation, but if there's a megacolon, maybe there's some diarrhea? Or maybe the child has a short segment Hirschsprung's, but I think the classic presentation is constipation. So maybe not.
+
+Another thought: the patient's hemoglobin is 9.5, which is mild anemia. The MCV is 68, which is microcytic. So iron deficiency anemia. The cause is chronic blood loss. So, the source of blood loss is in the GI tract. The options for the source are:
+
+- Meckel's diverticulum (ectopic gastric mucosa) causing bleeding.
+
+- Inflammatory bowel disease (like Crohn's or UC), but those would have other symptoms.
+
+- Intussusception, but again, pain is more common.
+
+- Hirschsprung's, but again, constipation.
+
+So, the most likely answer here is E: ectopic gastric mucosa on Technetium scan. Because Meckel's is a common cause of painless GI bleeding in children. The target sign (option D) is for intussusception, but the patient doesn't have pain. So, E is more likely.
+
+Wait, but the question says "grossly bloody diarrhea for 2 days" and "a few episodes over 3 weeks". So, it's chronic. Meckel's can cause intermittent bleeding. So, the answer would be E. The Technetium scan would show the ectopic gastric mucosa. So the answer is E.
+</think>
+<answer>
+### Question Review and Analysis
+
+The patient is a **15-month-old girl** with **chronic bloody diarrhea** (2 days of grossly bloody stools and a history of blood-tinged stools over the past 3 weeks). She has **no pain, nausea, or vomiting**, and her **abdomen is soft and nontender**. Laboratory findings include **microcytic anemia (MCV 68 μm³)** and **conjunctival pallor**, suggesting **iron deficiency anemia** from **chronic blood loss**. The **platelet count is normal**, and the **blood in the diaper is dark red**, suggesting **lower gastrointestinal (GI) bleeding**.
+
+---
+
+### Differential Diagnosis Considerations
+
+- **Hirschsprung’s disease (Option C)**: Typically presents with **constipation** due to aganglionic bowel. While **diarrhea** can occur in some cases, it is **not the primary or classic presentation**, and the **absence of pain** is less consistent with this diagnosis.
+
+- **Inflammatory bowel disease (IBD)** (Options A and B): **Crohn’s disease** and **ulcerative colitis** are **inflammatory** and usually present with **abdominal pain, weight loss, and fever**. These are **less likely** in a child with **no pain or other signs of inflammation**.
+
+- **Intussusception (Option D)**: Classic presentation includes **abdominal pain, vomiting, and currant-jelly stools**. However, the patient has **no pain or vomiting**, and the **target sign** on ultrasound is **not consistent** with her clinical picture.
+
+- **Meckel’s diverticulum (Option E)**: This is a **common cause of painless GI bleeding** in children. It is caused by **ectopic gastric mucosa** in the **distal ileum**, which can ulcerate and bleed. The **chronic, intermittent, painless bloody stools** and **microcytic anemia** are **highly suggestive** of this diagnosis.
+
+---
+
+### Final Evaluation
+
+The **key features** that support **Meckel’s diverticulum** include:
+- **Painless bleeding** (no abdominal pain or vomiting)
+- **Chronic, intermittent** blood in the stool
+- **Microcytic anemia** from **chronic blood loss**
+- **Dark red blood** in the diaper (suggestive of **lower GI** bleeding)
+
+A **Technetium-99m pertechnetate scan** is the **gold standard** for diagnosing **Meckel’s diverticulum**, as it can detect **ectopic gastric mucosa**.
+
+---
+
+### Conclusion
+
+Given the clinical context and the findings, the most likely diagnostic result is the **presence of ectopic gastric mucosa**, consistent with **Meckel’s diverticulum**.
+
+$$
+\boxed{E}
+$$
+</answer>

@@ -1,0 +1,70 @@
+<think>
+Okay, let's try to figure out this question. So, the patient is a 20-month-old boy with intellectual and behavioral issues, abnormal movements, and he hits his head and limbs. He can't walk without support and speaks in unclear two-word phrases. There are bruises and healing wounds on his forehead and fingers, increased muscle tone, and high serum uric acid. The question is asking which substance's serum concentration is also increased.
+
+First, I need to think about the possible diagnoses here. The key symptoms are high uric acid, neurological issues, and physical signs like bruises and increased muscle tone. Let me recall some metabolic disorders that cause high uric acid.
+
+One thing that comes to mind is Lesch-Nyhan syndrome. That's a genetic disorder caused by a deficiency of the enzyme hypoxanthine-guanine phosphoribosyltransferase (HGPRT). This leads to overproduction of uric acid because the purine metabolism is disrupted. Patients with Lesch-Nyhan often have neurological symptoms, including choreoathetosis (involuntary movements), intellectual disability, and self-mutilation behaviors, which might explain the hitting of head and limbs. The bruises and wounds could be from self-injury. Also, increased uric acid is a hallmark.
+
+Now, looking at the options. The question is about which substance is also increased. Lesch-Nyhan is due to HGPRT deficiency. HGPRT is involved in the salvage pathway of purine nucleotides. When it's deficient, the de novo synthesis pathway is upregulated, leading to increased production of purines, which are metabolized to uric acid. But what about the other substances listed?
+
+Option D is Phosphoribosyl pyrophosphate (PRPP). PRPP is a substrate in the de novo synthesis of purines. In Lesch-Nyhan, since HGPRT is deficient, the salvage pathway is impaired, so the body relies more on de novo synthesis. PRPP is a precursor in that pathway. So, if the de novo pathway is overactive, PRPP levels might be increased. Wait, but I'm not sure if PRPP itself is elevated. Alternatively, maybe the problem is that the deficiency leads to accumulation of certain intermediates.
+
+Alternatively, maybe the answer is D. Let me think again. Lesch-Nyhan is caused by HGPRT deficiency. HGPRT converts hypoxanthine and guanine into their respective nucleotides using PRPP. Without HGPRT, PRPP accumulates because it's not being used in the salvage pathway. So PRPP levels would be high. Therefore, serum PRPP would be increased. So D would be the answer.
+
+Other options: Phenylalanine (A) is related to phenylketonuria (PKU), which causes intellectual disability, but not necessarily high uric acid. Branched-chain amino acids (C) are seen in maple syrup urine disease, which also has neurological issues but not uric acid. Deoxyadenosine trisphosphate (B) – not sure. Cytosine monophosphate (E) is part of nucleotide metabolism, but not directly linked to HGPRT deficiency.
+
+So the answer is D, Phosphoribosyl pyrophosphate.
+</think>
+<answer>
+To determine which serum substance is most likely to be increased in this 20-month-old boy, we must analyze the clinical and laboratory findings in the context of possible metabolic disorders.
+
+---
+
+### Clinical Presentation
+
+The patient exhibits the following key features:
+
+- **Intellectual and behavioral abnormalities**
+- **Abnormal movements of extremities** (suggestive of choreoathetosis or other movement disorders)
+- **Self-injurious behavior** (hitting head and limbs against furniture)
+- **Delayed motor and language development** (unable to walk without support, speaks in unclear 2-word phrases)
+- **Bruises and healing wounds** (possibly from self-injurious behavior)
+- **Increased muscle tone**
+- **Elevated serum uric acid concentration**
+
+These findings are highly suggestive of **Lesch-Nyhan syndrome**, a rare X-linked recessive disorder caused by a **deficiency of hypoxanthine-guanine phosphoribosyltransferase (HGPRT)**.
+
+---
+
+### Pathophysiology of Lesch-Nyhan Syndrome
+
+HGPRT is a key enzyme in the **purine salvage pathway**, which recycles purines (hypoxanthine and guanine) into nucleotides. When HGPRT is deficient:
+
+- The **salvage pathway is impaired**, so the body must rely more heavily on the **de novo synthesis of purines**.
+- This leads to **excessive production of purines**, which are then metabolized into **uric acid**, resulting in **hyperuricemia**.
+- Additionally, **phosphoribosyl pyrophosphate (PRPP)**, the substrate used in the de novo purine synthesis pathway, accumulates due to the lack of HGPRT activity.
+
+---
+
+### Evaluation of Answer Choices
+
+- **A: Phenylalanine** – Associated with **phenylketonuria (PKU)**, which causes intellectual disability but not elevated uric acid. Not consistent with this case.
+  
+- **B: Deoxyadenosine trisphosphate** – Not a commonly measured substance in this context. Not directly related to HGPRT deficiency or Lesch-Nyhan syndrome.
+
+- **C: Branched-chain amino acids** – Seen in **maple syrup urine disease**, which presents with neurological symptoms but not hyperuricemia. Not relevant here.
+
+- **D: Phosphoribosyl pyrophosphate (PRPP)** – A **key substrate in de novo purine synthesis**. In Lesch-Nyhan syndrome, **PRPP levels are elevated** due to the **deficiency in HGPRT**, which normally consumes PRPP in the salvage pathway. This is a **direct and consistent finding** in this condition.
+
+- **E: Cytosine monophosphate** – Not a primary metabolite in the purine pathway or in HGPRT deficiency. Not relevant to this case.
+
+---
+
+### Final Answer
+
+Given the clinical and biochemical findings, the most likely substance to be increased in this patient is **phosphoribosyl pyrophosphate**.
+
+$$
+\boxed{D}
+$$
+</answer>

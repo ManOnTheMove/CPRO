@@ -1,0 +1,51 @@
+<think>
+Okay, let me try to work through this question. The patient is asking about features associated with Waardenburg's syndrome. The question is which of the options is not associated with it.
+
+First, I need to recall what Waardenburg's syndrome is. From what I remember, it's a genetic disorder that affects pigmentation and hearing. There are different types, but the key features include things like heterochromia (different colored eyes), white forelock or hypopigmented hair, and hearing loss. Also, there are some facial features involved.
+
+Looking at the options:
+
+A: Heterochromia. I think this is a classic feature. People with Waardenburg can have different colored eyes or sectors of different colors. So A is associated, so not the answer.
+
+B: Hair hypopigmentation. That sounds right. Like the white forelock that's common in some types. So B is associated, not the answer.
+
+C: Conductive hearing loss. Wait, I need to think about the type of hearing loss in Waardenburg. I think it's sensorineural, not conductive. Conductive hearing loss is due to problems in the ear canal, eardrum, or middle ear. Sensorineural is due to issues in the inner ear or auditory nerve. Since Waardenburg affects the inner ear development, maybe the hearing loss is sensorineural. So if the option says conductive, that's not associated. So C might be the answer.
+
+D: Lateral displacement of inner canthi. I think this is called dystopia canthorum. The eyes are set wider apart, with the inner canthi displaced laterally. Yes, that's a feature. So D is associated, not the answer.
+
+E: Broad nasal root. I'm not sure. Some sources mention a broad or flat nasal root. Or maybe it's a straight nasal bridge. I need to check. Wait, Waardenburg's can have a variety of facial features. For example, in Type 1, there's dystopia canthorum and a broad nasal root. So E is associated, so not the answer.
+
+So the features not associated would be C: Conductive hearing loss. Because it's sensorineural. So the answer is C.
+</think>
+<answer>
+Waardenburg’s syndrome is a group of autosomal dominant genetic disorders that primarily affect pigmentation and hearing. It is most commonly associated with abnormalities in melanocyte migration during embryonic development, leading to a wide range of clinical features.
+
+---
+
+### Key Features of Waardenburg’s Syndrome:
+
+1. **Heterochromia (A)**  
+   This is a hallmark of the syndrome and may present as heterochromia iridum (differently colored eyes) or sectoral heterochromia (part of one eye is a different color).
+
+2. **Hair Hypopigmentation (B)**  
+   A common feature is a white forelock (patch of white hair at the front of the scalp), and sometimes other areas of hypopigmented hair.
+
+3. **Hearing Loss**  
+   Hearing loss in Waardenburg syndrome is **sensorineural**, not conductive. It results from developmental abnormalities of the inner ear. Therefore, **conductive hearing loss (C)** is **not** a feature of Waardenburg’s syndrome.
+
+4. **Lateral Displacement of Inner Canthi (D)**  
+   This is referred to as **dystopia canthorum** and is a classic facial feature in some subtypes, especially Type 1.
+
+5. **Broad Nasal Root (E)**  
+   This is also a common facial feature in individuals with Waardenburg syndrome, particularly in Type 1 and Type 3.
+
+---
+
+### Conclusion:
+
+Among the listed features, **conductive hearing loss (C)** is not associated with Waardenburg’s syndrome. The hearing loss seen in this condition is sensorineural in nature.
+
+$$
+\boxed{C}
+$$
+</answer>

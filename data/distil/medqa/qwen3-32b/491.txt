@@ -1,0 +1,50 @@
+<think>
+Okay, let's try to figure this out. So, the patient is a 14-year-old boy with allergic rhinitis on cetirizine. He's overweight, but his height is normal. The main issue is a tender, firm, 1-cm subareolar mass in the left breast. The right breast is fine. No skin changes, no axillary lymph nodes, and normal genital exam.
+
+First, I need to think about possible causes of gynecomastia in adolescents. Gynecomastia in teenage boys is actually pretty common. It's often physiological, part of normal puberty. During puberty, there's a temporary imbalance between estrogen and testosterone levels, leading to some breast tissue enlargement. It's usually self-limiting and resolves on its own. The fact that the mass is tender and firm, and only on one side, but the other breast is unremarkable, could fit with physiological development. Also, the absence of other signs like skin changes, nipple discharge, or lymphadenopathy makes more serious conditions less likely.
+
+Now, looking at the options. Option A is adverse drug reaction. Cetirizine is an antihistamine. I know that some medications can cause gynecomastia. For example, certain antihistamines like older ones (like maybe cyproheptadine) can have estrogen-like effects or block neurotransmitters that affect hormone levels. But cetirizine is a second-generation antihistamine. I don't recall it being commonly associated with gynecomastia. Maybe possible, but not the most common cause in this scenario.
+
+Option B is Leydig cell tumor. Leydig cells produce testosterone. A tumor here would usually cause virilization, not gynecomastia. If the tumor was producing estrogen or had some other effect, maybe, but typically Leydig cell tumors in kids are rare and present with signs of early puberty or other androgenic symptoms. Since the genital exam is normal and there's no mention of accelerated puberty, this seems less likely.
+
+Option C is hyperthyroidism. Hyperthyroidism can cause weight loss, increased metabolism, maybe some gynecomastia? But the patient is above the 95th percentile for weight and BMI. Hyperthyroidism usually leads to weight loss or difficulty gaining weight. Also, the patient doesn't have symptoms like tachycardia, tremors, heat intolerance, or other signs of hyperthyroidism. So probably not.
+
+Option D is ductal ectasia. Ductal ectasia is a condition where the milk ducts under the nipple become blocked and dilated. This is more common in older women, but can it occur in adolescents? It might cause breast lumps or tenderness, but I'm not sure if it's a common cause in boys. Also, in this case, the patient is a male, so ductal ectasia might be less likely, as it's typically a female condition. Though males do have some breast ductal structures, I think it's rare. Not sure, but maybe not the most likely.
+
+Option E is physiological development. Given the age, the fact that it's a single, tender, firm mass, and no other concerning features, this seems most likely. The patient is in puberty (axillary and pubic hair present), and the gynecomastia is probably a part of normal development. It's usually unilateral or bilateral, but even if unilateral, it's still physiological. The mass being tender also points more towards the physiological cause rather than a pathological one, which might be painless.
+
+So, putting it all together. The most likely answer is E. Physiological development. The other options have either less likelihood based on the patient's presentation or lack of supporting evidence. The cetirizine is probably not causing it since it's a common medication in adolescents and gynecomastia isn't a known side effect. Also, if it were a drug reaction, maybe both breasts would be involved? Not sure, but the physiological cause is more common.
+</think>
+<answer>
+In evaluating a 14-year-old boy presenting with a tender, firm, 1-cm subareolar mass in the left breast, it is important to consider the context of puberty and the typical developmental patterns observed in adolescent males.
+
+---
+
+### Clinical Context
+
+The patient is in the early to mid-adolescent stage, as evidenced by the presence of axillary and pubic hair. He is on cetirizine for allergic rhinitis, which is a second-generation antihistamine not commonly associated with gynecomastia. His BMI is elevated, but this alone does not typically cause gynecomastia. The physical examination reveals a **unilateral**, **tender**, **firm**, **subareolar mass** without skin changes, nipple retraction, or axillary lymphadenopathy. The genital and testicular exam is normal, and there is no evidence of systemic illness or endocrine disturbance.
+
+---
+
+### Differential Diagnosis
+
+- **Adverse drug reaction (A):** While some antihistamines (e.g., cyproheptadine) are associated with gynecomastia, cetirizine is not. There is no known association between cetirizine and breast tissue proliferation, making this a less likely cause.
+
+- **Leydig cell tumor (B):** This rare tumor typically causes precocious puberty and virilization due to excess androgen production. The absence of early puberty signs or virilization makes this unlikely.
+
+- **Hyperthyroidism (C):** Although hyperthyroidism can cause gynecomastia, it is usually associated with symptoms like tachycardia, weight loss, and heat intolerance. The patient is overweight and has no such symptoms, making this an unlikely diagnosis.
+
+- **Ductal ectasia (D):** This is a benign condition of the breast ducts and is most commonly seen in older women. It is rare in adolescent males and typically presents with non-tender masses or nipple discharge, which is not the case here.
+
+- **Physiological development (E):** This is the most common cause of gynecomastia in adolescent males. During puberty, a transient imbalance between estrogen and testosterone levels can lead to glandular breast tissue growth. It is often **unilateral**, **tender**, and **self-limiting**, resolving within a year or two. The patient’s age, stage of puberty, and absence of systemic or endocrine abnormalities are all consistent with this diagnosis.
+
+---
+
+### Conclusion
+
+Given the clinical features and the absence of systemic or pathological findings, the most likely explanation for the subareolar mass is **physiological gynecomastia** as part of normal pubertal development.
+
+$$
+\boxed{E}
+$$
+</answer>

@@ -1,0 +1,66 @@
+<think>
+Okay, let's try to figure out the answer here. So the question is about a 17-year-old girl with a 3-year history of acne on her face and chest. She doesn't have itching or scaling, and she's worried about scarring. She hasn't sought treatment before. Her BMI is normal, and the exam shows open comedones. The options are different treatments.
+
+First, I need to recall the standard treatment for acne. Acne is typically managed based on its severity. Open comedones are a type of non-inflammatory acne lesion. The options here include topical treatments and oral ones. 
+
+The question is about the most appropriate initial treatment. Since she's had acne for 3 years but hasn't treated it before, maybe it's mild to moderate. Open comedones are part of the non-inflammatory types, so maybe she has mild acne. 
+
+For mild acne, the first-line treatments are usually topical. The options here are B (topical benzoyl peroxide) and D (topical antibiotic). Also, there's A (oral antibiotics), C (combined oral contraceptive), and E (oral isotretinoin). 
+
+Oral antibiotics are usually used for moderate to severe acne, or when there's a risk of scarring. But since she's concerned about scarring, maybe that's a factor. However, the initial treatment for mild acne is typically topical. 
+
+Benzoyl peroxide is a common first-line topical treatment. It's effective against Propionibacterium acnes and helps with comedones. Topical antibiotics like clindamycin or erythromycin are also used, but they might be more for inflammatory lesions. However, since she has open comedones, which are non-inflammatory, maybe benzoyl peroxide is better. 
+
+Combined oral contraceptives are used for hormonal acne in women, but this is more for inflammatory acne, and maybe in cases where there's a hormonal component. But since she's a teenager, maybe that's not the first choice. Also, the question doesn't mention any hormonal issues. 
+
+Oral isotretinoin is for severe acne or when other treatments fail. It's a strong medication with side effects, so it's not initial treatment. 
+
+So the options are between B and D. But the question says she has open comedones. Benzoyl peroxide is effective for comedones. Topical antibiotics might be more for inflammatory lesions. Also, the guidelines usually recommend benzoyl peroxide as a first-line for mild acne. 
+
+Therefore, the answer is B: Topical benzoyl peroxide.
+</think>
+<answer>
+To determine the most appropriate initial treatment for this 17-year-old girl with a 3-year history of acne, we need to consider the clinical presentation and standard treatment guidelines for acne vulgaris.
+
+---
+
+### **Clinical Presentation**
+- **Age:** 17 years
+- **Duration:** 3 years
+- **Lesions:** Open comedones (non-inflammatory)
+- **No itching or scaling**
+- **No prior treatment**
+- **Normal BMI and vital signs**
+- **Concern about facial scarring**
+
+The presence of **open comedones** (blackheads) suggests **mild to moderate non-inflammatory acne**, which is typically managed with **topical treatments** as first-line therapy.
+
+---
+
+### **Review of Treatment Options**
+
+- **A: Oral antibiotics**  
+  These are generally reserved for **moderate to severe acne** or when **inflammatory lesions** are present. They are not typically used as initial therapy for mild acne.
+
+- **B: Topical benzoyl peroxide**  
+  This is a **first-line treatment** for mild to moderate acne. It is effective against **Propionibacterium acnes**, reduces comedones, and has **anti-inflammatory properties**. It is particularly useful in cases with **non-inflammatory lesions** like open comedones.
+
+- **C: Combined oral contraceptive**  
+  This is a **hormonal therapy** used for **hormonal acne** (e.g., in women with androgen-related acne). However, it is **not a first-line treatment** for general acne and is usually considered after other options have failed.
+
+- **D: Topical antibiotic**  
+  These are often used for **inflammatory acne** (papules and pustules), not for **comedonal acne**. They may also lead to **resistance** if used long-term, and are **not the first-line treatment** for non-inflammatory lesions.
+
+- **E: Oral isotretinoin**  
+  This is a **strong medication** used for **severe, recalcitrant acne** or when there is a **risk of scarring**. It is **not used as initial therapy** due to its **side effect profile** and the need for close monitoring.
+
+---
+
+### **Conclusion**
+
+Given that the patient has **non-inflammatory acne** (open comedones) and no signs of severe or inflammatory disease, **topical benzoyl peroxide** is the most appropriate **initial treatment**. It is safe, effective, and aligns with current clinical guidelines for mild to moderate acne.
+
+$$
+\boxed{B}
+$$
+</answer>

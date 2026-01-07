@@ -1,0 +1,73 @@
+<think>
+Okay, let's try to figure this out. The patient is a 19-year-old female with sudden loss of visual acuity in her right eye. When she closes her right eye, she can see sharply, but when she closes the left, she has blurry double vision. No trauma, but she's been working long hours. She has a history of shoulder luxation. She's tall for her gender (5'11", which is pretty tall for a woman), BMI is normal. On exam, she has slender, long fingers, brown nevi on her cheek, and upward temporal subluxation of the right lens.
+
+First, I need to think about the possible syndromes that involve lens dislocation and other systemic features. Lens subluxation is a key finding here. Let's go through the options.
+
+Option A: Joint hypermobility syndrome. That's more about joint issues and maybe some other symptoms, but I don't think it typically includes lens dislocation. Maybe?
+
+Option B: Multiple endocrine neoplasia 2B (MEN 2B). That's associated with medullary thyroid carcinoma, pheochromocytoma, and mucosal neuromas. Also, marfanoid habitus. But I think MEN 2B can cause lens dislocation. But MEN 2B is a genetic disorder, and there might be other features like neuromas on the lips or tongue. The patient has brown nevi, not sure if that's part of MEN 2B.
+
+Option C: Sturge-Weber syndrome. That's a neurocutaneous disorder with facial port-wine stain, seizures, and glaucoma. The nevi here are described as flat, brownish, demarcated on the cheek. But Sturge-Weber's port-wine stain is typically on the face, especially the trigeminal distribution, but it's a vascular malformation, not nevi. Also, lens subluxation isn't a feature here. So maybe not C.
+
+Option D: Ehlers-Danlos syndrome. There are several types. The hypermobility type (type III) has joint hypermobility, skin hyperextensibility, but I'm not sure about lens dislocation. However, some types might have ocular features. But I think the classic lens dislocation is more with Marfan or homocystinuria. But maybe EDS could be considered here, especially with joint issues (shoulder luxation) and maybe some ocular findings. But the subluxation here is upward temporal, which is classic for Marfan.
+
+Option E: Marfan syndrome. Classic features include tall stature, arachnodactyly (long fingers), lens dislocation (typically superior and temporal), skeletal abnormalities, and cardiovascular issues. The patient is tall, has long fingers, lens subluxation, and joint laxity (shoulder dislocation). Also, the visual symptoms—sudden loss of acuity. In Marfan, lens dislocation can cause visual disturbances. Also, she has a history of joint problems. Brown nevi—Marfan patients sometimes have these, called "lenticular nevi" or just skin findings. 
+
+So putting it all together. The key features are upward temporal subluxation of the lens, tall stature, arachnodactyly, joint laxity/dislocations. Marfan syndrome is the classic diagnosis here. The brown nevi could be part of Marfan or maybe just coincidence, but the other options don't fit as well. MEN 2B has lens dislocation but also other features like neuromas. The patient's description doesn't mention those. Sturge-Weber has port-wine stains and glaucoma, not lens subluxation. EDS is possible but the classic lens subluxation direction is more Marfan. So the answer is E.
+</think>
+<answer>
+To determine the most likely diagnosis in this 19-year-old female, we must integrate her clinical presentation with known features of hereditary connective tissue disorders.
+
+---
+
+### **Clinical Summary**
+- **Age and Sex:** 19-year-old female
+- **Presenting Complaint:** Sudden loss of visual acuity in the right eye, blurry double vision with left eye closed
+- **Ocular Finding:** Upward temporal subluxation of the right lens
+- **Systemic Features:**
+  - Tall stature (5'11")
+  - Slender, long fingers (arachnodactyly)
+  - History of shoulder luxation (joint instability)
+  - Brown nevi on the face
+  - No trauma or recent systemic illness
+
+---
+
+### **Key Diagnostic Clues**
+The **upward temporal subluxation of the lens** is a **hallmark sign of Marfan syndrome**. This is due to defective connective tissue affecting the zonules that hold the lens in place. Other key features include:
+
+- **Arachnodactyly (long, slender fingers)**
+- **Joint laxity and recurrent dislocations** (e.g., shoulder)
+- **Tall, slender body habitus (eunuchoid proportions)**
+
+In addition, **brown nevi** (often called "lenticular nevi" in Marfan syndrome) are a relatively common cutaneous finding in these patients and are non-specific but supportive of the diagnosis.
+
+---
+
+### **Differential Considerations**
+
+- **A. Joint hypermobility syndrome:** This causes joint instability but does **not** typically involve lens subluxation or the systemic features seen here.
+  
+- **B. Multiple endocrine neoplasia 2B (MEN 2B):** While this syndrome can cause lens dislocation and a marfanoid habitus, it is also characterized by mucosal neuromas and a high risk of medullary thyroid carcinoma. These features are **not present** in the patient.
+  
+- **C. Sturge-Weber syndrome:** This neurocutaneous disorder is associated with **port-wine stains** (not flat brown nevi), seizures, and glaucoma, but **not lens subluxation**.
+  
+- **D. Ehlers-Danlos syndrome:** Certain types (e.g., classical or hypermobile) may involve joint laxity and skin hyperextensibility, but **lens subluxation is not a hallmark** of this condition.
+
+- **E. Marfan syndrome:** This is the **most consistent diagnosis** with all of the following:
+  - Lens subluxation (upward temporal)
+  - Tall, slender body habitus
+  - Arachnodactyly
+  - Joint instability
+  - Cutaneous findings (brown nevi)
+
+---
+
+### **Conclusion**
+
+Given the constellation of **ocular, skeletal, and connective tissue findings**, the most likely diagnosis is:
+
+$$
+\boxed{E}
+$$
+</answer>

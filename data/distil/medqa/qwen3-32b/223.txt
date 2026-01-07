@@ -1,0 +1,40 @@
+<think>
+Okay, let me try to work through this question step by step. So the patient is a 17-year-old rugby player who limped in after rolling his ankle. The mechanism was ankle plantar flexion and inversion. I remember that ankle sprains are common in inversion injuries. 
+
+The physical exam findings are important here. The question states there's no medial or lateral malleolus point tenderness. That probably rules out fractures because if there was a fracture, there would be tenderness at those bony points. Then, the anterior drawer test is positive. I think the anterior drawer test is used to assess the anterior talofibular ligament (ATFL). If that's positive, it suggests that the ATFL is injured. The talar tilt test is negative. The talar tilt test checks the calcaneofibular ligament (CFL), so a negative result means the CFL is probably intact.
+
+So the mechanism is inversion and plantar flexion. I recall that the ATFL is the most commonly injured ligament in ankle sprains, especially with inversion. The CFL is more involved in pure inversion without plantar flexion. Since the talar tilt is negative, the CFL is not torn. The deltoid ligament is on the medial side, and since there's no medial tenderness, that's probably not involved. The absence of tenderness over the malleoli makes fractures of the tibia or fibula less likely. So the most likely diagnosis here is an ATFL sprain. Let me check again: positive anterior drawer (ATFL), negative talar tilt (CFL okay), mechanism of plantar flexion and inversion. Yes, that points to A.
+</think>
+<answer>
+To determine the most likely injury in this scenario, we must consider the **mechanism of injury**, **clinical findings**, and **orthopedic test results**.
+
+---
+
+### **1. Mechanism of Injury**
+The patient reports a **"rolled ankle"** during running, involving **plantar flexion and inversion**. This is a classic mechanism for **lateral ankle sprains**, which typically affect the **anterior talofibular ligament (ATFL)**. The ATFL is the most commonly injured ligament in ankle sprains, especially under plantar flexion and inversion forces.
+
+---
+
+### **2. Physical Examination Findings**
+- **No medial or lateral malleolus point tenderness**: This is critical in ruling out **fractures** (e.g., tibia or fibula), as tenderness over these bony prominences would be expected in such cases.
+- **Positive anterior drawer test**: This test specifically assesses the **ATFL**. A positive result indicates **anterior talar displacement**, which is consistent with an ATFL sprain.
+- **Negative talar tilt test**: This test evaluates the **calcaneofibular ligament (CFL)**. A negative result suggests the **CFL is intact**.
+
+---
+
+### **3. Differential Diagnosis**
+- **A: Anterior talofibular ligament (ATFL) sprain** → Consistent with the mechanism and physical exam findings. ✅
+- **B: Calcaneofibular ligament (CFL) sprain** → Would likely show a **positive talar tilt test**, which is not the case here. ❌
+- **C: Deltoid ligament sprain** → Medial-sided injury; the patient has **no medial tenderness**, making this unlikely. ❌
+- **D: Tibia fracture** → Would cause **medial malleolus tenderness** and likely other signs of fracture (swelling, bruising, inability to bear weight). ❌
+- **E: Fibula fracture** → Would cause **lateral malleolus tenderness**, which is not present. ❌
+
+---
+
+### **Conclusion**
+Based on the **mechanism of injury (plantar flexion + inversion)**, the **positive anterior drawer test**, and the **negative talar tilt test**, the **most likely diagnosis is an anterior talofibular ligament (ATFL) sprain**.
+
+$$
+\boxed{A}
+$$
+</answer>

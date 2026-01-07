@@ -1,0 +1,63 @@
+<think>
+Okay, let's see. The question is about a 5-year-old boy with certain findings and we need to figure out which organ he should be screened for. Let me start by going through the information given.
+
+The patient has a history of being born with a weight in the 99th percentile and had unexplained hypoglycemia in the first week. His height and weight are still in the 99th percentile now. On physical exam, he has an enlarged tongue and no other dysmorphic features. There are also some physical exam findings in Figures A and B, but since I can't see the figures, I need to think about what conditions could present with these symptoms.
+
+Enlarged tongue (macroglossia) is a key finding here. Macroglycemia can be seen in several conditions. One of the first things that comes to mind is Beckwith-Wiedemann syndrome (BWS), which is a condition associated with overgrowth, macroglossia, omphalocele, hypoglycemia in newborns, and an increased risk of certain tumors like Wilms tumor and hepatoblastoma.
+
+The patient's history of macrosomia at birth (99th percentile) and neonatal hypoglycemia fits with BWS. Also, being in the 99th percentile for height and weight now continues the overgrowth pattern. The question is about which organ to screen for abnormalities. Since BWS is associated with an increased risk of renal tumors (Wilms tumor) and hepatoblastoma, the screening would involve imaging of the abdomen, probably ultrasound, to check the kidneys and liver.
+
+Looking at the options, the choices are adrenal glands, bone, eyes, kidneys, thyroid. If the concern is Wilms tumor, then the answer would be kidneys (D). However, hepatoblastoma involves the liver, but that's not one of the options here. The options include kidneys, which are part of the abdominal organs at risk in BWS.
+
+Another thought: sometimes, other conditions can cause macroglossia. For example, hypothyroidism can cause macroglossia, but in that case, there would be other signs of hypothyroidism like goiter, dry skin, constipation, etc. The question says there are no other dysmorphic features. Also, the history of neonatal hypoglycemia and macrosomia points more towards BWS than hypothyroidism. But the options include thyroid gland (E). However, if the question is about screening for tumors associated with the syndrome, then kidneys would be more relevant.
+
+The physical exam findings in Figures A and B might be other signs of BWS. For example, they might show an omphalocele or ear creases, which are common in BWS. Since the patient has macroglossia and a history consistent with BWS, the screening would be for the associated tumors. Wilms tumor is a kidney tumor, so screening would involve kidney imaging. So the answer would be D: Kidneys.
+
+Alternatively, if there were other features, maybe another organ. But given the options and the most likely diagnosis here, the answer is D.
+</think>
+<answer>
+### Clinical Summary
+
+A 5-year-old male presents for a well-child visit with a history of:
+
+- **Birth weight in the 99th percentile**
+- **Unexplained hypoglycemia in the first week of life**
+- **Current height and weight in the 99th percentile**
+- **Enlarged tongue (macroglossia)**
+- **No other dysmorphic features**
+
+The child is otherwise healthy, developmentally on track, and socially engaged. Physical findings in **Figures A and B** (not visible to us) likely reinforce the suspicion of a specific diagnosis.
+
+---
+
+### Key Diagnostic Consideration
+
+The constellation of symptoms—**macroglossia, neonatal hypoglycemia, and overgrowth**—strongly suggests **Beckwith-Wiedemann Syndrome (BWS)**, a pediatric overgrowth disorder associated with **genomic imprinting abnormalities**, particularly on **chromosome 11p15.5**.
+
+#### Features of BWS include:
+- **Macroglossia**
+- **Neonatal hypoglycemia**
+- **Macrosomia at birth**
+- **Omphalocele**
+- **Ear creases or pits**
+- **Abdominal wall defects**
+- **Increased risk of embryonal tumors** (e.g., **Wilms tumor**, **hepatoblastoma**)
+
+---
+
+### Screening Implications
+
+Given the strong suspicion of **BWS**, the child is at **increased risk for malignancies**, especially **Wilms tumor (nephroblastoma)**. Therefore, **abdominal ultrasound** is the **standard screening modality** for **renal tumors** in children with BWS.
+
+- **Wilms tumor** is the **most common childhood renal tumor** and is known to occur more frequently in children with BWS.
+- **Hepatoblastoma** is another tumor of concern, but **liver is not one of the listed screening options**.
+- Other organ systems (e.g., adrenal, thyroid, bone, eyes) are **not typically associated with the tumor risk in BWS**.
+
+---
+
+### Final Answer
+
+$$
+\boxed{D}
+$$
+</answer>

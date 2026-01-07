@@ -1,0 +1,80 @@
+<think>
+Okay, let's see. The patient is a 35-year-old woman with left cheek pain for 3 days. The pain happens every few hours, lasts 30-60 seconds, and is worse when she chews or brushes her teeth. She had a history of a vesicular rash in the right axillary area a year ago. She also had an upper respiratory infection two weeks ago. Physical exam is normal.
+
+First, I need to think about the possible options. The choices are cluster headache, trigeminal neuralgia, postherpetic neuralgia, sinus headache, or temporal arteritis. Let's break down the symptoms.
+
+The key features here are the brief, severe pain episodes triggered by chewing and brushing. Trigeminal neuralgia is known for causing sharp, electric shock-like pain in the face, typically triggered by everyday activities like chewing, speaking, or touching the face. The duration of each attack being 30-60 seconds fits with trigeminal neuralgia. Also, the fact that it's in the left cheek, which is part of the trigeminal nerve distribution. The physical exam being normal is also in line with this, as there's no visible lesion or rash.
+
+Now, looking at her history. She had a vesicular rash in the right axilla a year ago. That makes me think of shingles (herpes zoster), which is caused by VZV reactivation. Postherpetic neuralgia is a possibility, but the rash was in the axillary area a year ago. Postherpetic neuralgia usually follows a rash and causes pain in the same dermatome. However, her current pain is on the left cheek, which is a different area. Also, postherpetic neuralgia tends to be more constant and burning, not the brief paroxysms she's describing. Plus, it's been a year since the rash, so if it were postherpetic, maybe the pain would still be in the axillary area.
+
+She had an upper respiratory infection two weeks ago. Maybe that's a trigger for trigeminal neuralgia? Sometimes infections can trigger it. Trigeminal neuralgia is often idiopathic but can be triggered by viral infections or other factors.
+
+Cluster headaches are typically around one eye, with associated autonomic symptoms like tearing, redness, nasal congestion. The pain is more continuous and lasts much longer than 60 seconds, often 30-180 minutes. Also, they occur in clusters over weeks or months. The patient's symptoms don't fit that.
+
+Sinus headaches are usually dull and constant, worsened by bending forward. They might have associated symptoms like nasal congestion, fever, or tenderness over the sinuses. The physical exam is normal here, so no tenderness. Also, the brief nature of the pain doesn't fit a sinus issue.
+
+Temporal arteritis is more common in older people (over 50), presents with headache, temple tenderness, possible visual symptoms. She's 35, so less likely. Also, physical exam would show tenderness or other signs if present.
+
+So putting it all together: the classic trigeminal neuralgia presentation with trigger points (chewing, brushing), short duration attacks, and no physical findings. The history of shingles in a different area a year ago is probably a distractor here. So the answer should be B: Trigeminal neuralgia.
+</think>
+<answer>
+To determine the most likely diagnosis for this patient, we must carefully analyze the clinical presentation and correlate it with the pathophysiology and typical features of the given options.
+
+---
+
+### Clinical Summary:
+- **Age:** 35-year-old woman  
+- **Chief complaint:** Left cheek pain for 3 days  
+- **Pain characteristics:**  
+  - Occurs every few hours  
+  - Lasts 30–60 seconds  
+  - Aggravated by chewing and brushing  
+- **Past medical history:**  
+  - Vesicular rash in right axilla 1 year ago  
+  - Upper respiratory infection 2 weeks ago  
+- **Physical exam:** No abnormalities  
+
+---
+
+### Evaluation of Options:
+
+#### **A. Cluster Headache**
+- Typically presents as **severe, unilateral orbital or periorbital pain**, often with **autonomic features** (e.g., lacrimation, ptosis, nasal congestion).
+- Episodes are **longer** (15–180 minutes), occur in **clusters**, and are not typically triggered by **chewing** or **brushing**.
+- **Does not fit** the patient's brief, episodic, and activity-triggered pain.
+
+#### **B. Trigeminal Neuralgia**
+- Characterized by **paroxysmal, lancinating, sharp pain** in the **trigeminal nerve distribution**, typically the **cheek**, jaw, or lips.
+- Classic **triggers** include **chewing**, **brushing teeth**, **talking**, or **touching the face**.
+- Pain is **brief** (10–120 seconds), and often **intermittent**.
+- **No physical findings** are typically seen, and the condition can be **idiopathic or post-viral** (e.g., following a viral infection like the URTI in this patient).
+- This **matches the clinical picture** perfectly.
+
+#### **C. Postherpetic Neuralgia**
+- Occurs **after** a herpes zoster infection and causes **persistent pain** in the affected dermatome.
+- The patient had a **vesicular rash in the right axilla a year ago**, but her **current pain is in the left cheek**, which is **not the same dermatome**.
+- Postherpetic neuralgia is typically **burning** or **tingling**, not the **sharp, brief pain** described.
+- **Unlikely** due to **anatomic mismatch** and **pain characteristics**.
+
+#### **D. Sinus Headache**
+- Typically presents with **dull, constant pressure**, worsened by **bending forward**.
+- May be associated with **nasal congestion**, **fever**, or **facial tenderness**.
+- The patient has **no tenderness** or other signs of sinusitis, and the **episodic nature** of the pain is not consistent with sinus disease.
+- **Unlikely** given the **lack of sinus symptoms** and **normal physical exam**.
+
+#### **E. Temporal Arteritis**
+- Most common in **elderly patients** (over 50 years).
+- Presents with **headache**, **temporal tenderness**, **visual disturbances**, and **elevated ESR**.
+- The patient is **35 years old**, and **no systemic signs or symptoms** are present.
+- **Highly unlikely** given the **age and clinical context**.
+
+---
+
+### Conclusion:
+
+The **most consistent diagnosis** with the patient's **symptoms of brief, sharp, activity-triggered facial pain** is **Trigeminal Neuralgia**. The history of a **recent upper respiratory infection** could be a **potential trigger**, and the **absence of physical findings** is in line with this condition.
+
+$$
+\boxed{B}
+$$
+</answer>

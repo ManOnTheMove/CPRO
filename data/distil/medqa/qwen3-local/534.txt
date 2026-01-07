@@ -1,0 +1,58 @@
+<think>
+Okay, let's try to figure out this question. So the patient is a 25-year-old woman who's planning to conceive. She has high blood pressure, and her father died of heart failure. Her BP is 150/100, which is stage 1 hypertension. She didn't take any medications, and she didn't follow up on her primary care doctor's advice. The tests are normal except for a renal angiogram. The question is asking for the most likely cause of her hypertension.
+
+First, I need to think about the possible causes of hypertension in a young woman. Since she's young, secondary causes are more likely than primary (essential) hypertension. The options given are atherosclerosis, adult polycystic kidney disease, glomerulonephritis, fibromuscular hyperplasia, and pheochromocytoma.
+
+Let me go through each option. 
+
+A: Atherosclerosis. But atherosclerosis is more common in older people, especially with risk factors like smoking, high cholesterol, etc. The patient is 25, doesn't smoke, and doesn't have other risk factors mentioned. Plus, atherosclerosis would cause narrowing of the arteries, but renal artery stenosis due to atherosclerosis is more common in older adults. So maybe not the best answer here.
+
+B: Adult polycystic kidney disease (APKD). This is a genetic disorder, but usually presents with cysts in the kidneys. However, the patient's father had heart failure, not kidney issues. Also, APKD can cause hypertension, but the renal angiogram would show something like multiple cysts or maybe renal artery issues? I'm not sure. But the question says the tests are normal except the renal angiogram. If it's APKD, maybe the angiogram would show something else. Also, APKD is more common in adults, but the patient is 25, which is possible. But I'm not certain.
+
+C: Glomerulonephritis. This is inflammation of the glomeruli. It can cause hypertension, but usually, there would be other signs like proteinuria, hematuria, or renal dysfunction. The question says that everything else is normal except the renal angiogram. So if glomerulonephritis was the cause, maybe there would be abnormalities in other tests. But maybe not? I'm not sure. Also, acute glomerulonephritis might present with sudden hypertension, but the patient's history is that her BP was elevated on most visits, so maybe chronic. But again, the renal angiogram is the only abnormal test. So maybe not the answer.
+
+D: Fibromuscular hyperplasia. This is a condition where there's abnormal growth of the cells in the walls of the arteries, leading to narrowing. It's more common in young women, especially in the renal arteries. This can cause hypertension, and the renal angiogram would show the characteristic "string of beads" appearance. Since the patient is young, and the only abnormal test is the renal angiogram, this seems like a strong possibility. Fibromuscular dysplasia (FMD) is a common cause of secondary hypertension in young women. 
+
+E: Pheochromocytoma. This is a tumor of the adrenal gland that secretes catecholamines, causing episodic hypertension. But the patient's BP is consistently elevated, not episodic. Also, pheochromocytoma might present with other symptoms like sweating, palpitations, headaches. The question doesn't mention these. Also, the tests would include checking for catecholamines, which might be normal if it's not active. But the question says everything is normal except the renal angiogram. So maybe not pheochromocytoma.
+
+So putting it all together: The patient is young, female, with hypertension, and the only abnormal test is the renal angiogram. Fibromuscular hyperplasia (option D) is a common cause in young women, and the renal angiogram would show the characteristic findings. Atherosclerosis is less likely in a 25-year-old. APKD might be possible, but the presentation and family history (father's heart failure) might not directly point to that. Glomerulonephritis would have other renal abnormalities. Pheochromocytoma is less likely due to the consistent BP and lack of other symptoms. 
+
+So the answer is D: Fibromuscular hyperplasia.
+</think>
+<answer>
+To determine the most likely cause of the patient’s hypertension, we must consider the clinical context, age, and the specific findings from the tests. The patient is a 25-year-old woman with a history of consistently elevated blood pressure, but no other significant symptoms or abnormal test results, except for a renal angiogram.
+
+---
+
+### Key Clinical Points:
+- **Age**: 25 years old, which is relatively young for essential (primary) hypertension.
+- **Symptoms**: No specific symptoms, and she feels good despite the elevated BP.
+- **Family History**: Father died of heart failure, not directly related to renal disease.
+- **Physical Exam**: Unremarkable.
+- **Other Tests**: Normal, except for the **renal angiogram**.
+- **Blood Pressure**: 150/100 mmHg (Stage 1 Hypertension).
+
+---
+
+### Evaluation of Options:
+
+- **A. Atherosclerosis**: This is more common in older adults and typically affects large arteries. It is less likely in a 25-year-old without significant risk factors (e.g., smoking, hyperlipidemia). Also, atherosclerotic renal artery stenosis is rare in this age group.
+
+- **B. Adult Polycystic Kidney Disease (APKD)**: This is a genetic condition, and although it can cause hypertension, it would likely be associated with other findings such as renal cysts, family history of kidney disease, or renal insufficiency. The question provides no such evidence.
+
+- **C. Glomerulonephritis**: This is an inflammatory condition of the glomeruli, which may cause hypertension and renal dysfunction. However, it is usually associated with other signs like hematuria, proteinuria, or elevated creatinine. The question states that all tests are normal except the renal angiogram, making this less likely.
+
+- **D. Fibromuscular Hyperplasia (FMD)**: This is a condition that affects the arterial walls, particularly in the renal arteries, and is **most common in young women**. It can lead to **secondary hypertension** and is often diagnosed via **renal angiogram**, which may show a "string of beads" appearance. This matches the patient's age, clinical presentation, and the abnormal renal angiogram.
+
+- **E. Pheochromocytoma**: This is a tumor of the adrenal gland that causes episodic hypertension. The patient’s BP is consistently elevated, and there are no signs of classic symptoms (e.g., sweating, palpitations, headaches). Additionally, this condition is not typically detected by a renal angiogram.
+
+---
+
+### Conclusion:
+
+Given the patient’s age, the presence of consistently elevated BP, and the only abnormal test being the **renal angiogram**, **fibromuscular hyperplasia** is the most likely cause of her hypertension. It is a known cause of **secondary hypertension in young women**, and the renal angiogram findings would be consistent with this diagnosis.
+
+$$
+\boxed{D}
+$$
+</answer>

@@ -1,0 +1,63 @@
+<think>
+Okay, let's try to figure out this question. So, the question is about a scientist isolating the rough endoplasmic reticulum (RER) from HeLa cells and then doing a northern blot to isolate nucleic acid sequences. The question is asking which molecules are part of the structure that was separated. The options are RNA polymerase, transfer RNA, ribosomal RNA, mitochondrial RNA, and small nuclear RNA.
+
+First, I need to recall what the rough endoplasmic reticulum is. The RER is studded with ribosomes, right? So the "rough" appearance comes from the ribosomes attached to its surface. The ribosomes are involved in protein synthesis. Now, the scientist is doing a northern blot. Northern blot is a technique used to detect specific RNA molecules in a sample. So they're looking for RNA sequences.
+
+The question is about the structure that was separated. Since they isolated the RER, which has ribosomes, the molecules in question would be those associated with the RER. The ribosomes themselves are made up of ribosomal RNA (rRNA) and proteins. So when they isolated the RER, they might have separated the ribosomes, which contain rRNA. 
+
+Looking at the options: option C is ribosomal RNA. That seems like a candidate. But let me check the other options. 
+
+RNA polymerase (A) is an enzyme involved in transcription, but I don't think it's part of the RER structure. Transfer RNA (B) is involved in carrying amino acids during translation. However, tRNA is present in the cytoplasm and also in the ribosomes. But the question is about the structure of the RER. The RER's structure includes ribosomes, which have rRNA. 
+
+Mitochondrial RNA (D) would be from mitochondria, but the question is about RER, so probably not. Small nuclear RNA (E) is involved in splicing, found in the nucleus. So not part of the RER.
+
+So the answer should be C: Ribosomal RNA. Because the ribosomes on the RER contain rRNA. The northern blot would detect RNA sequences, and rRNA is part of the ribosome structure. 
+
+Wait, but the question says "molecules make up part of the structure that was separated." The structure here is the RER, which includes ribosomes. The ribosomes are made of rRNA and proteins. So the rRNA is part of that structure. Therefore, C is correct. The other options don't fit. Transfer RNA is part of the translation process but not a structural component of the RER. So I think the answer is C.
+</think>
+<answer>
+To answer the question, we must consider the composition of the **rough endoplasmic reticulum (RER)** and what is being analyzed in a **northern blot**.
+
+---
+
+### Understanding the RER Structure
+
+The **rough endoplasmic reticulum** is a membranous network of sacs and tubules that is **studded with ribosomes**, giving it a "rough" appearance. These ribosomes are responsible for **protein synthesis**, particularly for proteins that are either secreted or embedded in membranes. The **ribosomes themselves** are composed of **ribosomal RNA (rRNA)** and **proteins**.
+
+---
+
+### What is a Northern Blot?
+
+A **northern blot** is a molecular biology technique used to detect **specific RNA molecules** in a sample. It involves transferring RNA from a gel to a membrane and then hybridizing it with a labeled probe. The goal is to identify and quantify particular **nucleic acid sequences**.
+
+---
+
+### Analyzing the Options
+
+Let’s evaluate each option in the context of the **structure of the RER** and what a northern blot would detect:
+
+- **A: RNA polymerase**  
+  This is an **enzyme** involved in **transcription**, not a structural component of the RER. It is not part of the ribosome or the RER structure.
+
+- **B: Transfer RNA (tRNA)**  
+  tRNA is involved in **translation**, delivering amino acids to the ribosome. While it is present in the cytoplasm and at the ribosome, it is **not a structural component** of the RER itself.
+
+- **C: Ribosomal RNA (rRNA)**  
+  **This is the correct answer.** The **ribosomes** attached to the RER are made of **rRNA and proteins**, and **rRNA is a structural component** of the ribosome. Since the RER is isolated and the northern blot is used to detect RNA sequences, **rRNA would be part of the structure that was separated**.
+
+- **D: Mitochondrial RNA**  
+  This is associated with **mitochondria**, not the RER. The question is about RER, so this is irrelevant.
+
+- **E: Small nuclear RNA (snRNA)**  
+  snRNA is involved in **RNA splicing** and is found in the **nucleus**, not the RER.
+
+---
+
+### Final Conclusion
+
+The **structure of the RER** includes **ribosomes**, and the **ribosomes contain rRNA**. Therefore, **ribosomal RNA (rRNA)** is the molecule that makes up part of the structure that was separated during the isolation of the RER and detected in the northern blot.
+
+$$
+\boxed{C}
+$$
+</answer>

@@ -1,0 +1,70 @@
+<think>
+Okay, let's see. The patient is a 26-year-old woman who had rotator cuff repair surgery a week ago. Now she's having some issues. The physical exam shows decreased sensation on the lateral shoulder. She can move her shoulder passively normally, but has trouble externally rotating and abducting her right arm. The question is which nerve was injured during surgery.
+
+First, I need to recall the nerves involved in shoulder movement and sensation. The rotator cuff involves several muscles, like supraspinatus, infraspinatus, teres minor, and subscapularis. Their innervation is important here.
+
+The axillary nerve comes to mind because it innervates the teres minor and the deltoid muscle. If that's damaged, you'd have trouble with abduction (since deltoid is key for abduction, especially in the middle range) and external rotation (teres minor). Also, the axillary nerve provides sensation to the lateral shoulder via the superior lateral cutaneous nerve of the arm. So decreased sensation there plus weakness in abduction and external rotation points to axillary nerve injury.
+
+The radial nerve is more involved in extension and wrist movement. If it were injured, she might have issues with forearm extension, wrist drop, but that's not what's happening here. So probably not A.
+
+Upper trunk of the brachial plexus (B) is Erb's point. Injury here affects the musculocutaneous, axillary, and suprascapular nerves. But Erb's palsy typically presents with internal rotation, adduction, and flexion of the arm (waiter's tip position). Also, sensation might be affected in different areas. But here, the main issue is external rotation and abduction. Maybe the upper trunk includes the axillary nerve, but I think the upper trunk is more about the supraspinatus and infraspinatus via the suprascapular nerve. Wait, but if the upper trunk is injured, you might have weakness in abduction (if deltoid is affected) but also in shoulder elevation from supraspinatus. However, the sensory loss here is lateral shoulder, which is axillary. So maybe C is more specific.
+
+Lower trunk (D) of the brachial plexus involves C8 and T1. That affects the ulnar nerve and some other muscles. Sensory loss would be on the medial forearm or hand, not lateral shoulder. So D is unlikely.
+
+Long thoracic nerve (E) innervates the serratus anterior. Injury leads to winging of the scapula, especially noticeable when pushing against resistance. But the problem here is with shoulder movement (abduction and rotation), not scapular stability. So probably not E.
+
+So putting it together: axillary nerve (C) is the most likely answer. The decreased sensation on lateral shoulder and weakness in abduction (deltoid) and external rotation (teres minor) fit with axillary nerve injury. The radial nerve (A) is a distractor here, but the symptoms don't match. The upper trunk (B) could involve axillary nerve, but the question is about a specific structure injured. Since the axillary nerve is a direct branch, and the symptoms match, C is the best choice.
+</think>
+<answer>
+To determine which nerve was most likely injured during the patient’s rotator cuff repair surgery, we must analyze the clinical presentation and correlate it with the anatomic functions of the relevant nerves.
+
+---
+
+### **Clinical Presentation Summary:**
+- **Post-operative status:** 1 week after **rotator cuff repair**.
+- **Neurological findings:**
+  - **Decreased sensation** to pinprick and light touch over the **lateral shoulder**.
+  - **Normal passive range of motion** in the shoulder.
+  - **Weakness in active external rotation** and **abduction** of the right arm.
+
+---
+
+### **Relevant Anatomy and Nerve Functions:**
+
+- **Axillary Nerve (C5, C6):**
+  - **Motor:** Innervates the **deltoid** (important for abduction, especially between 15° and 90°) and the **teres minor** (primary external rotator).
+  - **Sensory:** Supplies the **superior lateral cutaneous nerve of the arm**, which is responsible for sensation over the **lateral shoulder**.
+
+- **Radial Nerve (C5–T1):**
+  - Primarily involved in **forearm extension** and **wrist extension**.
+  - Sensory distribution is over the **posterior arm and forearm**, not the lateral shoulder.
+
+- **Brachial Plexus Trunks:**
+  - **Upper Trunk (C5–C7):** Includes the **suprascapular nerve** (innervates supraspinatus and infraspinatus) and the **axillary nerve**.
+    - Injury may cause **abduction weakness** and **external rotation weakness**, but also presents with **internal rotation** (waiter’s tip posture), which is not seen here.
+  - **Lower Trunk (C8–T1):** Affects **ulnar nerve** and medial forearm/hand sensation—not relevant to lateral shoulder issues.
+
+- **Long Thoracic Nerve (C5–C7):**
+  - Innervates the **serratus anterior**.
+  - Injury leads to **scapular winging**, especially during arm elevation.
+  - Not associated with lateral shoulder sensory loss or abduction/external rotation weakness.
+
+---
+
+### **Analysis:**
+
+- The **lateral shoulder sensory loss** is a **key clue** pointing to the **axillary nerve**, as it is the only nerve that provides **sensory innervation to that specific area**.
+- The **motor deficits** (difficulty with abduction and external rotation) also align with **axillary nerve dysfunction**, since it innervates the **deltoid** (abduction) and **teres minor** (external rotation).
+- Passive range of motion is preserved, ruling out mechanical restriction or joint-related issues.
+- The **specificity** of the sensory and motor deficits supports the conclusion that the **axillary nerve**, rather than a broader brachial plexus structure, was injured.
+
+---
+
+### **Conclusion:**
+
+The clinical findings are **most consistent** with **axillary nerve injury**, making this the **most likely** structure injured during the surgery.
+
+$$
+\boxed{C}
+$$
+</answer>

@@ -1,0 +1,58 @@
+<think>
+Okay, let's see. The question is about a researcher using bacteria to clone a mutated gene. She made a circular DNA segment with the gene of interest and an antibiotic resistance gene. Then she introduced this DNA to competent bacteria and plated them on media with the antibiotic. The question is asking which process was necessary for the bacteria to survive and have copies of the gene.
+
+First, I need to remember the different processes listed here: conjugation, transduction, transfection, transformation, transposition.
+
+Let me go through each option. 
+
+Conjugation is the transfer of genetic material between bacteria via direct contact, usually through a pilus. This often involves plasmids. But in the question, the researcher is introducing the DNA into the bacteria, not the bacteria transferring it themselves. So maybe not conjugation.
+
+Transduction involves bacteriophages transferring DNA from one bacterium to another. That's a virus-mediated process. The question doesn't mention phages, so probably not transduction.
+
+Transfection is the process of introducing foreign DNA into eukaryotic cells. Since the question is about bacteria, transfection is not applicable here. So probably not option C.
+
+Transformation is the process by which bacteria take up foreign DNA from their environment. The question mentions "competent bacteria," which I remember refers to bacteria that are capable of taking up exogenous DNA. So if the researcher introduced the DNA (maybe by heat shock or something to make them competent), then transformation would be the process here. The bacteria take up the circular DNA (plasmid), which has the antibiotic resistance gene. When plated on media with the antibiotic, only those bacteria that successfully took up the plasmid (and thus gained resistance) would survive. So transformation seems right.
+
+Transposition is the movement of genetic elements (like transposons) within the genome. Doesn't seem related to taking up external DNA. So probably not E.
+
+So the answer is D: Transformation.
+</think>
+<answer>
+To determine which process allowed the bacteria to survive and contain the gene of interest, we must analyze the experimental setup and the definitions of the listed processes.
+
+---
+
+### Experimental Context
+
+The researcher is using **competent bacteria** and introducing a **small, circular DNA segment** that includes:
+- A **mutated gene of interest**
+- An **antibiotic resistance gene**
+
+After introduction, the bacteria are plated on **media containing the antibiotic**. Only bacteria that have **successfully acquired the resistance gene** will survive.
+
+---
+
+### Process Analysis
+
+Let’s briefly define each process:
+
+- **Conjugation**: Involves the transfer of DNA between two bacteria via direct physical contact (often through a pilus), typically involving plasmids. This is not the case here, as the DNA is introduced externally, not transferred from one bacterium to another.
+
+- **Transduction**: A process where DNA is transferred between bacteria via bacteriophages (viruses that infect bacteria). Again, the setup does not involve viruses, so this is not the mechanism.
+
+- **Transfection**: This is a term typically used in the context of **eukaryotic cells**, not bacteria. It refers to the introduction of foreign DNA into eukaryotic cells. Since we are dealing with **bacteria**, this is not applicable.
+
+- **Transformation**: This is the **uptake of exogenous DNA from the surrounding environment** by a **competent** bacterial cell. This is **exactly** the process that occurs when a researcher introduces plasmid DNA into bacteria. The bacteria take up the DNA, and if the DNA contains an antibiotic resistance gene, they will be able to survive on selective media.
+
+- **Transposition**: This refers to the movement of **mobile genetic elements** (like transposons) within the genome of an organism. It is not involved in the uptake of external DNA.
+
+---
+
+### Conclusion
+
+The process that enabled the bacteria to take up the circular DNA and express the antibiotic resistance gene — allowing them to **survive on the selective media** — is **transformation**. This is a key technique in molecular biology for introducing and cloning genes in bacteria.
+
+$$
+\boxed{D}
+$$
+</answer>
