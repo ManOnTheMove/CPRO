@@ -37,7 +37,7 @@ def medqa_prep(split="test"):
 
 def medmcqa_prep(split="dev"):
     # Read medmcqa_test.json and fit the prompt template
-    with open(os.path.join("data", f"medmcqa_{split}.json"), "r") as file:
+    with open(os.path.join("data", "raw", f"medmcqa_{split}.json"), "r") as file:
         lines = file.readlines()
     
     data = []
@@ -65,7 +65,9 @@ def medmcqa_prep(split="dev"):
         if record["choice_type"] == "multi":
             choice_type_line = "This question is a multi-choice question. There could be more than one correct answer.\n"
         record["question"] = record["question"].strip() + "\n" + choice_type_line + "\n".join([f"{key.strip()}: {value.strip()}" for key, value in record["options"].items()]).strip()
-        record["ground_truth"] = record["answer"] + "<SEP>" + split + f"{record['question_index']}<SEP>" + "<SEP>".join(record["options"].values())
+        answer = record.get("answer", record["options"].get(letter_answer, ""))
+        record["answer"] = answer
+        record["ground_truth"] = answer + "<SEP>" + split + f"{record['question_index']}<SEP>" + "<SEP>".join(record["options"].values())
 
         data.append(record)
     
@@ -79,7 +81,7 @@ def main():
     os.makedirs(save_dir, exist_ok=True)
     if dataset_name == "medqa":
         for split in ["train", "dev", "test"]:
-            df = medqa_prep(split="dev")
+            df = medqa_prep(split=split)
             df.to_csv(os.path.join("data", "processed", f"{dataset_name}_{split}.csv"), index=False)
 
             if split == "train" and sft_grpo_split:
@@ -90,7 +92,7 @@ def main():
 
     elif dataset_name == "medmcqa":
         for split in ["train", "dev"]:
-            df = medqa_prep(split="dev")
+            df = medmcqa_prep(split=split)
             df.to_csv(os.path.join("data", "processed", f"{dataset_name}_{split}.csv"), index=False)
 
             if split == "train" and sft_grpo_split:
